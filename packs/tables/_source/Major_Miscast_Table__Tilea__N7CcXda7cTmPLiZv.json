@@ -1,0 +1,929 @@
+{
+  "name": "Major Miscast Table (Tilea)",
+  "img": "systems/wfrp4e/ui/buttons/d10.webp",
+  "results": [
+    {
+      "_id": "A1bC2dE3fG4hI5jK",
+      "type": "text",
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<strong>Wraith's Touch</strong>: Your entire body becomes chilling to the touch, as if frozen. It reverts to its original temperature at dawn the following day.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.A1bC2dE3fG4hI5jK"
+    },
+    {
+      "_id": "jb1XHbp1zxLiAlux",
+      "type": "text",
+      "range": [
+        5,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<strong>Death Walker</strong>: Your footsteps leave death in their wake. For the next [[1d10]] hours, any plant life near you withers and dies.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.jb1XHbp1zxLiAlux"
+    },
+    {
+      "_id": "V4Bs3QauofalMLq0",
+      "type": "text",
+      "range": [
+        9,
+        12
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<strong>Hellish Stench</strong>: You now smell really bad! You gain the @UUID[Compendium.wfrp4e-core.items.MVI0lXcg6vvtooAF]{Distracting} Creature Trait, and probably the enmity of anyone with a sense of smell. This lasts for [[1d10]] hours.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.V4Bs3QauofalMLq0"
+    },
+    {
+      "_id": "L6mN7oP8qR9sT0uV",
+      "type": "text",
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<p><strong>Loadstones</strong>: Every piece of metal on your body is magnetized for the next 1d10 days. Enemies get a +10 bonus to hit you if you arewearing metal armour and your weapons gain a +10 bonus to hit targets with metal armour.</p>",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.L6mN7oP8qR9sT0uV"
+    },
+    {
+      "_id": "W1xY2zA3bC4dE5fG",
+      "type": "text",
+      "range": [
+        18,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 3,
+      "description": "<strong>Silenced</strong>: You lose your voice for [[1d10]] rounds.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.W1xY2zA3bC4dE5fG"
+    },
+    {
+      "_id": "zXLM2OUqcCnDuMDH",
+      "type": "text",
+      "range": [
+        15,
+        17
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Speak in Tongues</strong>: You gabble unintelligibly for [[1d10]] rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.zXLM2OUqcCnDuMDH"
+    },
+    {
+      "_id": "S1tU2vW3xY4zA5bC",
+      "type": "text",
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<p><strong>Overload</strong>: You are overwhelmed by magical energy and gain 1 @Condition[Stunned] Condition</p>",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.S1tU2vW3xY4zA5bC"
+    },
+    {
+      "_id": "vNNrHPgBAsHCd50J",
+      "type": "text",
+      "range": [
+        23,
+        25
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 3,
+      "description": "<strong>Regurgitation</strong>: You spew uncontrollably, throwing up far more foul-smelling vomitus than your body can possibly contain. Gain the @Condition[Stunned] Condition, which lasts for [[1d10]] Rounds.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.vNNrHPgBAsHCd50J"
+    },
+    {
+      "_id": "3YoLsgLQE5pEPtbq",
+      "type": "text",
+      "range": [
+        26,
+        27
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Double Trouble</strong>: The effect of the spell you cast occurs elsewhere within [[1d10]] miles. At the GM's discretion, it should have consequences whenever possible.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.3YoLsgLQE5pEPtbq"
+    },
+    {
+      "_id": "D6eF7gH8iJ9kL0mN",
+      "type": "text",
+      "range": [
+        28,
+        29
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Chaotic Wind</strong>: Chaos blows through [[1d10]] magical spell ingredients you are carrying. Next time you use them for a spell, roll on the @Table[minormis]{Minor Miscast Table}. If you have no spell ingredient that can absorb this energy, immediately roll on the Catastrophic Miscast Table instead.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.D6eF7gH8iJ9kL0mN"
+    },
+    {
+      "_id": "O1pQ2rS3tU4vW5xY",
+      "type": "text",
+      "range": [
+        30,
+        31
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<p><strong>Channel Conflagration</strong>: The channels of magic in your body are set ablaze by coursing magic. You suffer a −10 penalty to every Channelling and Casting roll in the next [[1d10]] hours.</p>",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.O1pQ2rS3tU4vW5xY"
+    },
+    {
+      "_id": "87NnaV0qzi1ARjsO",
+      "type": "text",
+      "range": [
+        32,
+        33
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Darkling Sight</strong>: You lose the benefit of the @UUID[Compendium.wfrp4e-core.items.OEjUvJKi0xmBwbS2]{Second Sight} Talent for [[1d10]] hours. Channelling Tests also suffer a penalty of -20 for the duration.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.87NnaV0qzi1ARjsO"
+    },
+    {
+      "_id": "Z6aB7cD8eF9gH0iJ",
+      "type": "text",
+      "range": [
+        34,
+        35
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Mindnumb</strong>: You channel too much magical energy. You cannot cast any spell with a CN higher than 6 for [[1d10]] minutes.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.Z6aB7cD8eF9gH0iJ"
+    },
+    {
+      "_id": "jWgbCT72D0cuERJA",
+      "type": "text",
+      "range": [
+        36,
+        37
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Power Drain</strong>: You are unable to use the Talent used to cast the spell (usually @UUID[Compendium.wfrp4e-core.items.3O9clK7LGyuLTHPW]{Arcane Magic}), for [[1d10]] minutes.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.jWgbCT72D0cuERJA"
+    },
+    {
+      "_id": "K1lM2nO3pQ4rS5tU",
+      "type": "text",
+      "range": [
+        38,
+        41
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<p><strong>Enfeeblement</strong>: Chaos energy wracks your body, debilitating your constitution. Your Toughness Characteristic is reduced by -20 for [[1d10]] minutes.</p>",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.K1lM2nO3pQ4rS5tU"
+    },
+    {
+      "_id": "QpiIy70TxoRlrQSl",
+      "type": "text",
+      "range": [
+        42,
+        43
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Foul Enfeeblement</strong>: Gain 1 Corruption point, the @Condition[Prone] Condition, and a @Condition[Fatigued] Condition",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.QpiIy70TxoRlrQSl"
+    },
+    {
+      "_id": "acO1Bjieb09yCKDr",
+      "type": "text",
+      "range": [
+        44,
+        45
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Chaos Quake</strong>: All creatures within [[1d10]] yards must pass an <strong>Average (+20) Athletics</strong> Test or gain the @Condition[Prone] Condition.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.acO1Bjieb09yCKDr"
+    },
+    {
+      "_id": "CAiFiYv9ApW4tHV4",
+      "type": "text",
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Ragdoll</strong>: You are flung [[1d10]] yards through the air in a random direction, taking [[1d10]] wounds on landing, ignoring Armour Points, and receiving the @Condition[Prone] Condition.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.CAiFiYv9ApW4tHV4"
+    },
+    {
+      "_id": "08XaamNzFqbpPgA6",
+      "type": "text",
+      "range": [
+        48,
+        51
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<strong>Limb Frozen</strong>: One limb (randomly determined) is frozen in place for [[1d10]] hours. The limb is useless, as if it had been @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#amputated-parts]{Amputated}.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.08XaamNzFqbpPgA6"
+    },
+    {
+      "_id": "b7J41SQRIRZDxnAX",
+      "type": "text",
+      "range": [
+        52,
+        53
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Soulfire</strong>: Gain an @Condition[Ablaze] Condition, as you are wreathed in unholy flames with a colour associated with your Lore.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.b7J41SQRIRZDxnAX"
+    },
+    {
+      "_id": "QbuYfgaHsqrKc431",
+      "type": "text",
+      "range": [
+        54,
+        55
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Aethyric Shock</strong>: You suffer [[1d10]] wounds, ignoring your Toughness Bonus and Armour Points. Pass an <strong>Average (+20) Endurance</strong> Test, or also gain a @Condition[Stunned] Condition.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.QbuYfgaHsqrKc431"
+    },
+    {
+      "_id": "5ABpFrXi8E7NYvDC",
+      "type": "text",
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Levitation</strong>: You are borne aloft on the Winds of Magic, floating [[1d10]] yards above the ground for [[1d10]] minutes. Other characters may forcibly move you, and you may move using spells, wings or similar, but will continually return to your levitating position if otherwise left alone. Refer to the @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.bdfiyhEYtKs7irqc#falling]{Falling} rules for what happens when Levitation ends.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.5ABpFrXi8E7NYvDC"
+    },
+    {
+      "_id": "phqEKyxNBkpvz5OK",
+      "type": "text",
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Forgetfulness</strong>: The spell you are trying to cast is lost to your memory. If you had previously memorised the spell, you no longer recall it and must memorise it again. If casting from a grimoire, the page upon which the spell is written bursts into flames. The spell is lost and, unless appropriate action is taken quickly, the grimoire receives an @Condition[Ablaze] Condition.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.phqEKyxNBkpvz5OK"
+    },
+    {
+      "_id": "JPYM1WCFGkPi6uC7",
+      "type": "text",
+      "range": [
+        60,
+        63
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<strong>Ghostly Voices</strong>: Everyone within Willpower yards hears darkly seductive whispering of voices emanating from the Realm of Chaos. All sentient creatures must pass an <strong>Average (+20) Cool</strong> Test or gain 1 Corruption point.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.JPYM1WCFGkPi6uC7"
+    },
+    {
+      "_id": "V6wX7yZ8aB9cD0eF",
+      "type": "text",
+      "range": [
+        64,
+        67
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<strong>Ritual Echo</strong>: You glimpse a remnant of the Great Ritual and gain [[1d3]] Corruption Points. Any time after this event, you can spend 200xp and gain the Arcane Lore (Necromancy) talent.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.V6wX7yZ8aB9cD0eF"
+    },
+    {
+      "_id": "V8d1zeuacfY5BHkL",
+      "type": "text",
+      "range": [
+        68,
+        70
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 3,
+      "description": "<strong>Chaotic Foresight</strong>: Gain a bonus pool of [[1d10]] Fortune points (this may take you beyond your natural limit). Every time you spend one of these points, gain 1 Corruption point. Any of these points remaining at the end of the session are lost.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.V8d1zeuacfY5BHkL"
+    },
+    {
+      "_id": "G1hI2jK3lM4nO5pQ",
+      "type": "text",
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "description": "<strong>The Dead Walk!</strong>: [[1d10/2]] ancient Skeletons rise from the ground as wayward magical energy activates an echo of the Great Ritual and attack you next round. They can't attack in the round they appear, as they claw their way out of the ground, though can be attacked.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.G1hI2jK3lM4nO5pQ"
+    },
+    {
+      "_id": "9vSCA0HkDJvOzklf",
+      "type": "text",
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "description": "<strong>Swarmed</strong>: You are engaged by a swarm of aethyric @UUID[Compendium.wfrp4e-core.actors.oenbbB0PitRWUBfZ]{Rats}, @UUID[Compendium.wfrp4e-core.actors.VPVnyae6VHeD9cEP]{Giant Spiders}, @UUID[Compendium.wfrp4e-core.actors.AAiKqD1IoweDpJI7]{Snakes}, or similar (GM's choice). Use the standard profiles for the relevant creature type, adding the @UUID[Compendium.wfrp4e-core.items.E2Es82TvBKa7CoDG]{Swarm} Creature Trait. After [[1d10]] rounds, if not yet destroyed, the swarm retreats.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.9vSCA0HkDJvOzklf"
+    },
+    {
+      "_id": "LOmLEHhkMZ8CTaKn",
+      "type": "text",
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Traitor's Heart</strong>: The Dark Gods entice you to commit horrendous perfidy. Should you attack or otherwise betray an ally to the full extent of your capabilities, regain all Fortune points. If you cause another character to lose a Fate Point, gain +1 Fate Point.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.LOmLEHhkMZ8CTaKn"
+    },
+    {
+      "_id": "R7sT8uV9wX0yZ1aB",
+      "type": "text",
+      "range": [
+        83,
+        85
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 4,
+      "description": "<p><strong>Possession</strong>: You are possessed by a Daemonic entity or a Ghost for one minute. During that time, the GM controls all your actions, and when you take control of your body again, you have no memory of what you just did.</p>",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.R7sT8uV9wX0yZ1aB"
+    },
+    {
+      "_id": "C2dE3fG4hI5jK6lM",
+      "type": "text",
+      "range": [
+        91,
+        92
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 2,
+      "description": "<strong>Storm of Chaos</strong>: Roll on the @Table[minormis]{Minor Miscast Table}. Every creature within [[1d10]] yards suffers that effect.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.C2dE3fG4hI5jK6lM"
+    },
+    {
+      "_id": "N7oP8qR9sT0uV1wX",
+      "type": "text",
+      "range": [
+        93,
+        95
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 3,
+      "description": "<strong>Store of Chaos</strong>: Roll twice more on this table. The first roll is what happens now. The second roll (which the GM should make in secret) defines what will automatically happen the next time you cast a spell, in addition to any other miscast effects.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.N7oP8qR9sT0uV1wX"
+    },
+    {
+      "_id": "BlcaUpFd9zeLNdRM",
+      "type": "text",
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "description": "<strong>Aethyric Feedback</strong>: Everyone within a number of yards equal to your Willpower Bonus — friend and foe alike — suffers [[1d10]] wounds, ignoring Toughness Bonus and Armour Points, and receives the @Condition[Prone] Condition. If there are no targets in range, the magic has nowhere to vent, so your head explodes, killing you instantly.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.BlcaUpFd9zeLNdRM"
+    },
+    {
+      "_id": "Y2zA3bC4dE5fG6hI",
+      "type": "text",
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "description": "<strong>Trick of Fate</strong>: Roll on the Catastrophic Chaos Manifestation table instead.",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066124517,
+        "modifiedTime": 1793066124517
+      },
+      "_key": "!tables.results!N7CcXda7cTmPLiZv.Y2zA3bC4dE5fG6hI"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "wfrp4e": {
+      "key": "majormis",
+      "column": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.lHxkQ8gZTQQcWjxg",
+      "hash": "0376e0255ca7d0b88a1c788a0b5704c3911315fa"
+    }
+  },
+  "ownership": {
+    "Oxrm36DvLya7eQ7D": 3,
+    "XtBZYPNGm0g6PJIk": 3,
+    "default": 0
+  },
+  "description": "",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066124517,
+    "modifiedTime": 1793066124517,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "folder": "mtPuAqlU3IUrkthM",
+  "_id": "N7CcXda7cTmPLiZv",
+  "sort": 300000,
+  "_key": "!tables!N7CcXda7cTmPLiZv"
+}

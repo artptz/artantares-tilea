@@ -1,0 +1,108 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Miragliano",
+  "_id": "5SuUoTGaxSRm4wyt",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Miragliano",
+      "type": "text",
+      "_id": "INWisgYpBNfZqa6d",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The once-mighty city of Miragliano was the most powerful Tilean city, but its fate is now uncertain since it was overwhelmed by an army of Skaven in 2522. Many Tileans believe Miragliano will be rebuilt in a few years; meanwhile others claim it will take decades, or will never happen. Much like the regions of the Empire devastated by the Storm of Chaos, the ruined city of Miragliano would make an ideal starting place for adventurers thrown together by fate.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.artantares-tilea.journals.JournalEntry.oLc4qZ6N1M9Ru8e8.JournalEntryPage.INWisgYpBNfZqa6d",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142785,
+        "modifiedTime": 1793066142785,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!5SuUoTGaxSRm4wyt.INWisgYpBNfZqa6d"
+    },
+    {
+      "sort": 100000,
+      "name": "Demographics",
+      "type": "text",
+      "_id": "HVO4eN65ER7H9kJT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"subtitle\"><p>The Marsh City - Now in Ruins</p></div><div class=\"legend\"><p><strong>Settlement Size:</strong> CS=City State (any size), T=Town (1000-10000), ST=Small Town (100-1000), V=Village (1-100), F=Fort (any size)</p><p><strong>Wealth:</strong> 1=Impoverished, 2=Poor, 3=Average, 4=Prosperous, 5=Very Rich</p><p><strong>Garrison/Militia Quality:</strong> A=Excellent, B=Average, C=Poor</p></div><table><thead><tr style=\"color:white\"><th>Name</th><th>Size</th><th>Ruler</th><th>Population</th><th>Garrison</th><th>Wealth</th><th>Economy</th><th>Notes</th></tr></thead><tbody><tr class=\"capital-row\"><td><strong>Miragliano</strong></td><td><span class=\"size-cs\">CS</span></td><td>Duce Vincenzo Cornuti</td><td>93,000</td><td>200a / 400b / 2600c</td><td><span class=\"wealth-5\">5</span></td><td>Trade, Boatbuilding, Government, Fishing</td><td>Capital - Razed by Skaven 2522</td></tr><tr><td><strong>Toscania</strong></td><td><span class=\"size-cs\">CS</span></td><td>Duchesa Patrizia Malpighi</td><td>8,700</td><td>150a / 2000c</td><td><span class=\"wealth-3\">3</span></td><td>Trade, Wine, Ore, Goats</td><td>Semi-independent city-state</td></tr><tr><td><strong>Olino</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Silvio Donati</td><td>4,600</td><td>50b / 350c</td><td><span class=\"wealth-3\">3</span></td><td>Agriculture, Trade, Wine</td><td>Northern gateway town</td></tr><tr><td><strong>Firento</strong></td><td><span class=\"size-t\">T</span></td><td>Contessa Marina Foscari</td><td>4,100</td><td>45b / 300c</td><td><span class=\"wealth-3\">3</span></td><td>Trade, Textiles, Wine</td><td>Major inland town</td></tr><tr><td><strong>Udolpho</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Guilio Uberti</td><td>4,200</td><td>150a / 1000c</td><td><span class=\"wealth-3\">3</span></td><td>Ore, Timber, Wine</td><td>Mountain town</td></tr><tr><td><strong>Bonomia</strong></td><td><span class=\"size-t\">T</span></td><td>Doge Francesco Bellini</td><td>3,700</td><td>40b / 280c</td><td><span class=\"wealth-3\">3</span></td><td>Agriculture, Trade, Textiles</td><td>Prosperous market town</td></tr><tr><td><strong>Ebino</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Galeazzo</td><td>3,600</td><td>40a / 200c</td><td><span class=\"wealth-3\">3</span></td><td>Trade, Agriculture, Cattle</td><td></td></tr><tr><td><strong>Campogrotta</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Guido Novello</td><td>3,500</td><td>100a / 400b</td><td><span class=\"wealth-3\">3</span></td><td>Trade, Goats, Ore</td><td>Mountain trade center</td></tr><tr><td><strong>Padula</strong></td><td><span class=\"size-t\">T</span></td><td>Barone Cesare Grimaldi</td><td>2,800</td><td>30b / 200c</td><td><span class=\"wealth-2\">2</span></td><td>Agriculture, Cattle</td><td>Northwestern town</td></tr><tr><td><strong>Buche</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Aldo Barozzi</td><td>2,300</td><td>25b / 180c</td><td><span class=\"wealth-2\">2</span></td><td>Agriculture, Wine</td><td></td></tr><tr><td><strong>Liporno</strong></td><td><span class=\"size-t\">T</span></td><td>Contessa Giulia Corsini</td><td>1,800</td><td>20b / 120c</td><td><span class=\"wealth-3\">3</span></td><td>Fishing, Trade</td><td>Coastal port</td></tr><tr><td><strong>Ravola</strong></td><td><span class=\"size-st\">ST</span></td><td>Contessa Patrizia Malpighi</td><td>850</td><td>25b / 35c</td><td><span class=\"wealth-2\">2</span></td><td>Wine, Agriculture</td><td></td></tr></tbody></table><h3>Smaller Settlements</h3><table><thead><tr style=\"color:white\"><th>Name</th><th>Size</th><th>Est. Population</th></tr></thead><tbody><tr><td>Frago</td><td><span class=\"size-st\">ST</span></td><td>420</td></tr><tr><td>Vedona</td><td><span class=\"size-st\">ST</span></td><td>380</td></tr><tr><td>Barzo</td><td><span class=\"size-v\">V</span></td><td>95</td></tr><tr><td>Foppa</td><td><span class=\"size-st\">ST</span></td><td>340</td></tr><tr><td>Lazatta</td><td><span class=\"size-v\">V</span></td><td>75</td></tr><tr><td>Belunno</td><td><span class=\"size-st\">ST</span></td><td>450</td></tr><tr><td>Seregno</td><td><span class=\"size-st\">ST</span></td><td>390</td></tr><tr><td>Renate</td><td><span class=\"size-v\">V</span></td><td>85</td></tr><tr><td>Urio</td><td><span class=\"size-v\">V</span></td><td>70</td></tr><tr><td>Malonno</td><td><span class=\"size-st\">ST</span></td><td>310</td></tr><tr><td>Erba</td><td><span class=\"size-st\">ST</span></td><td>280</td></tr><tr><td>Breno</td><td><span class=\"size-v\">V</span></td><td>90</td></tr><tr><td>Cundo</td><td><span class=\"size-v\">V</span></td><td>65</td></tr><tr><td>Braone</td><td><span class=\"size-v\">V</span></td><td>55</td></tr></tbody></table><div class=\"note\"><p><strong>Pre-2522 Total Population:</strong> ~145,000. Following the Skaven destruction of Miragliano in 2522, this territory is largely abandoned or contested. Refugees fled primarily to Catrazza, Urbino, and Tobaro. Toscania remains independent. Other settlements are either destroyed, occupied by Skaven remnants, or have declared independence/allegiance to neighboring powers.</p></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142785,
+        "modifiedTime": 1793066142785,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!5SuUoTGaxSRm4wyt.HVO4eN65ER7H9kJT"
+    }
+  ],
+  "categories": [],
+  "sort": 450000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "bac7348b74ab4b394e4710f2bd25b7e270a18640"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142785,
+    "modifiedTime": 1793066142785,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!5SuUoTGaxSRm4wyt"
+}

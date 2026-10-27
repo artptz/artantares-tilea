@@ -1,0 +1,27 @@
+{
+  "type": "JournalEntry",
+  "folder": null,
+  "name": "I. Introduction",
+  "color": null,
+  "sorting": "m",
+  "_id": "MVgifQ6C9nqPkpfk",
+  "description": "",
+  "sort": 100000,
+  "flags": {
+    "scene-packer": {
+      "hash": "e7d08fb9c7445fcae64495daeaa7a452db68592e"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066140195,
+    "modifiedTime": 1793066140490,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!folders!MVgifQ6C9nqPkpfk"
+}

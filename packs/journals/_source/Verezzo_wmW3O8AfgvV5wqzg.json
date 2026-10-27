@@ -1,0 +1,810 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Verezzo",
+  "_id": "wmW3O8AfgvV5wqzg",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "History of Verezzo",
+      "type": "text",
+      "_id": "8HVdgE3ibE7VibWU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\"><span class=\"s1\">T</span>he city of Verezzo clings to the top of one of the foothills of the Appucini Mountains. Bordered by a steep drop to the river Riatti on the north and east, Verezzo sprawls across the top of the hill like a mushroom. Steep walls increase Verezzo’s height and keep the city's sprawl in check, so the only solution for those seeking protection is to build their houses ever upwards. Verezzo's famous white-washed walls and the towers of the rich can be seen from miles around, becoming a shining beacon in the scorching heat of the Tilean summer. The slopes around the city are worked by farmers trying to earn a living from the rocky terrain.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Originally one of the many small villages dotting the Appucini Mountains, Verezzo became an important staging post for armies around 500IC as the Orcs in the surrounding mountains were slowly driven southwards. Around 1000 IC Verezzo had grown enough to become the most important town in the area, exerting its influence over the smaller villages and farmsteads for miles around thanks to its veteran Condottieri and mercenaries. For the next hundred years or more Verezzo continued to grow, rapidly covering the entire hilltop until laws were eventually passed to restrict the city's sprawl and keep it defensible. Ever since, Verezzo’s walls and buildings have grown ever taller as the city became more crowded, and ironically harder to defend.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Early in the 15th century the city's fortunes were rapidly reversed. Clashes with Luccini over the grain supply from the plains and the rebellious towns along the River Riati led to a series of disastrous defeats. Verezzo’s armies were outdated and inexperienced, for the majority of the Orcs had been driven out long ago. The fifty-year war, as it came to be known, was characterised by the smaller towns changing sides repeatedly between Luccini and Verezzo, until the Alliance of Olesi saw them turn on both cities. Mass famine followed as a result, forcing both Luccini and Verezzo to capitulate and sign the humiliating treaty of 1505. A long, drawn out economic and political recession followed.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Around 1900, the city passed into the hands of the princes of the Lotta dynasty who slowly expanded its influence to cover much of the territory it had lost since the fifty years war. The Lotta princes also founded the Guild of Inventive Artificers and Engineers and many of the other guilds were formed under their rule. While the Lotta family held onto power for nearly 200 years, around 2250 they were replaced by a string of unpopular dukes and princes who aggravated the population by increasing taxes, letting marauding Condottiere pillage the surrounding villages and even banning races around the city, until the last prince of Verezzo, Jacopo della Lunigana came to power in 2321. When Jacopo attempted to profit from the poor harvests sweeping Tilea by charging almost ten times the previous price for bread with the help of the Orange Colours (mainly the bakers and allied trades guilds) the people rebelled. An orgy of destruction followed for nearly a week until a confederation of guilds finally restored order with the aid of newly hired mercenaries.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Drafting up a charter in the aftermath of the riots, the guilds publicly declared that Verezzo would become a free city run by the people and the guilds. Elections would be determined by votes from each city ward’s Colours. These would form the basis for the political parties that now dominate the city and host the sporting events that the city is so famous for. The citywide ball games and horse or chariot races are a Colour’s measure of popularity, the more residents dressed in a particular colour during the event, the more popular support that Colour has. However some individuals’ political affiliations are changed mid-match with the aid 0f a rival with a bucket of paint. Somehow though, the population manages to maintain control of the ballot, often electing the sponsors of the most daring or entertaining teams in the annual races, instead of the most costly team. Nowhere was this more evident than in 2502 when they elected the Greens over the Reds after the Greens chariot team chose to race on the treacherous sky bridges of the city rather than through the traditional piazzas of the city bottom. Sadly none of the Green team managed to return the next year. This year the Blue faction led by Signor Rossi are in a clear majority and have taken out numerous loans to ensure it remains this way when this year’s race and festival season start.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.8HVdgE3ibE7VibWU"
+    },
+    {
+      "sort": 200000,
+      "name": "The Viasotto",
+      "type": "text",
+      "_id": "8PrZEiEdhi26Pf4B",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">While the broad main streets that cut through the lowest level of Verezzo are hives of industry and commerce, it does not take long to wander into the realms of the underprivileged. Locals know these areas as the Viasotto, comprised of a maze of back streets with so many bridges built over them that they stand in perpetual shadows. Typically, only the desperate and insane stray into this level of the city, and even the city watch gives the Viasotto a wide birth. Criminal fraternities, forbidden cults and lepers all stalk these twilight streets, with rumours of Ghouls, Vampires and worse dwelling in the shadows.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Most of the buildings were once granaries, left over from the days when grain would be stored for year after year. Long ago left to fall into disrepair, some enterprising landlords have converted these buildings into tenements by erecting walls of wood or even simply carpets reinforced with matted layers of mud. Others stand derelict, occupied by squatters or vermin. Nevertheless, a few businesses are located here, chiefly lotus houses, pawnshops, taverns and cheap hostels catering to<span class=\"Apple-converted-space\"> </span>the Viasotto's citizens and rich bored young nobles who travel here to experience the exotic taste of poverty.<span class=\"Apple-converted-space\"> </span></p><p>In most Tilean cities, the associations of guilds known as Colours each maintain a large Palazzo, which is used as a social club where the more important members can gather. In Verezzo these Palazzos are even more pronounced, with the Colours being the dominant forces in the republics political processes. Most of these Colour-houses are nestled among the pinnacles of the city, each competing to be the tallest, grandest and most opulent.<span class=\"Apple-converted-space\"> </span></p><blockquote class=\"sidebar\"><h3><em><strong>Verezzos's Colour Palazzi</strong></em></h3><p>In most Tilean cities, the associations of guilds known as Colours each maintain a large Palazzo, which is used as a social club where the more important members can gather. In Verezzo these Palazzos are even more pronounced, with the Colours being the dominant forces in the republics political processes. Most of these Colour-houses are nestled among the pinnacles of the city, each competing to be the tallest, grandest and most opulent.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\">Some of these Palazzos were custom built while other Colours have taken over existing structures. For example, the Greens make their home in the old palace of the Lotta family, once home to the Duces that ruled over the City- State, while the Reds recently moved to a new and expansive building at the very top of Verezzo’s towers. Each Palazzo is home to extravagant parties thrown by the city’s elite, and competition for the best of Verezzo’s entertainers, chiefs and artisans is heated, often leading to bouts of rioting and assassination.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\">While theoretically all Colours are equal, the Yellows, Reds, Greens and Blues dominate the city, while the Whites, Purples and Oranges are effectively marginalised. At no time is this more evident than the “Festa della Republica” when the elaborate voting system of the city swings into gear to elect which party will dominate the senate next year. This day is known for both its drunken celebration and rioting, as many brightly dressed supporters clash around the ballet boxes</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.8PrZEiEdhi26Pf4B"
+    },
+    {
+      "sort": 300000,
+      "name": "The Temple of Ranald",
+      "type": "text",
+      "_id": "8EaLo4D6r2e62XED",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Within the twisting alleyways of the Viasotto District lies the Verezzo temple of Ranald which dates back to before the classical age – an imposing structure decorated with many black marble statues of cats. Here the clergy of Tilea's second most prominent god dwell and pray, performing benedictions for the masses.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The temple is lavishly decorated in an eclectic mix of styles and artworks, the highest regarded of these works is located within the temple's central chamber. Grottio's “<em>Apostolo Sinistina</em>” series of four frescos brings many visitors to the temple. The first of the frescos tell of the birth of Ranald, product of the union of Shallya with her uncle Khaine. The second shows Khaine using the Grieve (See ToS, page 250) to murder his brother Morr, and the third Taal banishing Shallya for her crimes. The final fresco is prophesying, and shows an adult Ranald striking his father with the Grieve. Needless to say, many members of the cults of Shallya, Morr and Khaine find these frescos blasphemous, as do many cultists of Ranald from other cities.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.8EaLo4D6r2e62XED"
+    },
+    {
+      "sort": 400000,
+      "name": "The Grain Exhange",
+      "type": "text",
+      "_id": "zOssXdQvjsEEQjXl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"p1\" style=\"text-align:justify\">Once Verezzo's centre for trading in grain, the merchants have long since abandoned this impressive building, standing almost midway between ground level and the tower tops inhabited by Verezzo's richer citizens. Instead the Exchange now functions as a vast indoor marketplace, with tiny stalls crammed into the offices and lining the bronze lattice balconies. As the owners refuse to allow permits for the sale of foodstuffs, the Grain Exchange has become the place to buy many other strange commodities. Stalls offering bright clothing are nestled between bookstalls, jewellers and fortune-tellers, while cult initiates stalk the balconies looking to preach and collect donations for charity. All the while small traders offering hot savouries and sweet foodstuffs scamper through the lines of stalls trying to avoid being spotted by anyone too official.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Rents here are expensive, although the whole layout is so chaotic and ever-changing that many stallholders simply fail to pay in the hope that the landlord's enforcers never notice them. Many stallholders are engaged in other illegal activity, with charlatans, pickpockets and fences finding the Grain Exchange an ideal place to practice their trades.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.zOssXdQvjsEEQjXl"
+    },
+    {
+      "sort": 500000,
+      "name": "Verezzo's Guild of Accetped Magi",
+      "type": "text",
+      "_id": "fF6ZAoLlu9Xd8oUr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Located in the highest level of an impressive twelve-story tower, the Verezzo Mages Guild is one of the few institutions openly teaching magic outside of the Empire. Membership is open to all citizens of Verezzo that have a vote, essentially any male with no criminal record and his own lodgings. Being able to master the winds of magic is not actually a requirement of joining, and indeed the majority of members are merchants, politicians and other leaders of society rather than actual mages. This has led to most outsiders viewing the Guild as a political social club rather than a serious place of magical learning, and its ties to other magical orders are weak at best.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The guild's goals focus upon benefiting the city by restricting magical research and casting without written permission from the Exalted Master. In practice, this requirement for permission limits the Guild's mages to spells and rituals dealing with masonry and other techniques of magical construction, as the city continues in its relentless quest to expand ever upwards.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.fF6ZAoLlu9Xd8oUr"
+    },
+    {
+      "sort": 600000,
+      "name": "Cinque Scogliere",
+      "type": "text",
+      "_id": "q6bIPdNzTsk3Gc98",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Jutting out over the city walls and over the sheer cliff face that drops down to the River Riatti, the Cinque-scogliere is a strange building of modern engineering that acts as Verezzo's only docks. Here the people of Verezzo pay to have cargo and water lifted up from the River Riatti by a system of counterweighted pulleys. Haulage fees are expensive but paying them is preferable to driving downhill and out of the city to the river so there are long queues and plenty of heated shouting and disagreement over whose turn it is at the docks.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Close to the city floor, teamsters and stevedores constantly drag cargo from here to the many warehouses that line the streets below, predominantly consisting of the grain that is the lifeblood of the city. Boatmen often come up with their cargo, and many taverns, theatres and cafés surround the Cinque-scogliere to cater to them. Queuing servants, bored merchants and adventurous housewives often frequent these places as well, giving this area of the city a distinctly cosmopolitan atmosphere.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.q6bIPdNzTsk3Gc98"
+    },
+    {
+      "sort": 700000,
+      "name": "Due Torri",
+      "type": "text",
+      "_id": "TUB7aPnhniv1Wfy5",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>These two towers were originally granaries but have since been claimed and expanded by the Dwarfs of the city. Secretive and apart, the Due Torri are among the few towers to remain unlinked to the rest of the city's network of bridges. Craftsmen instead journey by one of the tower’s several Gyrocopters. The tallest tower is nicknamed “la Provvista” and is home to most of the Dwarf population and its supplies, while the smaller tower remains nameless. It is here that the<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\"><strong>Verezzo’s Colour Palazzi</strong><span class=\"Apple-converted-space\"><strong> </strong></span></p><p class=\"p2\">In most Tilean cities, the associations of guilds known as Colours each maintain a large Palazzo, which is used as a social club where the more important members can gather. In Verezzo these Palazzos are even more pronounced, with the Colours being the dominant forces in the republics political processes. Most of these Colour-houses are nestled among the pinnacles of the city, each competing to be the tallest, grandest and most opulent.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\">Some of these Palazzos were custom built while other Colours have taken over existing structures. For example, the Greens make their home in the old palace of the Lotta family, once home to the Duces that ruled over the City- State, while the Reds recently moved to a new and expansive building at the very top of Verezzo’s towers. Each Palazzo is home to extravagant parties thrown by the city’s elite, and competition for the best of Verezzo’s entertainers, chiefs and artisans is heated, often leading to bouts of rioting and assassination.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\">While theoretically all Colours are equal, the Yellows, Reds, Greens and Blues dominate the city, while the Whites, Purples and Oranges are effectively marginalised. At no time is this more evident than the “Festa della Republica” when the elaborate voting system of the city swings into gear to elect which party will dominate the senate next year. This day is known for both its drunken celebration and rioting, as many brightly dressed supporters clash around the ballet boxes Grothmir Clan produce metalwork for half of Tilea, including the elaborately crafted Galloper guns used in many of Tilea's mercenary regiments. A three year waiting list buys the rich of Tilea some of the most advanced armour in the Old World, inscribed with delicately crafted runes and litanies of devotion and protection.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.TUB7aPnhniv1Wfy5"
+    },
+    {
+      "sort": 800000,
+      "name": "The Verezzo Guild of Inventive Artificers and Engineers",
+      "type": "text",
+      "_id": "1Sy5xAI5tjagiD9y",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Verezzo is known for its inventive spirit, and the tower-tops of Verezzo are festooned with windmills and other devices, many of which were designed and built by Daddallo, one of the city's most famous and inventive sons.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The Verezzo Guild of Inventive Artificers and Engineers is located within the top level of the city, where it bustles with specialists who flock to the Guild from as far away as the Empire, Estalia and even the Dwarf Holds. The guild specialises in the pursuit of technology that makes living in the vertical city easier, including vast screws to raise water from the river and devices for harnessing wind power to drive mill-wheels.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">In addition to civil engineering, Daddallo has started a trend in working on aerial transport, such as balloons, zeppelins, parachutes and gliders. The most advanced inventions are Daddallo's design of pedal-powered Ornithopters and theoretical studies of Dwarf Gyrocopters. Many of these devices have resulted in catastrophic accidents within the city resulting in the engineers being imprisoned or exiled, including Daddallo himself. Especially as the Dwarfs still refuse to reveal exactly how Gyrocopters are powered.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.1Sy5xAI5tjagiD9y"
+    },
+    {
+      "sort": 900000,
+      "name": "The Arena",
+      "type": "text",
+      "_id": "Or1xeQf9sjgqNrlR",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Even more so than the other cities and towns of Tilea, Verezzo is renowned for the various team games such as football that occur informally in its piazzas and streets. With the politics of the city dominated by the Colours, sport is a vital means of gaining political dominance and each of the Colours spends a small fortune each year in sponsoring athletes and hiring assassins to thwart rival teams.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">At the entrance to the city's main arena stands Grottio's huge sculpture 'The Five Graces' carved from exotic pink-veined Trantine marble. Inside, ball games, pit fights and chariot races are staged, watched by crowds of fevered supporters. As is common in the vertical city, the buildings around the arena tower over it, and many have balconies from which their owners can watch the games without paying. Some enterprising citizens even operate restaurants upon the balconies and bridges where one can eat as the games are played below.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.Or1xeQf9sjgqNrlR"
+    },
+    {
+      "sort": 1000000,
+      "name": "The Sewers",
+      "type": "text",
+      "_id": "soTph4Z03c2YUAxh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">While most of the city passes above the lower levels and few people venture amongst the twisting streets and winding alleyways of Viasotto, there are levels of Verezzo that lie deeper still below the ground. The vast storm sewer of Verezzo is a winding network of passages allowing drainage for the city above and housing man-made underground canals to carry storm water and effluent.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Sewerjacks patrol here, watching for smugglers and other criminals who use the sewers for transport and storage. The sewers often connect to hidden areas of the city, including many cellars, ancient catacombs and other underground chambers. Sewerjacks tell many stories about the horrors that lurk beneath the city, including Ratmen, Ghouls and strange one-eyed things sporting tentacles.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The sewerjacks have their own barracks located within the Viasotto. The sewerjack barrack is a grim place where hardened veterans gather to swap tall tales and drink bottles of Grappa extorted from the gangs of smugglers in exchange for turning a blind eye to their trade.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.soTph4Z03c2YUAxh"
+    },
+    {
+      "sort": 1100000,
+      "name": "The Black Guild",
+      "type": "text",
+      "_id": "R2pGgJ4DbaYQu7na",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Often obliquely referred to only as the “Eighth Colour”, the Black Guild is Verezzo's most prominent guild of bodyguards and assassins. Stabbio the Bad, an exiled Prince of Luccini, founded the guild where he trained his henchmen in the arts of duelling and the fencing styles of the Estalian Diestro. Merchant princes hire the guild’s bodyguards to protect them from assassins while they move around the bridge-streets of Verezzo, and also to assassinate their rivals.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Guild members dress in long black cloaks worn over clothing designed in the latest Tilean styles. They wear their hair long, held back with a jewelled circlet or tied back into a long tapering ponytail. Under their cloaks, they conceal long-swords or rapiers along with sword breakers, stilettos and throwing knifes. Black Guildsmen are experts at fighting amongst the bridges and alleyways that make up Verezzo, and the guild’s services are in high demand, rivalling the infamous assassins of Pavona.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The most notorious modern son of the Guild is Vespero, a young and self-indulgent nobleman of Luccini who is known for his string of romantic affairs which often end in life or death chases through one of Tilea's cities. Vespero has worked as a henchman for some of Tilea's most important men, including Borgio the Besieger when he ruled the city of Miragliano.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.R2pGgJ4DbaYQu7na"
+    },
+    {
+      "sort": 1200000,
+      "name": "The Rossi Frecci",
+      "type": "text",
+      "_id": "qLo23U493RISXhpI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Perched atop the Schillaci Gate on the eastern wall of the city is a squat landing pad belonging to a battalion of mercenaries from the town of Catrazza, led by Signora Elissa Tancredi. Known to have a stomach for heights, these were<span class=\"Apple-converted-space\"> </span>the first people to test the daring contraptions of the Engineers guild and take to the skies in pedal powered wooden gliders. The aerial mercenaries form an important scouting force for the armies of Verezzo in the field, skilfully peppering the enemy with crossbows while staying well out of the way of return fire. The birdmen are a regular sight flying around the city performing daring tricks with the utmost skill, all the while remaining in perfect formation.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.qLo23U493RISXhpI"
+    },
+    {
+      "sort": 1300000,
+      "name": "Palazzo Francesca",
+      "type": "text",
+      "_id": "uDzpNTiPjCGC1kdZ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Located on the north side of Verezzo this building looks like a non-descript tower from the street, but spreads out as it rises until its upper stories spill out over the sky bridges of Verezzo like some strange mushroom. This is Verezzo's oldest and most important university, and although it pales in size compared with the likes of Remas' or Pavona's, the Palazzo Francesca has a reputation as one of Tilea’s most advanced. Here studies of Medicine and Anatomy take place, the streets of Verezzo providing a fertile source of volunteers for experiments in the mechanical method of anatomy first formulated by Vesalius. Run by the venerable Dottore Vergognosi, the Palazzo’s administration is rumoured to spend most of its budget persuading the cult of Morr and city-watch to look the other way. While the poor of the Viasotto know all too well to steer clear of the bands of inquisitive students that emerge from the Palazzo after dark, eager to run their own experiments.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.uDzpNTiPjCGC1kdZ"
+    },
+    {
+      "sort": 1400000,
+      "name": "Temple della Girogucci Fiore",
+      "type": "text",
+      "_id": "GhbIhozewYltFlFd",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Verezzo’s main temple of Myrmidia stands proudly in the centre of the city; buildings huddled around it as if for warmth. The temple is named after a venerated soul who perished in an unfortunate incident in the Appucini Mountains near the start of the city's history, and is run by High Priest Augusto Spazzi and his clergy. The towers’ method of service is unusual – the inside is crammed with benches arranged vertically around the hollow centre while the priest gives mass from a gallery near the top. The more pious or wealthy the visitor, the closer he sits to the top of the shaft and the attendant priest. Services are held daily with the High Priest himself holding mass once a month, usually on the Kalends, this service in particular can get so crowded it’s been known for some worshippers to fall from the balconies.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.GhbIhozewYltFlFd"
+    },
+    {
+      "sort": 1900000,
+      "name": "Shallya's Heart",
+      "type": "text",
+      "_id": "wZOrrF539KYs56Kt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">At the source of the River Palmero, this small temple of Shallya sits high in the mountains and is an important pilgrimage destination for the sick and the poor. Though Shallya’s Heart is open to all disease-stricken visitors, it is most often associated with sicknesses of the chest, fevers, asthma and the like. Staffed entirely by women under guidance of High Priestess Lisetta Pampinea, the temple is also known for its elaborate beacon to guide lost travellers at night. Strangely, many sufferers return fit and well but with an embarrassing rash. The high temple in Bretonnia is said to be investigating the Tilean rash, but has so far had more important things to deal with.Solerno’s Passage<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Threading between the bare faces of the Appucini Mountains, this passage links Terrene to Pugno. Though long since purged of most Greenskins, there is still considerable danger from several tribes of Goblins that manage to lurk hidden under the mountains. Hippogriffs can also be found occasionally, searching for food or nesting sites in the area. On rare occasions, a tribe of Orcs can be found here uniting the Goblin tribes before launching a minor Waagh! against the human villages of the area. This is unusual, as most Orcs prefer a straight fight against the settlements of the Border Princes instead and only stumble on the pass by accident in their travels. Considerable numbers of Nehekharan and Reman ruins can be found along the trails up to the Appucini Mountains from Solerno’s Passage, most of which little more than a few patches of rubble. Ancient legends suggest that the tomb of Amenemhetum the Great lies somewhere in this area, but the few parties who return from treasure hunting have done so empty-handed.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.wZOrrF539KYs56Kt"
+    },
+    {
+      "sort": 0,
+      "name": "Contado of Verezzo",
+      "type": "text",
+      "_id": "OrXuVKvbqY0vIIpS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"subtitle\"><p>A Prosperous Industrial City-State</p><p><strong>Settlement Size:</strong> CS=City State (any size), T=Town (1000-10000), ST=Small Town (100-1000), V=Village (1-100), M=Mine (any size), R=Ruin</p><p><strong>Wealth:</strong> 1=Impoverished, 2=Poor, 3=Average, 4=Prosperous, 5=Very Rich</p><p><strong>Garrison/Militia Quality:</strong> A=Excellent, B=Average, C=Poor</p></div><div class=\"note\"><p><strong>Note on \"Ven.\" abbreviation:</strong> Ven. = Venerato (singular), Venerati (plural). Example: <em>Venerati dei Chiaro</em>, <em>Venerato Lorenzo</em>. In Reikspeil: \"Venerated\" or \"Sacred of the Plains\", \"Venerated Lorenzo\"</p></div><table><thead><tr><th>Name</th><th>Size</th><th>Ruler</th><th>Population</th><th>Garrison</th><th>Wealth</th><th>Economy</th><th>Notes</th></tr></thead><tbody><tr class=\"capital-row\"><td><strong>Verezzo</strong></td><td><span class=\"size-cs\">CS</span></td><td>Signor Rossi</td><td>56,000</td><td>170a / 1200c</td><td><span class=\"wealth-4\">4</span></td><td>Trade, Agriculture, Industry, Wine</td><td>Capital of the Contado</td></tr><tr><td><strong>Spomanti</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Jacopo Montaperti</td><td>3,800</td><td>50b / 450c</td><td><span class=\"wealth-4\">4</span></td><td>Wine, Agriculture, Cattle</td><td></td></tr><tr><td><strong>Terenne</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Antonio Montecchis</td><td>4,500</td><td>50b / 260c</td><td><span class=\"wealth-3\">3</span></td><td>Ore, Trade</td><td></td></tr><tr><td><strong>Raverno</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Girolamo Sordello</td><td>4,000</td><td>50b / 280c</td><td><span class=\"wealth-3\">3</span></td><td>Agriculture, Wine, Sheep</td><td></td></tr><tr><td><strong>Milfi</strong></td><td><span class=\"size-v\">V</span></td><td>Podesta Diniz dei Bibali</td><td>78</td><td>20c</td><td><span class=\"wealth-2\">2</span></td><td>Agriculture</td><td></td></tr><tr><td><strong>Della Monte</strong></td><td><span class=\"size-m\">M</span></td><td>Condottiere Herman Mann</td><td>65</td><td>5a / 20c</td><td><span class=\"wealth-3\">3</span></td><td>Silver</td><td></td></tr><tr><td><strong>Noochi</strong></td><td><span class=\"size-v\">V</span></td><td>Signor Roger De Courcey</td><td>67</td><td>20c</td><td><span class=\"wealth-3\">3</span></td><td>Wine</td><td></td></tr><tr><td><strong>Lizzano</strong></td><td><span class=\"size-v\">V</span></td><td>Primus Pilus Verena Vazzi</td><td>34</td><td>5c</td><td><span class=\"wealth-1\">1</span></td><td>Subsistence</td><td></td></tr><tr><td><strong>Raggebonna</strong></td><td><span class=\"size-v\">V</span></td><td>Sanford Sonni</td><td>20</td><td>1b</td><td><span class=\"wealth-1\">1</span></td><td>Subsistence</td><td>Farming settlement, most farmers live in Verezzo</td></tr><tr><td><strong>Agrippa</strong></td><td><span class=\"size-v\">V</span></td><td>Marccello Mosca</td><td>78</td><td>5c</td><td><span class=\"wealth-2\">2</span></td><td>Agriculture</td><td></td></tr><tr class=\"ruin-row\"><td><strong>Cittafinistre</strong></td><td><span class=\"size-r\">R</span></td><td>Umberto Eco (deceased?)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>Razed by Orcs, previously a centre of Tilean patriotism</td></tr><tr><td><strong>Argithea</strong></td><td><span class=\"size-v\">V</span></td><td>Jonas Esposito</td><td>65</td><td>15c</td><td><span class=\"wealth-2\">2</span></td><td>Cattle, Sheep</td><td>Farming settlement, most farmers live in Verezzo</td></tr><tr><td><strong>Garibaldi</strong></td><td><span class=\"size-v\">V</span></td><td>Doge Victor Emmanuel</td><td>89</td><td>10c</td><td><span class=\"wealth-2\">2</span></td><td>Naval Supplies, Agriculture</td><td>Produces the finest Biscotti in Tilea</td></tr><tr><td><strong>Alitilea</strong></td><td><span class=\"size-m\">M</span></td><td>Podesta Tia Carrara</td><td>235</td><td>10a / 35c</td><td><span class=\"wealth-3\">3</span></td><td>Silver, Coal</td><td></td></tr><tr><td><strong>Ven. Lorenzo</strong></td><td><span class=\"size-st\">ST</span></td><td>Conte Quintino Neri</td><td>1,350</td><td>20b / 50c</td><td><span class=\"wealth-3\">3</span></td><td>Cattle, Sheep, Wine</td><td></td></tr><tr><td><strong>Monte Verde</strong></td><td><span class=\"size-m\">M</span></td><td>Signor Lazzaro Capri</td><td>96</td><td>1a / 20c</td><td><span class=\"wealth-2\">2</span></td><td>Gold, Granite</td><td></td></tr></tbody></table><div class=\"note\"><p><strong>Summary:</strong> The Contado of Verezzo encompasses 16 settlements including the capital city of Verezzo (56,000 inhabitants), 3 prosperous towns, 1 small town, 8 villages, 3 productive mines, and 1 ruined settlement (Cittafinistre, razed by Orcs). The realm is ruled by Signor Rossi from the industrial city of Verezzo. Notable features include silver and gold mining operations, and the village of Garibaldi which produces the finest Biscotti in all of Tilea.</p></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.OrXuVKvbqY0vIIpS"
+    },
+    {
+      "sort": 150000,
+      "name": "Verezzo",
+      "type": "text",
+      "_id": "96nWxUvFOSTS4oWV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.8PrZEiEdhi26Pf4B]{The Viasotto}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.8EaLo4D6r2e62XED]{The Temple of Ranald}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.zOssXdQvjsEEQjXl]{The Grain Exhange}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.fF6ZAoLlu9Xd8oUr]{Verezzo's Guild of Accetped Magi}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.q6bIPdNzTsk3Gc98]{Cinque Scogliere}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.TUB7aPnhniv1Wfy5]{Due Torri}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.1Sy5xAI5tjagiD9y]{The Verezzo Guild of Inventive Artificers and Engineers}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.Or1xeQf9sjgqNrlR]{The Arena}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.soTph4Z03c2YUAxh]{The Sewers}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.R2pGgJ4DbaYQu7na]{The Black Guild}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.qLo23U493RISXhpI]{The Rossi Frecci}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.uDzpNTiPjCGC1kdZ]{Palazzo Francesca}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.wmW3O8AfgvV5wqzg.JournalEntryPage.GhbIhozewYltFlFd]{Temple della Girogucci Fiore}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.96nWxUvFOSTS4oWV"
+    },
+    {
+      "sort": 1600000,
+      "name": "Olesi",
+      "type": "text",
+      "_id": "nOhnxE2C2B5WFnkT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The dukedom governed from Olesi is perfectly positioned to interfere with trade between Remas and Luccini, being situated on the coast halfway between them and extending almost to the walls of Verezzo. As a result, Olesi is an important town for any of the major cities to control. Olesi has been thoroughly infiltrated by agents from each city, manoeuvring to gain the ear of the current duke. Taking the lead in the 50 years war, Olesi formed a defensive league with the smaller settlements of the Verezzan Plain against the forces of Verezzo, Luccini and Remas. The league inflicted several unlikely defeats against larger forces and established a federation of small Republican states overseen by the city-states of Olesi, Raverno and Terenne. The league’s mandate was to protect the vulnerable towns and villages, but sadly, the league collapsed over time. Centuries of subterfuge by the mayors of Olesi had seen it slowly crush the councils of its surrounding towns and install its own rulers. In 1948 IC the government of Olesi itself collapsed when a brutal dictator seized power. The coup is remembered now as one of the Four Tyrannies of Tilea. </p><p style=\"text-align:justify\">These days, Olesi exerts little influence and has few resources to call upon. Its court is home to a weak duke and a horde of double-dealing sycophants and courtiers. Occasionally Olesi’s ruler will hire a Condottiere to suppress a settlement that it judges to have fallen out of line, or to gain some plunder for Duke Boiardo’s treasury. Most of the inland villages now depend on the troops of Verezzo for protection from bandits or soldiers in the pay of Olesi. Neither Remas nor Luccini can allow Verezzo to grow too powerful from gorging on the carcass of the Olesi dukedom. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.nOhnxE2C2B5WFnkT"
+    },
+    {
+      "sort": 1700000,
+      "name": "Raverno",
+      "type": "text",
+      "_id": "RqrMnHYv3F2hFZU7",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This small town lies to the south of Verezzo, standing watch over the Via Diocletia and the fertile plains leading to Luccini. The city is ruled by the heads of the town’s guilds, and has recently declared its allegiance to Verezzo. This is mainly because of Luccini’s repeated attempts to capture the city by force. On one occasion in the last year attempting to infiltrate the town with an army of mercenaries disguised as sheep. The council ruled that as long as Verezzo pays a fee to station Condottiere in the city, it would be far more sensible to side with Verezzo while Luccini continues its campaign of conquest and plunder. </p><p style=\"text-align:justify\">Strangely, the majority of town council members disappeared in the night last spring and haven’t been seen since. This has left the town’s fate firmly in the hands of the venerable Doge Alfredo Sideri and several young members of the merchants’ guild. Meanwhile Georgio Sideri, the young son of the Doge, has won himself quite a reputation as a drunken lout. Despite complaints of his behaviour to the Doge, Georgio’s antics have gotten worse if anything. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.RqrMnHYv3F2hFZU7"
+    },
+    {
+      "sort": 1800000,
+      "name": "Terenne",
+      "type": "text",
+      "_id": "EVZQleFTYVvAi7GC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The last town before the River Riatti’s headwater, Terenne is famous for its falconers and the quality metal ore mined nearby. Terenne is also the protector of the small villages and monasteries that lie deeper within the mountains, at least according to the self-styled Duke of the town. The Duke is an ex-Condotterie named Antonio Monlecchis who served nearby Verezzo for years. After his contract was terminated, Antonio led his soldiers to capture the town in a bloody three-day fight against supporters of the resident mayor, before settling down to enjoy his retirement. Antonio makes a point of keeping the surrounding villages happy, otherwise they would soon starve him out. He also makes a point of publicly humiliating and killing residents of Terenne who oppose him. Despite Verezzo’s best attempts, its soldiers have yet to kill Antonio or intercept the caravans of ore that are sent down to Spomanti or across the rough mountain trails to Pugno. Antonio Monlecchi and his men are all veteran hill fighters, and they keep their eyes open whenever they’re near Verezzo. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142850,
+        "modifiedTime": 1793066142850,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!wmW3O8AfgvV5wqzg.EVZQleFTYVvAi7GC"
+    }
+  ],
+  "categories": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "15ee91d6098cb744ca006fa5d26b23cd2123a61d"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142850,
+    "modifiedTime": 1793066142850,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!wmW3O8AfgvV5wqzg"
+}

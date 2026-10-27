@@ -1,0 +1,1005 @@
+{
+  "name": "Luccini",
+  "_id": "0V8O77UBoXBwhjco",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "The Founding of Luccini",
+      "type": "text",
+      "_id": "OVFYsK3QhKPPqAQs",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"p2\" style=\"text-align:justify\">The city of Luccini was founded in O IC by the twins Lucan and Luccina. Following is a brief summary of the city’s history according to legends and stories.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Legend holds that the temple complex at the heart of the Acropolis was first inhabited by priests of Morr and the other Classical gods millennia ago. The exact date of Luccini’s founding has been questioned by scholars for centuries, but whatever the truth of the matter, Luccini was certainly a religious community by the year -100 IC when some of Luccini’s priests departed to journey around Tilea at the time the Southern League rose to power and travel became safer.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Around -20 IC the twins Lucan and Luccina, patron gods of the city, were born to one of the many shepherd tribes inhabiting the ruins of the Elven colony surrounding the Acropolis. The twins’ mother was an unmarried young girl at the time. To save herself from shame, the mother abandoned her infants in the colony's ruins, where few dared to tread for fear of waking ancient ghosts. While abandonment was fairly common in that time, healthy children such as the twins were usually spared. The popular story holds that Morr himself intervened and declared that the children were unready to leave the mortal realm. The god of Death bade Lupus (or Ulric, depending on the source) to send one of his servants and care for the children until they were grown.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">For 5 years the twins dwelt in a cave near the Theatre of Ravens until they were found by a pilgrim shepherd journeying to the temple. The pilgrim’s first instinct was to kill the children out of mercy. However, for some reason he took pity on the wild, underfed children; unloved and unwanted, clutching at the breast of a dying she-wolf. The pilgrim adopted Lucan and Luccina, took them to the temple to be blessed, and then returned to his tribe where he raised them.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">During Tilea’s unification under Myrmidia, the Southern League appointed the twins as living embodiments of the gods’ blessings on the Acropolis, and by extension the entire land. At a pre-battle feast, the twins were invited to speak at the head table. Unexpectedly, the twins decried the corruption of the priesthood and declared that many had turned their backs upon the laymen. As proof, the children pointed to the caves of their childhood home, located so close to the priesthood but ignored by them for so long. The twins then criticised the Prince of Teal who led the army, for which they were immediately clapped in irons. If not for Myrmidia’s success in the next day’s battle, the twins would surely have been executed.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">Lucan and Luccina swore fealty to the warrior queen Myrmidia and went on to lead a regiment in her battles against the Southern League and later Estalia. A month before Myrmidia’s fateful coronation, the twins appealed for the right to found a city at their birthplace. Myrmidia graciously granted them this right, and also promised support and financial aid.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">It is widely known that Myrmidia died at her coronation, before she was able to provide the support that had been promised. However, Lucan and Luccina founded the city anyway, amid great controversy. The Acropolis priests opposed the new colony at every turn, organising raids to disrupt the economy and invoking ghosts from the ruins to spread fear among the settlement’s nervous inhabitants. Only the lowly priests of Morr refused to engage in this spiteful campaign of sabotage.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">On the fateful day of Lucan and Luccina’s 30th birthday, a fire gutted the inside of the temple complex. No one is entirely sure how the fire started, but some say it was the gods’ judgement on their shameful priests. Others claim the twins hired arsonists who entered the temple complex and fought their way past its defenders until they reached the tunnels of the Acropolis. Only the priests who sheltered themselves within the chamber at the heart of the Acropolis were spared from the blaze. From that day onwards, Morr’s servants alone inhabited the mountain and visitors never stayed for long.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">When Lucan and Luccina died on the same day at age 55, the religious people of Luccini believed the twins’ lives had been a miracle. The more worldly citizens were concerned that each twin had raised nearly a dozen children who had become popular leaders in their own right. It was only hours after Luccan and Luccina’s deaths that the first fights broke out, and the<span class=\"Apple-converted-space\"> </span>fighting continues even today. Around half of the city’s population believes Luccan’s descendants, the Lupo clan, should be the princes of the city, while the other half is convinced that Luccina’s children, the di Lucci clan, should rule. Currently Lucan’s last direct descendant Lorenzo Lupo is in charge of Luccini, enforcing generally benign laws, however he has expelled many di Lucci supporters including Leonardo di Lucci’s famous Leopard Company.<span class=\"Apple-converted-space\"> </span></p><blockquote class=\"sidebar\"><h3><em><strong>Leopards of Luccini</strong></em></h3><p><em>Luccini’s heraldic symbol is the leopard. These beasts were originally imported by immigrants from the Southlands during the reign of the Nehekharan empire. Since the time of the twins, leopards have supplanted the wolf population around Luccini. The leopards of Luccini are frequently hunted for sport by parties of nobles clad in togas and animal skins. Hunters arm themselves only with primitive javelins in order to emulate the ancient sister deity, Luccina.</em></p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.OVFYsK3QhKPPqAQs"
+    },
+    {
+      "sort": 200000,
+      "name": "Power and Politics",
+      "type": "text",
+      "_id": "M2k0rhfGyMqfkFHj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Over its history Luccini has dominated the southern plains of Tilea militarily. The city’s pikemen are ideally suited to the flat Plain of Luccini while its navy is the strongest force against the pirates of Sartosa. Military supremacy once ensured that few other city-states were able to influence the south politically, however with the increasing security of the Pass of the Dark Maiden and the Old Dwarf Pass, trade between other city-states may soon be able to bypass Luccini entirely.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Luccini’s appearance makes it an appropriate location for the centre of Tilea’s cult of Morr. The city is surrounded by the dark ruins of the ancient Elven city. Its buildings are made of bone white marble, with roofs of dark terracotta and black slate. Perhaps to offset the city’s dour appearance, Luccini’s citizens prefer their rulers to have an easy sense of humour. Rulers who are judged to be excessively surly are often overthrown by more jovial princes with a mob at their backs. Lorenzo's sense of humour so far has mainly involved banana skins and spikes, so he has become popular with the crowds. There’s a saying in Luccini: “the prince is more dangerous when laughing”.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Luccini is the largest port in the south of Tilea, making it a major trading hub with plenty of exports. Luccini’s merchants have access to the crops of the south, olive oil from the plains, wood from the Sussurrio forest and fine goods from the other southern cities. Additionally, Luccini dominates the trade of exotic goods from far Lustria and the Thousand Islas thanks to its sizeable fleet of galleys and willingness to hire privateers. Luccini imports an enormous amount of food for the hordes of pilgrims that frequently swell its population to bursting point. When food supplies are low, tensions rise between the city’s inhabitants and the visiting pilgrims. Pilgrims are especially abundant during the Grand Conclave of Morr which is held every 10 years (see ToS).<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The city is also a haven for scholars. The Acropolis’ vaults contain many texts supposedly written before the founding of the Reman Empire. Lost libraries housing detailed funeral writings and votive offerings are occasionally uncovered amongst the miles of catacombs beneath Luccini. The priests of the Acropolis sadly neglected the catacomb texts for many centuries, and many of the subterranean libraries have been looted and stripped of their most valuable books over the years. Others have collapsed and become inaccessible. In 1400 IC, the Conclave of Morr voted to permit priests of Verena access to the catacomb libraries so they could copy and preserve the remaining texts for future generations. The Verenans have uncovered many historical records from ancient Tilea in the process of their ongoing biblioarchaeological project prompting interest from the city of Remas.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.M2k0rhfGyMqfkFHj"
+    },
+    {
+      "sort": 300000,
+      "name": "The Theatre of Ravens",
+      "type": "text",
+      "_id": "KIikTZRXh4IV1ut6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Built on the ruins of an ancient Elven building on the Acropolis, the Theatre of Ravens dominates Luccini’s skyline. The temple marks the eastern extent of the city’s Old Quarter. The Theatre of Ravens was famously not covered by the Aurelian Walls that protected the whole city when it was first founded. The Morrian priests of Luccini at the time refused to allow the Prince to block access to mourners who brought their dead to be entombed at this place.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The temple is a vast, circular building with a massive, unsupported dome constructed on a scale still unsurpassed by other cities. Some legends have even sprung up around its creation as it seems almost impossible for humans to have built such a magnificent structure, in truth it is a relic of the First Reman Empire. The building’s exterior has twenty-eight entrances, each with no door but only a solid, open arch as befits the strictures of Morr’s cult. Priests, monks and knights bustle through the side rooms of the temple proper and the greater temple complex. The temple complex includes two monasteries, a separate building for the female priests, and a barrack house for the Black Guards who stand on silent sentry duty.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The Theatre of Ravens is the heart of the cult of Morr, and it remains independent from the rulers of Luccini. However, no supreme leader of Morr’s cult exists in Luccini (or elsewhere, for that matter). Instead, representatives from every temple in the Old World visit the Theatre and debate theological issues with their colleagues. Once each decade, the cult of Morr holds a grand convocation in Luccini to debate matters of cult policy. Decisions are reached democratically, and thesis reports are distributed to all Morrian temples in the Old World.<span class=\"Apple-converted-space\"> </span></p><p style=\"text-align:justify\">Because of its important administrative role, the Theatre of Ravens has also become a place of learning attended by litigants, scribes and scholars. Members of the cult who spend a great deal of time in the Theatre are affectionately known as Ravens, named after Morr’s sacred birds that can be found nesting around the Theatre in huge numbers.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The catacombs beneath the temple are mostly of Elven manufacture, and the simple stone sarcophagi nearest the temple hold Elven remains. The rest of the complex has been used for human burials. The deceased are interred by a variety of methods ranging from simple wooden coffins, to muslin wraps, to elaborately carved sarcophagi adorned with precious metals and frescos. At the deepest level of the catacombs is the Chamber of Lileath, which contains a vast circular pool of water surrounded by sigils of apparent Elven design.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Guided by their dreams, priests and devout laymen alike come to the Chamber of Lileath to bathe. Despite there being only one entrance to the pool, over the years several bathers who were later reported missing had never actually been seen exiting the Chamber of Lileath, according to their colleagues.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.KIikTZRXh4IV1ut6"
+    },
+    {
+      "sort": 400000,
+      "name": "Dock Ward",
+      "type": "text",
+      "_id": "4fsUG2kHOdo9ZUAD",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The Dock Ward of Luccini is packed with warehouses, offices and shops covering fourteen acres around the mouth of the River Trevere as it makes its way into the Sea of Tilea. The buildings are clustered around a series of great piazzas where Luccini’s guildsmen trade their goods with merchants and recruit men to crew their ships. Interspersed with the other buildings are many watermills that drive Luccini’s industry, powering machines that produce textiles, paper and metal goods.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Many foreigners dwell within the Dock Ward, including merchants looking for trade opportunities and mercenaries seeking employment. Exclusive inns such as the famous “Black Pearl of the Two Seas” and the “Sorcerer’s Head” line the market piazzas. These dockside inns cater almost exclusively to the rich foreign merchants who come to buy and sell wares. The docks are also home to Luccini’s fine fleet of Wargalleys, which is the envy of other Tilean ports. Luccini has a long tradition of seafaring, and officers and crew of the Luccini Navy are commonly seen around the district.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The current rumour around the dockside piazzas is that Prince Lorenzo Lupo’s youngest son Giordano Paolo Lupo has run away to join a band of cutthroats and mercenaries.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.4fsUG2kHOdo9ZUAD"
+    },
+    {
+      "sort": 500000,
+      "name": "Palazzo of Rectitude",
+      "type": "text",
+      "_id": "3LutEpHvypdysm4N",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"p1\" style=\"text-align:justify\">This modestly elegant structure is home to the Laughing Prince’s judiciary, interrogation chambers and law-courts. The Palazzo also contains three fighting pits used for resolving ordeals by combat. As the number of merchants in Luccini increases, so also does the army of litigants, scribes and other staff who serve the palazzo. In fact, the palazzo proper cannot contain all who work there, making the taverns and piazzas around the palazzo important places to conduct legal business. Royal litigants are commonly seen dealing with clients at a table next to scribes frantically writing reports and judicial champions having a quick drink before their next bout.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The Prince of Luccini also appoints many scholars, called ‘Emendators’, who are skilled in law, accounting and other specialised branches of knowledge. Emendators are empowered to inspect government departments and merchant houses within the city for irregularities such as incompetence, tax evasion or worship of forbidden powers. These shadowy figures, accompanied by ranks of black-armoured guards, are feared by people in positions of power. Emendators are also judges with the authority to sentence people found guilty of corruption to death, torture or to the benches of the galleys.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.3LutEpHvypdysm4N"
+    },
+    {
+      "sort": 600000,
+      "name": "Fratelli Ward, the Cittàladro",
+      "type": "text",
+      "_id": "mL4W4Ksh5GTHVMBo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The northernmost area of the Old City, called the Fratelli Ward, is encompassed by the Aurelian Walls. The ward is a maze of small workshops, dilapidated tenement houses and bazaars packed together in a melting pot. This district has absorbed much of Luccini’s immigrant population due to its cheap housing. The widely despised Strigany have settled here in great numbers and live alongside Arabyan migrants. The Strigany offer cultural curiosities such as fortune-telling, lucky charms, potions and exotic entertainment for good prices.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Crime families made up of thugs and racketeers thrive in the Fratelli Ward, and the Luccini watch is unable or unwilling to patrol its streets. Fences, forgers and a host of other illegal professions openly ply their wares in the many piazzas, as do monks and cultists of strange gods. Young nobles and merchants often visit this district to partake of its dubious attractions, although they usually wear bandanas over their faces. Visitors often wear pomanders on their belts, for the Fratelli Ward is a festering ground for diseases during all but the coldest months.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.mL4W4Ksh5GTHVMBo"
+    },
+    {
+      "sort": 700000,
+      "name": "The de Roelef Lace Warehouse",
+      "type": "text",
+      "_id": "bZc4krNR04lPF6rJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Just outside the Aurelian Walls on the southern side of the city stands the House de Roelef compound. Although the merchants of House de Roelef dwell in the more prestigious Acropolis Ward, this forbidding building of dull red brick houses their main Luccini interest: lace production. The complex also doubles as a debtor’s prison where those who owe House de Roelef money can opt for voluntary confinement in lieu of having their case heard at the Palazzo of Rectitude. Debtors know that the Prince’s justice is often a sure death sentence, either by axe or chained to a galley’s oar. Entire families dwell inside the small cells of the de Roelef Lace Workhouse, spending their days sewing delicate bone lace in<span class=\"Apple-converted-space\"> </span>the traditional Luccini and Marienburg styles.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">The cheap lace produced in this manner allows De Roelef merchants to undercut not only the Lace Makers’ Guilds in Estalia and Bretonnia, but also the other guilds of Luccini. The city’s merchant houses frequently petition Prince Lorenzo to end De Roelef’s competitive advantage. However, despite House de Roelef ‘s virtual monopoly on the trade of cloth and liquors from the Empire, there seems little chance that the prince will move against them. Some agitators have called for direct action by the populace itself to shut down the workhouse, perhaps motivated by the other merchant houses.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.bZc4krNR04lPF6rJ"
+    },
+    {
+      "sort": 800000,
+      "name": "Isola di San Andrea",
+      "type": "text",
+      "_id": "NC8Rkx7BMo9VKzRS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Located at the harbour entrance, this island includes a coastal bastion that was originally constructed during the Crusades against Araby. More recently, the fortress was designated as a home to Luccini’s Guild of Philosophers and Engineers, for inventors can conduct their experiments here without risking burning down the whole city. The walls of the bastion bristle with experimental cannons, rockets and other weaponry designed to prove Tilea’s engineering dominance over the Dwarfs and the Empire. However, many Tilean devices are built with no regard for safety or practicality, provoking shock and outrage from their rivals in the mechanical arts.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The fortress technically falls under the rule of the crown of Luccini, but it holds a charter granting de facto independence in all matters apart from war. The fortress even mints its own currency which is considered purer than Luccini’s own debased coinage. Around the bastion are markets and gardens displaying mechanical marvels such as clockwork-driven carnival rides. Nobles and merchants often come to Isola del san Andrea with their loved ones to relax. During trips to the island, visitors often hire guild engineers to maintain their estates. Luccini’s engineers are renowned for designing towers that lean at absurd angles, which have been considered the crowning achievement of Tilean architecture since the time of Leonardo di Miragliano.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.NC8Rkx7BMo9VKzRS"
+    },
+    {
+      "sort": 900000,
+      "name": "Palazzo Fabilaux",
+      "type": "text",
+      "_id": "T9werJXFfP2mPXz8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The Acropolis Ward’s Palazzo Fabliaux is by far the most prestigious of Luccini’s bathhouses. Each morning, musicians announce its opening with trumpets and drums. The Palazzo Fabliaux is more than just a place to be washed by attendants; the bathhouse is also a communal meeting place where guests’ class affiliations are shed along with their clothing. Noblemen and ladies mix with immigrants from Araby and initiates of Shallya.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Some pools are devoted entirely to exercise, and the Palazzo Fabliaux also includes large steam rooms for sweating out dirt and illness. Even banquets take place in the baths occasionally, with food floated out on specially-made wooden tables. Much like Luccini’s other bathhouses, the Palazzo Fabliaux is a hive of covert politics, scandalous behaviour, and occasionally assassinations.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Impressive statues adorn the Palazzo Fabliaux’s humid interior. The most infamous statue, carved by Grottio, allegedly represents the seduction of Shallya by her own uncle, the god of murder Khaine. Baths are not segregated by gender, but an unwritten tradition of decency requires married women to wear veils within the baths, while men are expected to keep their hats or turbans on. Visiting merchants from the Empire and Bretonnia find this practice utterly incomprehensible.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.T9werJXFfP2mPXz8"
+    },
+    {
+      "sort": 1000000,
+      "name": "The Noose and the Anchor",
+      "type": "text",
+      "_id": "m3VIjwilJd8y1Q9u",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The multi-storey Noose and Anchor is an inn, theatre and dancing hall catering to the many travellers and visitors that come to Luccini’s Dock Ward. Owned by Nazario Rizzo, a retired Luccini naval captain, The Noose and Anchor is a popular spot with cheap rooms available at late hours. Nazario Rizzo hires mercenaries to maintain order and ensure his guests feel secure within the premises. Although rich merchants and nobles prefer to stay in the more expensive inns of the Acropolis ward, the Noose and Anchor is a place where up-and-coming merchants often rub shoulders with middle-ranking naval officers and itinerant adventurers.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The Noose and Anchor is a haven for criminals as well, particularly organised gangs like the infamous Cosche and<span class=\"Apple-converted-space\"> </span>Omertà gangs. Luigi Sauro, a dealer in curios and a noted fence, operates from one of the inn’s guest rooms. Luigi once served as Nazario Rizzo’s quartermaster and actually owns a share in the business. Meanwhile the leader of the Omertà gang, Paolo Omertà, is applying increasing pressure on Luigi to gain a cut of his considerable profits. It might only be a matter of time before Nazario Rizzo takes matters into his own hands and declares a vendetta that will set the entire Dock Ward alight.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.m3VIjwilJd8y1Q9u"
+    },
+    {
+      "sort": 1100000,
+      "name": "The Twin Temple",
+      "type": "text",
+      "_id": "kCvvfnrnLByDhvAj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Second in size only to the Theatre of Ravens, Luccini’s Twin temple stands at the very centre of the Acropolis, over the very cave where the twin gods Luccina and Lucan once sheltered as mortal children. Attendance at the Twin Temple and the many other small shrines that dot the city is very popular, in part due to the crippling fines that are levied on any citizen of Luccini who dares to miss the weekly service.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Adorning this massive building are many golden images of Holy Leopards , cryptic astrological symbols and statues of the Divine Twins. White-robed priests perform services to both deities here. Lucan’s services traditionally take place at midday while his sister’s observances are held during the night. Initiates perform services throughout the day, sacrificing meat and wine to placate the mythical two-headed leopard with three tails that still dwells deep in the cave complex below the Acropolis, according to legend.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">In 2505, the head of the Leopard Company of temple Guardians, Leopoldo de Lucci, attempted to claim the throne of Luccini with the backing of the Twin Temple. However, the priests betrayed de Lucci at a vital moment, handing the crown to Lorenzo Lupo instead. In his anger, Leopoldo disavowed the sacred oaths, led his Leopard Company to break down the temple’s golden doors, and cast the treacherous priests into the sea below. Leopoldo and his company then fled Luccini, roaming Tilea as swords for hire to this day.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">A little known fact outside of the Plains of Luccini is that the Twin Temple plays a major part in funding Luccini’s settlement of the Cactus Coast in Lustria. In the colony of Nuevo Luccini, residents’ taxes are used to supplement the Twin Temple’s funding for a local temple of Lucan that was recently established by the Twin cult. The Lucanite temple in Nuevo Luccini is run by another exiled candidate for Luccini’s throne, Father Brannardi.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.kCvvfnrnLByDhvAj"
+    },
+    {
+      "sort": 1200000,
+      "name": "Palazzo of the Sea",
+      "type": "text",
+      "_id": "UWQpDtsCdWsmahJk",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The Breezefinders of Luccini are among the best navigators in the Old World. Aspiring navigators are required to plot the crossing to the Lustrian colony of Nuevo Luccini three times before receiving official status. The Palazzo of Breezefinders is a veritable fortress that dominates the docks and conspicuously demonstrates the extortionate prices charged by the guild. The Palazzo of the Sea incorporates the harbour’s lighthouse and an ornate temple to Manann.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Inside the tower, navigators raise their families and hand down the secret arts of navigation from generation to generation. Children who prove to be ungifted in the navigator’s arts are employed in other nautical roles such as pearl diving, fishing or marine duty.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Many Breezefinders study the science of naval warfare. One of the guild’s most prized secrets is the art of brewing Fell Fire, a formula that is keenly desired by the engineers of Isola del san Andrea. The dreaded Fell Fire is a pitch-like substance that sticks to anything and burns fiercely, remaining ablaze even when doused with water. Centuries ago, the Breezefinders stole the formula for Fell Fire from the alchemists of Araby who were rumoured to combine heathen science with the magic of flame Daemons.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.UWQpDtsCdWsmahJk"
+    },
+    {
+      "sort": 1300000,
+      "name": "The Spiral Minaret",
+      "type": "text",
+      "_id": "974I5X6l6oBBtuHe",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This inn is a popular meeting place for merchants and nobility, located in the heart of the Acropolis ward. The Spiral Minaret has been owned by the Elf Legolam Silverspear for over a hundred years. The inn is a quality establishment that caters to small volume, high profile clients. The Spiral Minaret’s beds are the softest in town and its wines are of the oldest vintages. Guests are attended by dedicated young valets of both genders that cater to their every whim. Minor services performed by valets are discretely charged to the client’s bill, which is collected in full at checkout.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The cult of Morr would pay handsomely for Legolam’s knowledge of the Elven ruins in Luccini, but thus far the Elf has resisted their modest offers. It’s rumoured that several people have approached Legolam with promises of vast wealth, but the Elf seems impervious to persuasion. Many believe that Legolam’s silence is largely a consequence of his close friendship with Prince Lorenzo Lupo’s current champion, the exiled High Elf Asarnil the Dragonlord.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.974I5X6l6oBBtuHe"
+    },
+    {
+      "sort": 1400000,
+      "name": "The Blackstone Passages",
+      "type": "text",
+      "_id": "Eaw9zPGpZI13y3ax",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Luccini stands on the foundations of an Elven metropolis that once covered an area several times larger than the present city’s expanse. During the fierce fighting of the War of the Beard, the Elven metropolis was levelled by Dwarfs from Karak Grom. Today, the only remnants of this vast city are small clusters of black-stoned ruins jutting from the surrounding plains.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The aboveground ruins are merely shattered remnants of their former glory, but many of these sites provide entry to an extensive series of subterranean passageways connected to the city’s sewers and catacombs. Smugglers and brigands from the Cittàladro use the Elven tunnels to bypass the guards patrolling the Aurelian Walls. Meanwhile, archaeologists and tomb robbers explore the passageways for their own sake, seeking abandoned artefacts and other riches. The tunnels are also inhabited by the usual Goblin and Skaven clans that plague the residents of Tilean cities.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">Wizards and priests avoid the Blackstone Passages, for they can see the pools of stagnant dark magic that formed in places where ancient Dwarf runes of vengeance long ago disrupted the pure streams of High Elf magic. The Undead flock to these tainted passages like moths to a flame. Haunting screams and laughter echo through sections of the tunnels when Morrslieb waxes, scaring all right-minded folk away. However, during these auspicious times necromancers and warlocks roam the tunnels seeking powerful servants suffused by the potent magic of Dhar.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.Eaw9zPGpZI13y3ax"
+    },
+    {
+      "sort": 1500000,
+      "name": "The City of Stone",
+      "type": "text",
+      "_id": "qpKxcAI1lu2c9fGe",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Over time, graves and crypts and have been constructed aboveground to preserve the dead from dark magic permeating the catacombs. These funerary structures are now so plentiful that they surround the entire city, having become integrated with the districts outside the walls. In the sprawling City of Stone, the dead rest alongside the living. Crypts are built mainly by devotees of Morr who are unable to afford places in the catacombs beneath the Theatre of Ravens and the Acropolis. Many pilgrims of Morr visit the City of Stone, and some of the older plundered crypts have been converted into shrines and way stations for the faithful. Others are occupied by paupers who can’t afford housing in the city.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Occasionally, necromancers and vampires have been known to take up residence in the City of Stone. Regular patrols are organised by the cult of Morr to flush out undesirables and ensure the city’s safety. Several hidden entrances to the Blackstone passages are located among the crypts, but anyone who discusses them publicly is silenced by the cult of Morr and the Prince’s agents. Bounties are offered for turning in criminals caught digging into sanctified<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.qpKxcAI1lu2c9fGe"
+    },
+    {
+      "sort": 1600000,
+      "name": "The Lazzaretto of Shallya",
+      "type": "text",
+      "_id": "0dhs35hP0rlUMqxD",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This small estate, owned by the Sisterhood of Shallya, is located on the western edge of the city just outside the Aurelian Walls. Here, priestesses tend to victims of the many plagues that ravage Luccini. The grounds of the Lazaretto are devoid of other buildings, for no one wishes to live near this renowned house of disease. Instead, the hospice is surrounded by open meadows and flowerbeds maintained by initiates and patients.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Within the confines of the estate, the Sisters enforce a regimen of healthy exercise and regular baths in the nearby sea. Plague doctors wearing distinctive carrion-crow masks of Morr attend the Lazaretto regularly. Morr’s doctors are actually undertakers who consign patients that slip beyond the Sisters’ care into the house of Shallya’s father instead.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Traditionally, the princes of Luccini have bestowed their blessing upon the Lazaretto. Luccini’s nobles often speed along the hospice parkways in ornate gilded carriages, laughing at the poverty and deformities of the city’s most unfortunate citizens. Many a court jester has been recruited from among the patients declared cured by the priestesses of Shallya.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.0dhs35hP0rlUMqxD"
+    },
+    {
+      "sort": 1700000,
+      "name": "Piazza della Danarosi",
+      "type": "text",
+      "_id": "fn6tKback8WFdWAV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This luxurious square near the docks welcomes the city’s infrequent Elvish visitors. Its elegant houses are inhabited by several families of Sea Elves that serve as guides to the Breezefinders during sea voyages or as labour for Elven ships visiting the city. All of Luccini’s Elves appear to be of the same clan, called the Elthermodrians. Elthermodrian lineage is organised along feudal lines with one ruling family handling trade and negotiations, while the others are assigned to roles as guards, tutors or stevedores. The Elthermodrians serve as guides and envoys for visitors from Ulthuan.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.fn6tKback8WFdWAV"
+    },
+    {
+      "sort": 225000,
+      "name": "Marconi's Firstborn",
+      "type": "text",
+      "_id": "GChUD77G90TXQM67",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This Condotta regiment has been camped around the Plain of Luccini for almost three years now. Marconi’s Firstborn is a mixed regiment of horse and foot that has become more of a brotherhood than a true mercenary company. The Firstborn are fiercely loyal, both to each other the also to the legacy of their brave commander Marconi who led his men from the front in countless battles across Tilea. Marconi was killed in the battle<span class=\"Apple-converted-space\"> </span>of Lupano River when his regiment’s flank collapsed suddenly and Marconi’s position was overrun by the enemy, even as he negotiated better terms with his employers.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">After the battle, Marconi’s sub-commanders found his body still clutching the Condotta document, pen in hand and arm outstretched. Proclaiming their leader’s death a miracle, they carefully embalmed his body in its final, defiant position. Marconi’s mummified corpse remains in his luxurious command pavilion to this day, negotiating eternally. The leaderless mercenaries now insist that they can only accept the command of a captain who’s able to secure even better terms than Marconi’s final contract. Until that day comes, Marconi’s Firstborn will decide all matters by drawing lots and debating their course amongst themselves.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.GChUD77G90TXQM67"
+    },
+    {
+      "sort": 0,
+      "name": "Contado of Luccini",
+      "type": "text",
+      "_id": "6M5nlwvEFjQRa0JJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The Largest City-State in Tilea</p><div class=\"legend\"><p><strong>Settlement Size:</strong> CS=City State (any size), ST=Small Town (100-1000), V=Village (1-100), F=Fort (any size)</p><p><strong>Wealth:</strong> 1=Impoverished, 2=Poor, 3=Average, 4=Prosperous, 5=Very Rich</p><p><strong>Garrison/Militia Quality:</strong> A=Excellent, B=Average, C=Poor</p></div><div class=\"note\"><p><strong>Note on \"Ven.\" abbreviation:</strong> Ven. = Venerato (singular), Venerati (plural). Example: <em>Venerati dei Chiaro</em>, <em>Venerato Lorenzo</em>. In Reikspeil: \"Venerated\" or \"Sacred of the Plains\", \"Venerated Lorenzo\"</p></div><table><thead><tr><th>Name</th><th>Size</th><th>Ruler</th><th>Population</th><th>Garrison</th><th>Wealth</th><th>Economy</th><th>Notes</th></tr></thead><tbody><tr class=\"capital-row\"><td><strong>Luccini</strong></td><td><span class=\"size-cs\">CS</span></td><td>Prince Lorenzo Lupo</td><td>196,000</td><td>300a / 5000c</td><td><span class=\"wealth-5\">5</span></td><td>Government, Trade, Shipbuilding, Fishing</td><td>Capital of the Contado - Largest city in Tilea</td></tr><tr><td><strong>Iraklia</strong></td><td><span class=\"size-v\">V</span></td><td>Signor Stephanos Pantheras</td><td>34</td><td>5c</td><td><span class=\"wealth-1\">1</span></td><td>Subsistence</td><td></td></tr><tr><td><strong>Mirmathi</strong></td><td><span class=\"size-v\">V</span></td><td>Barone Bino Costa</td><td>78</td><td>20c</td><td><span class=\"wealth-2\">2</span></td><td>Agriculture</td><td>Farming settlement, most farmers live in Luccini</td></tr><tr><td><strong>Costco</strong></td><td><span class=\"size-v\">V</span></td><td>Debora di Coppola</td><td>56</td><td>5c</td><td><span class=\"wealth-1\">1</span></td><td>Subsistence</td><td></td></tr><tr><td><strong>Vlacherna</strong></td><td><span class=\"size-v\">V</span></td><td>Signor Fabrizio Grasseli</td><td>39</td><td>1a / 2b</td><td><span class=\"wealth-1\">1</span></td><td>Subsistence</td><td></td></tr><tr><td><strong>Avrippio</strong></td><td><span class=\"size-st\">ST</span></td><td>Conte Greta Yanni</td><td>358</td><td>20b / 70c</td><td><span class=\"wealth-2\">2</span></td><td>Wine, Cattle, Fishing</td><td></td></tr><tr><td><strong>Roccaforte del Mar</strong></td><td><span class=\"size-f\">F</span></td><td>Capo Giuliano Adorno</td><td>200</td><td>30a / 30b / 100c</td><td><span class=\"wealth-2\">2</span></td><td>Raiding, Timber</td><td>Nearest Luccinan fort to Cappeli</td></tr><tr><td><strong>Sanatorio</strong></td><td><span class=\"size-v\">V</span></td><td>Barone Verena Gucci</td><td>93</td><td>20c</td><td><span class=\"wealth-2\">2</span></td><td>Agriculture</td><td>Produces large quantity of Olive Oil</td></tr><tr><td><strong>Ariano Irpino</strong></td><td><span class=\"size-v\">V</span></td><td>Barone Gabriella Esposito</td><td>45</td><td>5c</td><td><span class=\"wealth-2\">2</span></td><td>Cattle</td><td>Farming settlement, most farmers live in Luccini</td></tr><tr><td><strong>Di Palma</strong></td><td><span class=\"size-st\">ST</span></td><td>Doge Haline Fiorentino</td><td>657</td><td>10b / 100c</td><td><span class=\"wealth-4\">4</span></td><td>Wine, Trade, Tolls</td><td>Sits on the road from Monte Castello to Luccini</td></tr><tr><td><strong>Vene Spazi</strong></td><td><span class=\"size-f\">F</span></td><td>Duca Dastardli</td><td>330</td><td>90b / 140c</td><td><span class=\"wealth-2\">2</span></td><td>Tolls, Raiding</td><td>Guards the strait between Tilea and Sartosa</td></tr><tr><td><strong>Aldi</strong></td><td><span class=\"size-v\">V</span></td><td>Barone Niccola Pazzi</td><td>76</td><td>5c</td><td><span class=\"wealth-2\">2</span></td><td>Agriculture, Sheep</td><td></td></tr><tr><td><strong>Paramythia</strong></td><td><span class=\"size-v\">V</span></td><td>Signor Omar Muzzeti</td><td>83</td><td>10c</td><td><span class=\"wealth-2\">2</span></td><td>Furs, Agriculture</td><td></td></tr><tr><td><strong>Minervino</strong></td><td><span class=\"size-v\">V</span></td><td>Barone Zetico Vitorio</td><td>60</td><td>5c</td><td><span class=\"wealth-1\">1</span></td><td>Subsistence</td><td>Farming settlement, most farmers live in Luccini</td></tr><tr><td><strong>Ven. dei Chiaro</strong></td><td><span class=\"size-f\">F</span></td><td>Barone Tonni Testori</td><td>300</td><td>50a / 100b / 40c</td><td><span class=\"wealth-2\">2</span></td><td>—</td><td>Garrison in the middle of the Plain of Luccini</td></tr><tr><td><strong>Nuova Luccini</strong></td><td><span class=\"size-st\">ST</span></td><td>Comte Nikolas Alfresco</td><td>967</td><td>20a / 80b / 100c</td><td><span class=\"wealth-2\">2</span></td><td>Timber, Trade, Spices, Gold</td><td>Colony located in Lustria</td></tr></tbody></table><div class=\"note\"><p><strong>Summary:</strong> The Contado of Luccini encompasses 16 settlements including the capital city of Luccini (196,000 inhabitants - the largest in Tilea), 3 small towns, 9 villages, 3 forts, and even a distant colony in Lustria. The realm is ruled by Prince Lorenzo Lupo from the magnificent city of Luccini.</p></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.6M5nlwvEFjQRa0JJ"
+    },
+    {
+      "sort": 250000,
+      "name": "Luccini",
+      "type": "text",
+      "_id": "ezIvgaOwcRBXvlWo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.KIikTZRXh4IV1ut6]{The Theatre of Ravens}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.4fsUG2kHOdo9ZUAD]{Dock Ward}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.3LutEpHvypdysm4N]{Palazzo of Rectitude}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.mL4W4Ksh5GTHVMBo]{Fratelli Ward, the Cittàladro}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.bZc4krNR04lPF6rJ]{The de Roelef Lace Warehouse}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.NC8Rkx7BMo9VKzRS]{Isola di San Andrea}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.T9werJXFfP2mPXz8]{Palazzo Fabilaux}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.m3VIjwilJd8y1Q9u]{The Noose and the Anchor}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.kCvvfnrnLByDhvAj]{The Twin Temple}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.UWQpDtsCdWsmahJk]{Palazzo of the Sea}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.974I5X6l6oBBtuHe]{The Spiral Minaret}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.Eaw9zPGpZI13y3ax]{The Blackstone Passages}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.qpKxcAI1lu2c9fGe]{The City of Stone}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.0dhs35hP0rlUMqxD]{The Lazzaretto of Shallya}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco.JournalEntryPage.fn6tKback8WFdWAV]{Piazza della Danarosi}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.ezIvgaOwcRBXvlWo"
+    },
+    {
+      "sort": 1900000,
+      "name": "Portomaggiore",
+      "type": "text",
+      "_id": "HTK7eJUypiGV7kN9",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Situated to the north of Luccini, this small town boasts an exceptionally large palazzo called the Palace of Peace located at the town’s edge. The palace was once home to a priest of Myrmidia who kept the shutters barred and locked at all times. The priest remained in his great chamber hosting an eternal feast during which captured enemies were forced to dance at spear point until they collapsed their feet bloody ruins and lungs bursting for air.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The prince hired many courtesans from around Tilea, and they received a similar treatment. Courtesans unfortunate enough to suffer injuries or disfigurements to their faces were thrown from the upper stories of the Palace of Peace. Castoffs who survived the fall were left to crawl away from the eternal revelry through Portomaggiore’s dark streets. The terrified citizens huddled behind closed doors, sure that the priest’s black garbed men-at-arms would come fetch them at the slightest sound.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">After standing abandoned for many years, the Palace of Peace has now been re-occupied by Georgio Sideri, a young man from Raverno with money to spend and friends to entertain. The palace once again hosts great feasts throughout the night.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.HTK7eJUypiGV7kN9"
+    },
+    {
+      "sort": 2000000,
+      "name": "Capelli",
+      "type": "text",
+      "_id": "wh5yUK3KoB6WPUuF",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This logging town on the fringes of the Sussurio forest exports quality poplar wood for use in decorative panelling and votive boxes. Capelli is ruled by Duke Alfonso Lupo, cousin of Lorenzo of Luccini. Duke Alfonso can most often be found at the Piazza Vecchio in the centre of the town, lounging in the sun and surrounded by bodyguards and petitioners. The duke does occasionally grant an audience to petitioners who aren’t sort of funny-looking as long as they are from around the area.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">A small sight-seeing business operates in the forest near Capelli. Parties of nobles pay good money to visit the deeper parts of the woods, where they hope to see the legendary, savage half-man-half-beast creatures called Fauns. Locals tell of more expensive trips undertaken annually on the Night of Mystery, when tourists can celebrate dark rites with the beasts. According to rumour, not everyone returns from these Geheimnisnacht excursions.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.wh5yUK3KoB6WPUuF"
+    },
+    {
+      "sort": 2100000,
+      "name": "Aldente",
+      "type": "text",
+      "_id": "4nHZyK4m0WkhgmhQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">At the time of the Crusades, the town now called Aldente was used to house servants and slaves of the defeated Arabyans and pirates. After the Crusades, the prisoners became an important part of the town’s population and it became known as Al Gore. Over the years, the town became famous across Tilea for the quality of its physicians, particularly its dentists. Modern Tileans call the town Aldente, or “city of the teeth”.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.4nHZyK4m0WkhgmhQ"
+    },
+    {
+      "sort": 2200000,
+      "name": "Minotupa",
+      "type": "text",
+      "_id": "9CHouLG8tC3SxQXX",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The forbidding basalt walls of the Bastion of Minotupa overshadow the town and harbour that nestle in the cliffs below. Situated on the southern coast, this fortress was built as one of many bulwarks against roving fleets sailing across the Pirate’s Current from Sartosa.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Although the cannons and ballista of the fortress make a forbidding sight, the town has historically created more pirates than it’s prevented. The most notable Minotupan pirate was the ‘Black Corsair’, a notorious gentleman-pirate who savaged Tilean shipping for many years before eventually being revealed as the Conte of Minotupa himself.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Even today, the twisting cobbled alleyways of Minotupa harbour many smugglers and pirates, earning the town a reputation as a hive of villainy and scum. The current Count Ignacio Finetti, although not predisposed to piracy himself, does little to impose law on the populace. As long as exotic goods continue flowing through his port, he takes little interest in how and where they were acquired.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.9CHouLG8tC3SxQXX"
+    },
+    {
+      "sort": 2300000,
+      "name": "Tomb of Amenemhetum",
+      "type": "text",
+      "_id": "DKGplszUNvoTVug1",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142773,
+        "modifiedTime": 1793066142773,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!0V8O77UBoXBwhjco.DKGplszUNvoTVug1"
+    }
+  ],
+  "folder": "EmSTQJKet8erG7Yu",
+  "categories": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2ae415bf59272951255c309b2aabd87523d174fe"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142773,
+    "modifiedTime": 1793066142773,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!0V8O77UBoXBwhjco"
+}

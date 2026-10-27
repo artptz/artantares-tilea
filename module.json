@@ -1,0 +1,93 @@
+{
+  "id": "artantares-tilea",
+  "title": "Antares Tilea WIP",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "antares",
+      "discord": "antares",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "items",
+      "label": "Items (Tilea)",
+      "path": "packs/items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e",
+      "flags": {}
+    },
+    {
+      "name": "journals",
+      "label": "Journals (Tilea)",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e",
+      "flags": {}
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Tilea)",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e",
+      "flags": {}
+    },
+    {
+      "name": "tables",
+      "label": "Rolltables (Tilea)",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Tilea",
+      "sorting": "m",
+      "packs": [
+        "items",
+        "journals",
+        "scenes",
+        "tables"
+      ],
+      "color": "#a2070e",
+      "folders": []
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}

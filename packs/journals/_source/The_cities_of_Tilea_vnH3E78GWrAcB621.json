@@ -1,0 +1,69 @@
+{
+  "name": "The cities of Tilea",
+  "_id": "vnH3E78GWrAcB621",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Tilean Gazetteer",
+      "type": "text",
+      "_id": "x460td0bVWtzekw2",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Settlement Size:</strong> CS=City State (any size), C=City (10000+), T=Town (1000-10000), ST=Small Town (100-1000), V=Village (1-100), F=Fort (any size), M=Mine (any size), R=Ruin, DH=Dwarf Hold (any size)</p><div class=\"legend\"><p><strong>Wealth:</strong> 1=Impoverished, 5=Very Rich</p><p><strong>Garrison/Militia Quality:</strong> A=Excellent, B=Average, C=Poor</p></div><table><thead><tr><th>Name</th><th>Size</th><th>Ruler</th><th>Population</th><th>Garrison</th><th>Wealth</th><th>Economy</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Remas</strong></td><td><span class=\"size-cs\">CS</span></td><td>Triumvirs Poppeia, Julius, Crassus</td><td>130,000</td><td>350a / 500b / 5000c</td><td>5</td><td>Trade, Government, Fishing, Boatbuilding</td><td>High Temples for most cults, Administrative centre</td></tr><tr><td><strong>Stiani</strong></td><td><span class=\"size-t\">T</span></td><td>Triumvirs Poppeia, Julius, Crassus</td><td>6,000</td><td>100b / 500c</td><td>4</td><td>Trade, Agriculture, Wine</td><td>Remas rules directly, Capa Cuoco head of garrison</td></tr><tr><td><strong>Astiano</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Girolomo Mazzuli</td><td>4,000</td><td>20a / 250c</td><td>3</td><td>Agriculture, Sheep, Wine</td><td></td></tr><tr><td><strong>Catrazza</strong></td><td><span class=\"size-t\">T</span></td><td>Doge Jacoppo Lombardi</td><td>650</td><td>10a / 100b / 50c</td><td>2</td><td>Agriculture, Fishing</td><td>Approx 1000 refugees and Miragliano fleet now here</td></tr><tr><td><strong>Urbino</strong></td><td><span class=\"size-t\">T</span></td><td>Duca Giovanni Pergolesi</td><td>5,200</td><td>50a / 600c</td><td>5</td><td>Trade, Fishing, Agriculture</td><td></td></tr><tr><td><strong>Scorcio</strong></td><td><span class=\"size-st\">ST</span></td><td>Conte Andrea Puccini</td><td>800</td><td>25b / 60c</td><td>3</td><td>Agriculture, Olive Oil</td><td></td></tr><tr><td><strong>Varieno</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Fedrico Campi</td><td>3,750</td><td>50b / 350c</td><td>3</td><td>Timber, Cattle, Wine</td><td></td></tr><tr><td><strong>Nonucci</strong></td><td><span class=\"size-f\">F</span></td><td>Primus Pilus Sabatine Mercer</td><td>100</td><td>10a / 20c</td><td>2</td><td>Fishing</td><td>Island village, home to Myrmidian prison</td></tr><tr><td><strong>Verezzo</strong></td><td><span class=\"size-cs\">CS</span></td><td>Signor Rossi</td><td>56,000</td><td>170a / 1200c</td><td>4</td><td>Trade, Agriculture, Industry, Wine</td><td></td></tr><tr><td><strong>Scozzese</strong></td><td><span class=\"size-v\">V</span></td><td>Conte di Argentisso</td><td>3,500</td><td>40b / 300c</td><td>3</td><td>Wine, Agriculture, Olive Oil</td><td></td></tr><tr><td><strong>Rifraffa</strong></td><td><span class=\"size-st\">ST</span></td><td>Conte Cesare Lombroso</td><td>750</td><td>25b / 25c</td><td>2</td><td>Wine, Agriculture</td><td></td></tr><tr><td><strong>Spomanti</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Jacopo Montaperti</td><td>3,800</td><td>50b / 450c</td><td>4</td><td>Wine, Agriculture, Cattle</td><td></td></tr><tr><td><strong>Terenne</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Antonio Montecchis</td><td>4,500</td><td>50b / 260c</td><td>3</td><td>Ore, Trade</td><td></td></tr><tr><td><strong>Raverno</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Girolamo Sordello</td><td>4,000</td><td>50b / 200c</td><td>3</td><td>Agriculture, Wine, Sheep</td><td></td></tr><tr><td><strong>Olesi</strong></td><td><span class=\"size-t\">T</span></td><td>Duca Matteo Boiardo</td><td>6,400</td><td>100b / 500c</td><td>3</td><td>Fishing, Agriculture, Trade</td><td></td></tr><tr><td><strong>Luccini</strong></td><td><span class=\"size-cs\">CS</span></td><td>Prince Lorenzo Lupo</td><td>196,000</td><td>300a / 800b / 3000c</td><td>5</td><td>Religion, Government, Trade, Shipbuilding</td><td>Largest city in Tilea</td></tr><tr><td><strong>Portomaggiore</strong></td><td><span class=\"size-t\">T</span></td><td>Prince Georgio Sideri</td><td>5,100</td><td>60a / 400c</td><td>3</td><td>Wine, Fishing, Boatbuilding</td><td></td></tr><tr><td><strong>Minotupa</strong></td><td><span class=\"size-t\">T</span></td><td>Prince Lorenzo Lupo</td><td>5,000</td><td>75a / 750c</td><td>4</td><td>Fishing, Agriculture, Wine</td><td></td></tr><tr><td><strong>Capelli</strong></td><td><span class=\"size-t\">T</span></td><td>Duchessa Veronica di Padua</td><td>5,100</td><td>25a / 500c</td><td>3</td><td>Timber, Sheep, Trade</td><td></td></tr><tr><td><strong>Aldente</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Marsilius Natta</td><td>2,550</td><td>25b / 100c</td><td>3</td><td>Wine, Agriculture, Olive Oil</td><td></td></tr><tr><td><strong>Pavezzano</strong></td><td><span class=\"size-t\">T</span></td><td>Duca Baldassare Peruzzi</td><td>5,600</td><td>60a / 1700c</td><td>4</td><td>Trade, Fishing, Agriculture</td><td></td></tr><tr><td><strong>Monte Castello</strong></td><td><span class=\"size-f\">F</span></td><td>Comandante di Meglio</td><td>2,250</td><td>150a / 100c</td><td>3</td><td>Fishing, Cattle</td><td></td></tr><tr><td><strong>Pugno</strong></td><td><span class=\"size-st\">ST</span></td><td>Marchesa Lucrezia Petrarch</td><td>850</td><td>34b / 70c</td><td>2</td><td>Agriculture, Wine</td><td></td></tr><tr><td><strong>Organza</strong></td><td><span class=\"size-st\">ST</span></td><td>Duke Guillano Organao</td><td>231</td><td>10a / 23b / 39c</td><td>2</td><td>Mining, Goats</td><td></td></tr><tr><td><strong>Kazad Frankund</strong></td><td><span class=\"size-f\">F</span></td><td>King Garil Thunderclap</td><td>230</td><td>200b</td><td>2</td><td>Government</td><td></td></tr><tr><td><strong>Karak Eksfilaz</strong></td><td><span class=\"size-dh\">DH</span></td><td>King Hergar Steelclad</td><td>5,000</td><td>1000b / 200c</td><td>3</td><td>Trade, Ore, Metalwork</td><td></td></tr><tr><td><strong>Grung Mizpal</strong></td><td><span class=\"size-m\">M</span></td><td>King Hergar Steelclad</td><td>57</td><td>8c</td><td>2</td><td>Ore</td><td></td></tr><tr><td><strong>Karak Sedazund</strong></td><td><span class=\"size-f\">F</span></td><td>King Garil Thunderclap</td><td>150</td><td>120b</td><td>2</td><td>Government</td><td></td></tr><tr><td><strong>Karak Grom</strong></td><td><span class=\"size-dh\">DH</span></td><td>King Garil Thunderclap</td><td>3,200</td><td>640b / 120c</td><td>3</td><td>Trade, Ore, Metalwork</td><td></td></tr><tr><td><strong>Khazid Urbaz</strong></td><td><span class=\"size-v\">V</span></td><td>King Garil Thunderclap</td><td>90</td><td>10b / 6c</td><td>2</td><td>Ore, Metalwork</td><td></td></tr><tr><td><strong>K. Kaferkammaz</strong></td><td><span class=\"size-dh\">DH</span></td><td>King Skal Redbeard</td><td>2,500</td><td>500b</td><td>3</td><td>Trade, Ore, Metalwork</td><td></td></tr><tr><td><strong>Toscania</strong></td><td><span class=\"size-cs\">CS</span></td><td>Duchesa Patrizia Malpighi</td><td>8,700</td><td>150a / 2000c</td><td>3</td><td>Trade, Wine, Ore, Goats</td><td></td></tr><tr><td><strong>Porto Real</strong></td><td><span class=\"size-t\">T</span></td><td>Governor Emeric Gorge</td><td>1,200</td><td>10b / 150c</td><td>3</td><td>Sugar, Tobacco</td><td></td></tr><tr><td><strong>Porto Sarba</strong></td><td><span class=\"size-st\">ST</span></td><td>Governor Koenraad de Graeff</td><td>320</td><td>10b / 30c</td><td>2</td><td>Fishing, Trade, Piracy</td><td></td></tr><tr><td><strong>Aguilas</strong></td><td><span class=\"size-cs\">CS</span></td><td>Marquis Juan Narciso</td><td>13,000</td><td>180b / 1500c</td><td>4</td><td>Boatbuilding, Trade, Government, Plantation Port</td><td></td></tr><tr><td><strong>Porto Espejo</strong></td><td><span class=\"size-st\">ST</span></td><td>Marcos de Nizza</td><td>400</td><td>20b / 35c</td><td>2</td><td>Fishing, Plantation</td><td></td></tr><tr><td><strong>Miragliano</strong></td><td><span class=\"size-cs\">CS</span></td><td>Duce Vincenzo Cornuti</td><td>93,000</td><td>200a / 400b / 2600c</td><td>5</td><td>Trade, Boatbuilding, Government, Fishing</td><td>Recent reports indicate razed by Skaven</td></tr><tr><td><strong>Cera-Scuro</strong></td><td><span class=\"size-f\">F</span></td><td>Gov* Dominico Caraccioli</td><td>120</td><td>50b / 10c</td><td>2</td><td>Government, Trade, Piracy</td><td></td></tr><tr><td><strong>Gorgon's Ola</strong></td><td><span class=\"size-v\">V</span></td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td></td></tr><tr><td><strong>Bacino Reale</strong></td><td><span class=\"size-t\">T</span></td><td>Lord Gov di Giudice</td><td>252</td><td>4b / 52c</td><td>2</td><td>Trade</td><td></td></tr><tr><td><strong>Udolpho</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Guilio Uberti</td><td>4,200</td><td>150a / 1000c</td><td>3</td><td>Ore, Timber, Wine</td><td></td></tr><tr><td><strong>Ebino</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Galeazzo</td><td>3,600</td><td>40a / 200c</td><td>3</td><td>Trade, Agriculture, Cattle</td><td></td></tr><tr><td><strong>Ravola</strong></td><td><span class=\"size-st\">ST</span></td><td>Contessa Patrizia Malpighi</td><td>850</td><td>25b / 35c</td><td>2</td><td>Wine, Agriculture</td><td></td></tr><tr><td><strong>Campogrotta</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Guido Novello</td><td>3,500</td><td>100a / 400b</td><td>3</td><td>Trade, Goats, Ore</td><td></td></tr><tr><td><strong>Trantio</strong></td><td><span class=\"size-cs\">CS</span></td><td>Prince Giorgio da Vignola</td><td>11,000</td><td>150a / 200b / 700c</td><td>4</td><td>Trade, Agriculture, Goats</td><td></td></tr><tr><td><strong>Pavona</strong></td><td><span class=\"size-cs\">CS</span></td><td>Prince Emanuele Orlando</td><td>12,500</td><td>100a / 350b / 500c</td><td>4</td><td>Trade, Agriculture, Wine, Sheep</td><td></td></tr><tr><td><strong>Raganos</strong></td><td><span class=\"size-st\">ST</span></td><td>Duquesa Tigridia Arlanza</td><td>910</td><td>35b / 50c</td><td>2</td><td>Ore, Woodworking</td><td></td></tr><tr><td><strong>Durango</strong></td><td><span class=\"size-st\">ST</span></td><td>Duque Nuno Rasura</td><td>850</td><td>32b / 50c</td><td>2</td><td>Sheep, Ore</td><td></td></tr><tr><td><strong>Guanir</strong></td><td><span class=\"size-st\">ST</span></td><td>Duque Inigo Arista</td><td>720</td><td>28b / 45c</td><td>2</td><td>Timber</td><td></td></tr><tr><td><strong>Sartosa</strong></td><td><span class=\"size-cs\">CS</span></td><td>King Giovanni Barbarossa</td><td>3,000</td><td>1200b / 1800c</td><td>5</td><td>Piracy, Trade, Slavery, Fishing</td><td></td></tr><tr><td><strong>Tobaro</strong></td><td><span class=\"size-cs\">CS</span></td><td>Prince Tibaldus Marsarius de Vela</td><td>18,000</td><td>100a / 1200c</td><td>4</td><td>Trade, Ore, Gemstones, Fishing</td><td></td></tr><tr><td><strong>Alimento</strong></td><td><span class=\"size-v\">V</span></td><td>Conte Guido Novello</td><td>90</td><td>5b / 10c</td><td>2</td><td>Trade, Ore</td><td></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142834,
+        "modifiedTime": 1793066142834,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!vnH3E78GWrAcB621.x460td0bVWtzekw2"
+    }
+  ],
+  "folder": "EmSTQJKet8erG7Yu",
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "130c577306d520eb634d4e4dcb63d3260eda2e39"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142834,
+    "modifiedTime": 1793066142834,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!vnH3E78GWrAcB621"
+}

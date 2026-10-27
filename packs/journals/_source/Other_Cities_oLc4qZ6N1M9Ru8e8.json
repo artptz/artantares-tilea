@@ -1,0 +1,108 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Other Cities",
+  "_id": "oLc4qZ6N1M9Ru8e8",
+  "pages": [
+    {
+      "sort": 200000,
+      "name": "Raganos",
+      "type": "text",
+      "_id": "Jyjj2QPn3fTDSOTp",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Raganos is a small mining community high in the Irrana Mountains, famous for its lifelike warrior statues. The town is perpetually caught in a tug-of-war between the Tilean city states and Estalian Kingdoms, but thus far it has managed to play one side off against the other and remain functionally independent. Currently Raganos claims to be nominally Tilean, but following the recent devastation of Miragliano the town faces an uncertain future.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142818,
+        "modifiedTime": 1793066142818,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!oLc4qZ6N1M9Ru8e8.Jyjj2QPn3fTDSOTp"
+    },
+    {
+      "sort": 400000,
+      "name": "Malavigna",
+      "type": "text",
+      "_id": "9kh6y3RuTNlGksr4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The picturesque village of Malavigna is situated in the Trantine hills overlooking the broad sweeping River Remo. Most villagers live simple lives that chiefly depend upon the quarrying of marble and the tending of vineyards. Even for Tilea the village is renowned for its pragmatism. Trapped between Trantio and Pavona the village’s population spend much of its time switching their loyalty between the two larger cities. Occasionally a battle is fought nearby and somehow villagers caught up in the struggle somehow manage not only to survive but to hold onto the greater part of the loot.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">According to legend, Malavigna was originally founded by a disinherited Bretonnian knight. Tales claim that the knight brought only the shirt on his back, a handful of plundered grape seeds and his mother’s recipe for distilling brandy. Whatever the truth, Malavignan brandy is renowned throughout Tilea today. The drink is made from triple-distilled Trantine grapes, using the finest equipment that can be fashioned with the help of the Dwarf artificers who flock there.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Malavigna’s success in both quarrying and brewing has attracted interest from the Republic of Remas. Currently there is much talk among Remas’ Council of Fifty about the possibility of ‘liberating’ the village from the ‘oppression’ of Trantine nobility. These imperialistic overtures have concerned Baroni Dante Malavigna, who now seeks allies in Remas to discredit the overambitious councillors.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142818,
+        "modifiedTime": 1793066142818,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!oLc4qZ6N1M9Ru8e8.9kh6y3RuTNlGksr4"
+    }
+  ],
+  "categories": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "892a86fa8d69ae658181e7c0312b2d44690dd290"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142818,
+    "modifiedTime": 1793066142818,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!oLc4qZ6N1M9Ru8e8"
+}

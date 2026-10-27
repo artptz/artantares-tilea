@@ -1,0 +1,69 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Tobaro",
+  "_id": "Xf41fMKjfIFY9O3T",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Demographics",
+      "type": "text",
+      "_id": "w2Dn7RLaetZTmSXr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"subtitle\"><p>The Isolated Western Port</p></div><div class=\"legend\"><p><strong>Settlement Size:</strong> CS=City State (any size), T=Town (1000-10000), ST=Small Town (100-1000), V=Village (1-100), F=Fort (any size)</p><p><strong>Wealth:</strong> 1=Impoverished, 2=Poor, 3=Average, 4=Prosperous, 5=Very Rich</p><p><strong>Garrison/Militia Quality:</strong> A=Excellent, B=Average, C=Poor</p></div><table><thead><tr style=\"color:white\"><th>Name</th><th>Size</th><th>Ruler</th><th>Population</th><th>Garrison</th><th>Wealth</th><th>Economy</th><th>Notes</th></tr></thead><tbody><tr class=\"capital-row\"><td><strong>Tobaro</strong></td><td><span class=\"size-cs\">CS</span></td><td>Prince Tibaldus Marsarius de Vela</td><td>18,000</td><td>100a / 1200c</td><td><span class=\"wealth-4\">4</span></td><td>Trade, Ore, Gemstones, Fishing</td><td>Capital - Carved into cliffs</td></tr><tr><td><strong>Vendeza</strong></td><td><span class=\"size-t\">T</span></td><td>Conte Alessandro Stornello</td><td>2,800</td><td>30b / 200c</td><td><span class=\"wealth-3\">3</span></td><td>Fishing, Trade, Ore</td><td>Coastal town north of Tobaro</td></tr><tr><td><strong>Aubene</strong></td><td><span class=\"size-t\">T</span></td><td>Contessa Fiora Navarra</td><td>2,100</td><td>25b / 150c</td><td><span class=\"wealth-3\">3</span></td><td>Agriculture, Fishing, Ore</td><td>Mountain valley settlement</td></tr><tr><td><strong>Triasto</strong></td><td><span class=\"size-t\">T</span></td><td>Barone Luca Marino</td><td>1,400</td><td>15b / 100c</td><td><span class=\"wealth-2\">2</span></td><td>Fishing, Trade</td><td>Small coastal port</td></tr><tr><td><strong>Porto Espeno</strong></td><td><span class=\"size-st\">ST</span></td><td>Governor Marcos de Nizza</td><td>400</td><td>20b / 35c</td><td><span class=\"wealth-2\">2</span></td><td>Fishing, Plantation</td><td>Estalian influence</td></tr></tbody></table><h3>Smaller Settlements</h3><table><thead><tr style=\"color:white\"><th>Name</th><th>Size</th><th>Est. Population</th></tr></thead><tbody><tr><td>Morrare</td><td><span class=\"size-v\">V</span></td><td>85</td></tr><tr><td>Slazo</td><td><span class=\"size-v\">V</span></td><td>70</td></tr><tr><td>Grotta</td><td><span class=\"size-st\">ST</span></td><td>320</td></tr><tr><td>Sega</td><td><span class=\"size-v\">V</span></td><td>95</td></tr><tr><td>Conche</td><td><span class=\"size-v\">V</span></td><td>60</td></tr><tr><td>Possa</td><td><span class=\"size-st\">ST</span></td><td>280</td></tr><tr><td>Ronche</td><td><span class=\"size-v\">V</span></td><td>75</td></tr><tr><td>Bottero</td><td><span class=\"size-st\">ST</span></td><td>350</td></tr><tr><td>Cargol</td><td><span class=\"size-v\">V</span></td><td>65</td></tr><tr><td>Erto</td><td><span class=\"size-v\">V</span></td><td>55</td></tr></tbody></table><div class=\"note\"><p><strong>Total Contado Population:</strong> ~28,000. Tobaro's territory is limited by the Abasko Mountains. Most settlements are either coastal fishing villages or mountain mining communities connected to Tobaro's tunnel network.</p></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142815,
+        "modifiedTime": 1793066142815,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!Xf41fMKjfIFY9O3T.w2Dn7RLaetZTmSXr"
+    }
+  ],
+  "categories": [],
+  "sort": 487500,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4599d7c57b4ecbcfc82fb9e114f037209e768d10"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142815,
+    "modifiedTime": 1793066142815,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!Xf41fMKjfIFY9O3T"
+}
