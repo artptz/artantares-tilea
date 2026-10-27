@@ -1,14 +1,5 @@
-2026/10/27-03:08:33.983359 700008e23000 Recovering log #8
-2026/10/27-03:08:33.984872 700008e23000 Delete type=3 #7
-2026/10/27-03:08:33.984966 700008e23000 Delete type=0 #8
-2026/10/27-03:08:34.005360 7000096a9000 Level-0 table #12: started
-2026/10/27-03:08:34.006702 7000096a9000 Level-0 table #12: 70198 bytes OK
-2026/10/27-03:08:34.007029 7000096a9000 Delete type=0 #10
-2026/10/27-03:08:34.007156 7000096a9000 Manual compaction at level-0 from '!folders!Cu2z0HfAib1HbO07' @ 72057594037927935 : 1 .. '!tables.results!lHxkQ8gZTQQcWjxg.m8W6pT4xL1fN9cRk' @ 0 : 0; will stop at '!tables.results!lHxkQ8gZTQQcWjxg.m8W6pT4xL1fN9cRk' @ 61 : 1
-2026/10/27-03:08:34.007170 7000096a9000 Compacting 2@0 + 0@1 files
-2026/10/27-03:08:34.008766 7000096a9000 Generated table #13@0: 407 keys, 70198 bytes
-2026/10/27-03:08:34.008786 7000096a9000 Compacted 2@0 + 0@1 files => 70198 bytes
-2026/10/27-03:08:34.009040 7000096a9000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/27-03:08:34.009163 7000096a9000 Delete type=2 #12
-2026/10/27-03:08:34.009280 7000096a9000 Delete type=2 #5
-2026/10/27-03:08:34.009449 7000096a9000 Manual compaction at level-0 from '!tables.results!lHxkQ8gZTQQcWjxg.m8W6pT4xL1fN9cRk' @ 61 : 1 .. '!tables.results!lHxkQ8gZTQQcWjxg.m8W6pT4xL1fN9cRk' @ 0 : 0; will stop at (end)
+2026/10/27-04:55:34.683516 700011c93000 Recovering log #15
+2026/10/27-04:55:34.685595 700011c93000 Level-0 table #17: started
+2026/10/27-04:55:34.687043 700011c93000 Level-0 table #17: 42177 bytes OK
+2026/10/27-04:55:34.688229 700011c93000 Delete type=0 #15
+2026/10/27-04:55:34.688687 700011c93000 Delete type=3 #14

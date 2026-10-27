@@ -1,14 +1,11 @@
-2026/10/27-03:08:33.703590 70000be1e000 Recovering log #8
-2026/10/27-03:08:33.705040 70000be1e000 Delete type=3 #7
-2026/10/27-03:08:33.705126 70000be1e000 Delete type=0 #8
-2026/10/27-03:08:33.733070 70000c6a4000 Level-0 table #12: started
-2026/10/27-03:08:33.737525 70000c6a4000 Level-0 table #12: 292660 bytes OK
-2026/10/27-03:08:33.737943 70000c6a4000 Delete type=0 #10
-2026/10/27-03:08:33.738472 70000c6a4000 Manual compaction at level-0 from '!folders!EmSTQJKet8erG7Yu' @ 72057594037927935 : 1 .. '!journal.pages!wmW3O8AfgvV5wqzg.zOssXdQvjsEEQjXl' @ 0 : 0; will stop at '!journal.pages!wmW3O8AfgvV5wqzg.zOssXdQvjsEEQjXl' @ 117 : 1
-2026/10/27-03:08:33.738496 70000c6a4000 Compacting 2@0 + 0@1 files
-2026/10/27-03:08:33.743699 70000c6a4000 Generated table #13@0: 155 keys, 292660 bytes
-2026/10/27-03:08:33.743722 70000c6a4000 Compacted 2@0 + 0@1 files => 292660 bytes
-2026/10/27-03:08:33.743963 70000c6a4000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/27-03:08:33.744078 70000c6a4000 Delete type=2 #12
-2026/10/27-03:08:33.744219 70000c6a4000 Delete type=2 #5
-2026/10/27-03:08:33.744410 70000c6a4000 Manual compaction at level-0 from '!journal.pages!wmW3O8AfgvV5wqzg.zOssXdQvjsEEQjXl' @ 117 : 1 .. '!journal.pages!wmW3O8AfgvV5wqzg.zOssXdQvjsEEQjXl' @ 0 : 0; will stop at (end)
+2026/10/27-04:55:34.663407 70001048a000 Recovering log #15
+2026/10/27-04:55:34.663910 70001048a000 Level-0 table #17: started
+2026/10/27-04:55:34.664791 70001048a000 Level-0 table #17: 11412 bytes OK
+2026/10/27-04:55:34.666128 70001048a000 Delete type=0 #15
+2026/10/27-04:55:34.666266 70001048a000 Delete type=3 #14
+2026/10/27-04:55:35.208275 700009acf000 Compacting 1@0 + 1@1 files
+2026/10/27-04:55:35.216306 700009acf000 Generated table #19@0: 155 keys, 302077 bytes
+2026/10/27-04:55:35.216349 700009acf000 Compacted 1@0 + 1@1 files => 302077 bytes
+2026/10/27-04:55:35.216670 700009acf000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/27-04:55:35.216841 700009acf000 Delete type=2 #17
+2026/10/27-04:55:35.217178 700009acf000 Delete type=2 #13

@@ -1,14 +1,3 @@
-2026/10/27-03:08:34.253374 700012757000 Recovering log #8
-2026/10/27-03:08:34.254913 700012757000 Delete type=3 #7
-2026/10/27-03:08:34.254990 700012757000 Delete type=0 #8
-2026/10/27-03:08:34.260117 700012fdd000 Level-0 table #12: started
-2026/10/27-03:08:34.260566 700012fdd000 Level-0 table #12: 3640 bytes OK
-2026/10/27-03:08:34.260796 700012fdd000 Delete type=0 #10
-2026/10/27-03:08:34.260957 700012fdd000 Manual compaction at level-0 from '!folders!BlE6a0Sj9zcjJ9UV' @ 72057594037927935 : 1 .. '!scenes.levels!vqt9i37RQrgcD9UI.defaultLevel0000' @ 0 : 0; will stop at '!scenes.levels!vqt9i37RQrgcD9UI.defaultLevel0000' @ 8 : 1
-2026/10/27-03:08:34.261015 700012fdd000 Compacting 2@0 + 0@1 files
-2026/10/27-03:08:34.261417 700012fdd000 Generated table #13@0: 9 keys, 3640 bytes
-2026/10/27-03:08:34.261434 700012fdd000 Compacted 2@0 + 0@1 files => 3640 bytes
-2026/10/27-03:08:34.261612 700012fdd000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/27-03:08:34.261695 700012fdd000 Delete type=2 #12
-2026/10/27-03:08:34.261783 700012fdd000 Delete type=2 #5
-2026/10/27-03:08:34.261958 700012fdd000 Manual compaction at level-0 from '!scenes.levels!vqt9i37RQrgcD9UI.defaultLevel0000' @ 8 : 1 .. '!scenes.levels!vqt9i37RQrgcD9UI.defaultLevel0000' @ 0 : 0; will stop at (end)
+2026/10/27-04:55:34.674390 700011490000 Recovering log #15
+2026/10/27-04:55:34.675683 700011490000 Delete type=0 #15
+2026/10/27-04:55:34.675770 700011490000 Delete type=3 #14
