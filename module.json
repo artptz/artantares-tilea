@@ -1,6 +1,7 @@
 {
   "id": "artantares-tilea",
-  "title": "Antares Tilea WIP",
+  "title": "Antares | Tilea [WFRP4E]",
+  "description": "Homebrew module for WFPR4E Inspired by Spears of the Maiden (WFRP 2E)",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "14",
@@ -13,9 +14,10 @@
       "flags": {}
     }
   ],
-  "flags": {
-    "canUpload": true
-  },
+  "esmodules": [
+    "./scripts/init.js",
+    "./scripts/lores.js"
+  ],
   "packs": [
     {
       "name": "items",
@@ -88,6 +90,5 @@
         "compatibility": {}
       }
     ]
-  },
-  "description": ""
+  }
 }
