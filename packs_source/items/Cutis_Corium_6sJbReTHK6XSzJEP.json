@@ -1,0 +1,95 @@
+{
+  "folder": "pV6T2GVYIiwr4Wui",
+  "name": "Cutis Corium",
+  "type": "spell",
+  "_id": "6sJbReTHK6XSzJEP",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>With this spell the skin becomes as hard as leather, giving 2 Armor Points in all locations, but these are not cumulative with other armour.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Willpower Bonus Rounds"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 8
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "899eb0ab5425a379b505bc7ee41e4dc5ec949337",
+      "sourceId": "Compendium.artantares-tilea.items.Item.6sJbReTHK6XSzJEP"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723745,
+    "modifiedTime": 1793071723745,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6sJbReTHK6XSzJEP"
+}

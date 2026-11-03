@@ -1,0 +1,95 @@
+{
+  "folder": "pV6T2GVYIiwr4Wui",
+  "name": "Permutatio",
+  "type": "spell",
+  "_id": "ov0Y1F1IOGB1CZZT",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>The wizard can modify the shape of his body. The aspect must be humanoid, and his mass and general characteristics are unchanged: he can’t add limbs, wings or similar. Small modifications are possible, such as a non-prehensile tail, horns, and hooves or similar. However, in this case he suffers a penalty of -5% to his Agility for every addition to his body. The wizard can take the form of a specific target with +2 to the Casting Number of the spell which becomes +4 if the wizard is unfamiliar with the target (has never met him, has a poor portrait of him). He cannot modify his voice, but he can try to imitate his targets.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Willpower Bonus minutes"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 11
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "72f79ebe6f46e9bbefdee9712724fe5b5e609d8a",
+      "sourceId": "Compendium.artantares-tilea.items.Item.ov0Y1F1IOGB1CZZT"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723759,
+    "modifiedTime": 1793071723759,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ov0Y1F1IOGB1CZZT"
+}

@@ -1,0 +1,97 @@
+{
+  "folder": "OGEqW78L0jIarbQk",
+  "name": "Astral Flight",
+  "type": "spell",
+  "_id": "BlUong4CzKOO90Sp",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p class=\"p2\">The astral body of the wizard separates from<span class=\"Apple-converted-space\"> </span>the physical one, barely visible like a ghost. They can project their astral body up to 100 meters with a Movement characteristic of 12, and see everything that is visible, but they can not interact with material objects or speak. Their physical body lies in a stasis state, and it is incapable of performing any action or perceiving his surroundings. The wizard can cancel the spell instantaneously.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": [
+        "heavens"
+      ]
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Willpower Bonus Rounds"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 19
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7d1a10fbe9f68b998ef3a7205abd64836b0c8e98",
+      "sourceId": "Compendium.artantares-tilea.items.Item.BlUong4CzKOO90Sp"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723747,
+    "modifiedTime": 1793071723747,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BlUong4CzKOO90Sp"
+}

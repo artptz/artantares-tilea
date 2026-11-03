@@ -1,0 +1,97 @@
+{
+  "folder": "OGEqW78L0jIarbQk",
+  "name": "Unfavorable Prediction",
+  "type": "spell",
+  "_id": "ss79YqV6OTatahso",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>Manipulating Azur to interfere with a target’s actions, the wizard causes them to have Disadvantage on all Tests for the Duration of the spell.</p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": [
+        "heavens"
+      ]
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "Willpower yards"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "1"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Willpower Bonus Rounds"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 13
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4bce071a69e91a81f5b1b4915e2e6b578c4feb52",
+      "sourceId": "Compendium.artantares-tilea.items.Item.ss79YqV6OTatahso"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723763,
+    "modifiedTime": 1793071723763,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ss79YqV6OTatahso"
+}

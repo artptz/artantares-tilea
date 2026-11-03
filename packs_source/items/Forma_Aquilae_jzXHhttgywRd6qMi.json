@@ -1,0 +1,95 @@
+{
+  "folder": "pV6T2GVYIiwr4Wui",
+  "name": "Forma Aquilae",
+  "type": "spell",
+  "_id": "jzXHhttgywRd6qMi",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>The wizard transforms their body (but not their clothes or other possessions) into an eagle. They gain all stats for a standard eagle but retains their Intelligence and Willpower. The spell can be terminated at will. If he suffers a wound, he must make a successful <strong>Hard (-2 SL) Willpower</strong> Test to retain the eagle form.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Willpower minutes"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 9
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6b1e9df54b70987793be1823b806d5f00b0afb15",
+      "sourceId": "Compendium.artantares-tilea.items.Item.jzXHhttgywRd6qMi"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723757,
+    "modifiedTime": 1793071723757,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!jzXHhttgywRd6qMi"
+}

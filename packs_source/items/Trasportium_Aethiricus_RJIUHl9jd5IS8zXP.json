@@ -1,0 +1,95 @@
+{
+  "folder": "d25IHbExoNbRidlB",
+  "name": "Trasportium Aethiricus",
+  "type": "spell",
+  "_id": "RJIUHl9jd5IS8zXP",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>The mentalist can use Aethir to move objects with his mind. The object’s Encumbrance must be under 50, doubling for each point in the caster’s Magic Characteristic. The object can be moved 1 yard for each point of the caster’s Magic Characteristic.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "Willpower yards"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "Special"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "1 Round"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 7
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c3af95b72ae9f2c8596827df3ebda7fa67511727",
+      "sourceId": "Compendium.artantares-tilea.items.Item.RJIUHl9jd5IS8zXP"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723749,
+    "modifiedTime": 1793071723749,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!RJIUHl9jd5IS8zXP"
+}

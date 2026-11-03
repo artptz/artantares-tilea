@@ -1,0 +1,97 @@
+{
+  "folder": "OGEqW78L0jIarbQk",
+  "name": "Aethyric Instability",
+  "type": "spell",
+  "_id": "S0sU1V7sxhUPXjLe",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>Using Azur, the wizard interferes with a character’s ability to manipulate the Winds of Magic. If the spell targets a magic user, regardless of their type, the first spell this character casts within the spell’s duration will fail and cause a Minor Miscast. If the spell would cause a Miscast already, the severity is increased by one.</p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": [
+        "heavens"
+      ]
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "Willpower yards"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "1"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Willpower Bonus Rounds"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 13
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "888b3de8cc3701f4df5369181b79525dca4d6cde",
+      "sourceId": "Compendium.artantares-tilea.items.Item.S0sU1V7sxhUPXjLe"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723751,
+    "modifiedTime": 1793071723751,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!S0sU1V7sxhUPXjLe"
+}

@@ -1,0 +1,95 @@
+{
+  "folder": "d25IHbExoNbRidlB",
+  "name": "Salus Infirmorum",
+  "type": "spell",
+  "_id": "QxvRHMFUARqN6swV",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>The caster manipulates the Aethir, focusing it on his physical ailments, allowing him to heal 1 Wound for each point of his Magic Characteristic, and preventing potential infections but not an existing infection or disease.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Instantaneous"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 11
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "579f66b4b1f95ba970102ddc60ba293b96e57094",
+      "sourceId": "Compendium.artantares-tilea.items.Item.QxvRHMFUARqN6swV"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723749,
+    "modifiedTime": 1793071723749,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QxvRHMFUARqN6swV"
+}

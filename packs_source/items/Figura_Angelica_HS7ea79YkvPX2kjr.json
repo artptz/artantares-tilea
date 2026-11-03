@@ -1,0 +1,95 @@
+{
+  "folder": "pV6T2GVYIiwr4Wui",
+  "name": "Figura Angelica",
+  "type": "spell",
+  "_id": "HS7ea79YkvPX2kjr",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>The wizard’s shoulder blades erupt from his skin, and take the aspect of large bird’s wings with feathers the colour of the wizard’s choice. At the end of the transformation they are completely functional, allowing the wizard to fly with a Movement of 6. The spell can be terminated at will. If he suffers a wound, he must make a successful <strong>Hard (-2 SL) Willpower </strong>Test to keep this form.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Willpower minutes"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 26
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0a26fe6785a90adaf5177cdc19f568cc36c1c607",
+      "sourceId": "Compendium.artantares-tilea.items.Item.HS7ea79YkvPX2kjr"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723748,
+    "modifiedTime": 1793071723748,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!HS7ea79YkvPX2kjr"
+}

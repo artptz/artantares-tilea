@@ -1,0 +1,97 @@
+{
+  "folder": "OGEqW78L0jIarbQk",
+  "name": "Adverse Fate",
+  "type": "spell",
+  "_id": "ti2diZKMOlniyoqE",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>An enemy gets cursed. By manipulating Azur to interfere with all of the victim’s actions, the wizard forces him to automatically fail a skill test, giving the worst possible result. When this spell is successfully cast, the wizard needs to specify to which action Adverse Fate will be applied (for example, when the enemy rolls to hit or to dodge in combat, etc.)<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": [
+        "heavens"
+      ]
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "1 kilometer"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "1"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "1 day"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 21
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b5ffe134e8819336d04a15b379d7a6e3ffbe302f",
+      "sourceId": "Compendium.artantares-tilea.items.Item.ti2diZKMOlniyoqE"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723763,
+    "modifiedTime": 1793071723763,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ti2diZKMOlniyoqE"
+}

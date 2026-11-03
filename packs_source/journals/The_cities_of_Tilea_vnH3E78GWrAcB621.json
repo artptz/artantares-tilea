@@ -1,0 +1,69 @@
+{
+  "name": "The cities of Tilea",
+  "_id": "vnH3E78GWrAcB621",
+  "pages": [
+    {
+      "sort": 200000,
+      "name": "Tilean Gazetteer",
+      "type": "text",
+      "_id": "kPV2n6URRlWBUUxj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<section><p><strong>Size:</strong> 1 = Hamlet, 2 = Village, 3 = Town, 4 = City. <strong>W</strong> = Wealth (see Death on the Reik Companion, page 71).</p><p><strong>Garrison/Militia:</strong> A Garrison is made up of standing, professional soldiers, available at most times. A Militia is raised from the local populace and available only seasonally.</p><p>The letter after the number refers to quality: <strong>a</strong> = properly drilled, well-trained and equipped soldiers; <strong>b</strong> = average troops, moderately trained and equipped; <strong>c</strong> = poorly equipped troops, possibly required to bring their own equipment, which is generally of poor quality.</p><p>Garrisons and Militia in Tilean settlements tend to be rather larger than their Empire equivalents, due to a tradition of each settlement being expected to look after itself and because it is wise to keep the land's many mercenaries gainfully employed. Entries in ALL CAPS indicate a regional centre of political power, wielding significant influence over the settlements listed below it.</p><table><thead><tr><th scope=\"col\" data-colwidth=\"65\"><p>Settlement</p></th><th scope=\"col\"><p>Size</p></th><th scope=\"col\"><p>Ruler</p></th><th scope=\"col\"><p>Pop</p></th><th scope=\"col\"><p>W</p></th><th scope=\"col\"><p>Produces</p></th><th scope=\"col\"><p>Garrison/Militia</p></th><th scope=\"col\"><p>Notes</p></th></tr></thead><tbody><tr><td data-colwidth=\"65\"><p><strong>LUCCINI</strong></p></td><td><p>4</p></td><td><p>Prince Lorenzo Lupo</p></td><td><p>30,000</p></td><td><p>4</p></td><td><p>Trade, Government, Grain, Wool, Luxuries (Cheese)</p></td><td><p>300a, 600b/300b, 1000c</p></td><td><p>Oldest city in Tilea</p></td></tr><tr><td data-colwidth=\"65\"><p>Anducci</p></td><td><p>1</p></td><td><p>Prince Lorenzo Lupo</p></td><td><p>88</p></td><td><p>1</p></td><td><p>Saltfish</p></td><td><p>–/2b, 8c</p></td><td><p>Due to a historical grievance, Elves are unwelcome here</p></td></tr><tr><td data-colwidth=\"65\"><p>Pattio</p></td><td><p>2</p></td><td><p>Prince Lorenzo Lupo</p></td><td><p>250</p></td><td><p>1</p></td><td><p>Saltfish</p></td><td><p>50b/75c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>MIRAGLIANO</strong></p></td><td><p>4</p></td><td><p>Dowager Princess Dolchellata Belladonna</p></td><td><p>25,000</p></td><td><p>4</p></td><td><p>Trade, Luxuries (Pearls), Government, Saltfish</p></td><td><p>550a, 1800b/900b, 3000c</p></td><td><p>Famed for expert crossbowmen; Miragliano's population declined due to strife following the death of Prince Borgio and the Yellow Ague</p></td></tr><tr><td data-colwidth=\"65\"><p>Amato</p></td><td><p>1</p></td><td><p>Dolchellata Belladonna</p></td><td><p>260</p></td><td><p>1</p></td><td><p>Trade</p></td><td><p>50b/25c</p></td><td><p>Site of many clean springs</p></td></tr><tr><td data-colwidth=\"65\"><p>Campogrotta</p></td><td><p>2</p></td><td><p>Dolchellata Belladonna</p></td><td><p>350</p></td><td><p>2</p></td><td><p>Grain, Wool</p></td><td><p>50a/100b</p></td><td><p>Tilean end of the Alimento Tunnel; a small community of Dwarfs lives here</p></td></tr><tr><td data-colwidth=\"65\"><p>Cammaro</p></td><td><p>2</p></td><td><p>Dolchellata Belladonna</p></td><td><p>0</p></td><td><p>–</p></td><td><p>–</p></td><td><p>–</p></td><td><p>Population vanished in 2511</p></td></tr><tr><td data-colwidth=\"65\"><p>Etobrutti</p></td><td><p>1</p></td><td><p>Dolchellata Belladonna</p></td><td><p>275</p></td><td><p>1</p></td><td><p>Grain</p></td><td><p>50b/52c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Mironia</p></td><td><p>1</p></td><td><p>Dolchellata Belladonna</p></td><td><p>0</p></td><td><p>–</p></td><td><p>–</p></td><td><p>–</p></td><td><p>Population vanished in 2510</p></td></tr><tr><td data-colwidth=\"65\"><p>Parmis</p></td><td><p>2</p></td><td><p>Dolchellata Belladonna</p></td><td><p>0</p></td><td><p>–</p></td><td><p>–</p></td><td><p>–</p></td><td><p>Population vanished in 2512</p></td></tr><tr><td data-colwidth=\"65\"><p>Ravola</p></td><td><p>3</p></td><td><p>Dolchellata Belladonna</p></td><td><p>9,500</p></td><td><p>3</p></td><td><p>Wine</p></td><td><p>30b/300c</p></td><td><p>Finest vineyards in Tilea</p></td></tr><tr><td data-colwidth=\"65\"><p>Toscania</p></td><td><p>2</p></td><td><p>Dolchellata Belladonna</p></td><td><p>365</p></td><td><p>1</p></td><td><p>Metal</p></td><td><p>50b/135c</p></td><td><p>A Dwarf trading post has been established here</p></td></tr><tr><td data-colwidth=\"65\"><p>Udolpho</p></td><td><p>1</p></td><td><p>Melmoth Udolpho</p></td><td><p>100</p></td><td><p>2</p></td><td><p>Subsistence</p></td><td><p>–/5a</p></td><td><p>Reviled as a haunted estate</p></td></tr><tr><td data-colwidth=\"65\"><p>Zeluco</p></td><td><p>2</p></td><td><p>Duce Montoni di Zeluco</p></td><td><p>500</p></td><td><p>4</p></td><td><p>Government</p></td><td><p>300b/–</p></td><td><p>A fortress with labyrinthine dungeons</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>MONTE</strong> <strong>CASTELLO</strong></p></td><td><p>2</p></td><td><p>Castellan Lorenzo di Galeazzo</p></td><td><p>500</p></td><td><p>4</p></td><td><p>Government</p></td><td><p>100a, 400b/–</p></td><td><p>Fortress, troops supplied from all major cities</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>PAVONA</strong></p></td><td><p>4</p></td><td><p>Dowager Princess Lucrezzia Belladonna</p></td><td><p>35,000</p></td><td><p>4</p></td><td><p>Trade, Government, Olives</p></td><td><p>250a, 700b/200b, 1500c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Bucollia</p></td><td><p>2</p></td><td><p>Lucrezzia Belladonna</p></td><td><p>467</p></td><td><p>2</p></td><td><p>Wine</p></td><td><p>50a/100b</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Lambrusco</p></td><td><p>3</p></td><td><p>Revenant Captain Ennio Mordini</p></td><td><p>256</p></td><td><p>–</p></td><td><p>–</p></td><td><p>250a/–</p></td><td><p>A heavily fortified court of the undead</p></td></tr><tr><td data-colwidth=\"65\"><p>Organza</p></td><td><p>3</p></td><td><p>Lucrezzia Belladonna</p></td><td><p>6,500</p></td><td><p>3</p></td><td><p>Wine, Wool</p></td><td><p>20a, 60b/350c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>REMAS</strong></p></td><td><p>4</p></td><td><p>The Triumvirs</p></td><td><p>40,000</p></td><td><p>4</p></td><td><p>Trade, Government, Saltfish</p></td><td><p>350a, 750b/350b, 1000c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Alcatani</p></td><td><p>1</p></td><td><p>The Triumvirs</p></td><td><p>82</p></td><td><p>1</p></td><td><p>Citrus Fruit, Olives</p></td><td><p>–/60c</p></td><td><p>Due to a historical grievance, Trantines are unwelcome</p></td></tr><tr><td data-colwidth=\"65\"><p>Catrazza</p></td><td><p>3</p></td><td><p>The Triumvirs</p></td><td><p>14,000</p></td><td><p>3</p></td><td><p>Grain, Olives</p></td><td><p>50b/200c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Ciarascura</p></td><td><p>3</p></td><td><p>The Triumvirs</p></td><td><p>445</p></td><td><p>4</p></td><td><p>Government</p></td><td><p>300b/–</p></td><td><p>An old bent tower commanded by the tyrannical Castellan Dellecta</p></td></tr><tr><td data-colwidth=\"65\"><p>Motta Zorella</p></td><td><p>2</p></td><td><p>The Triumvirs</p></td><td><p>330</p></td><td><p>2</p></td><td><p>Grain, Wool</p></td><td><p>40a/80b</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Monte Negro</p></td><td><p>3</p></td><td><p>Grand Commander Bassiano Dutra</p></td><td><p>450</p></td><td><p>3</p></td><td><p>Government</p></td><td><p>40a, 250b/–</p></td><td><p>An institution dedicated to the Morrite Fellowship of the Shroud</p></td></tr><tr><td data-colwidth=\"65\"><p>Scintio</p></td><td><p>2</p></td><td><p>The Triumvirs</p></td><td><p>350</p></td><td><p>2</p></td><td><p>Grain, Luxuries (Cheese)</p></td><td><p>45a/120b</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Vennia</p></td><td><p>2</p></td><td><p>The Triumvirs</p></td><td><p>84</p></td><td><p>1</p></td><td><p>Saltfish</p></td><td><p>2b/8c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Zorasta</p></td><td><p>3</p></td><td><p>The Triumvirs</p></td><td><p>6,250</p></td><td><p>3</p></td><td><p>Grain, Saltfish, Trade, Wool</p></td><td><p>35a, 75b/300c</p></td><td><p>A port town famed for its sea defences</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>SARTOSA</strong></p></td><td><p>3</p></td><td><p>The Pirate Princess</p></td><td><p>15,500</p></td><td><p>3</p></td><td><p>Trade (of a sort)</p></td><td><p>550b, 1600c/–</p></td><td><p>Lawless and anarchic lair of pirates</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>TOBARO</strong></p></td><td><p>4</p></td><td><p>Prince Tibaldus Marsarius de Vela</p></td><td><p>35,000</p></td><td><p>4</p></td><td><p>Grain, Stone, Luxuries (Silver, Gemstones, Pink Marble), Trade, Saltfish</p></td><td><p>350a, 500b/400b, 800c</p></td><td><p>Cut off from land by the Abasko Mountains and made nearly unreachable from the sea by Fool's Rocks</p></td></tr><tr><td data-colwidth=\"65\"><p>Cera-Scuro</p></td><td><p>1</p></td><td><p>Tibaldus Marsarius de Vela</p></td><td><p>75</p></td><td><p>1</p></td><td><p>Saltfish</p></td><td><p>10b/75c</p></td><td><p>Previously a lair of pirates in the Siren Isles, recently conquered by Tobaro</p></td></tr><tr><td data-colwidth=\"65\"><p>Vedenza</p></td><td><p>3</p></td><td><p>The Council of Tears</p></td><td><p>10,500</p></td><td><p>3</p></td><td><p>Stone, Olives</p></td><td><p>200b/500c</p></td><td><p>A small republic on the border with Estalia, recently reconquered from Estalian overlordship</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>TRANTIO</strong></p></td><td><p>4</p></td><td><p>Merchant Prince Ettore Rinaldo</p></td><td><p>27,500</p></td><td><p>4</p></td><td><p>Trade, Government</p></td><td><p>250a, 400b/300b, 900c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Ducieso</p></td><td><p>3</p></td><td><p>Prince Frenzo Badolphus</p></td><td><p>12,500</p></td><td><p>3</p></td><td><p>Stone, Olives</p></td><td><p>250b/600c</p></td><td><p>Prince Frenzo is a gifted Astromancer</p></td></tr><tr><td data-colwidth=\"65\"><p>Terramorta</p></td><td><p>1</p></td><td><p>Ettore Rinaldo</p></td><td><p>93</p></td><td><p>1</p></td><td><p>Grain</p></td><td><p>10b/60c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Torrico</p></td><td><p>2</p></td><td><p>Ettore Rinaldo</p></td><td><p>80</p></td><td><p>2</p></td><td><p>Olives</p></td><td><p>–/2b, 8c</p></td><td><p>Population recovering from recent Hobgoblin raids</p></td></tr><tr><td data-colwidth=\"65\"><p>Varenna</p></td><td><p>2</p></td><td><p>Ettore Rinaldo</p></td><td><p>390</p></td><td><p>2</p></td><td><p>Grain, Wool</p></td><td><p>45a/85b</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Viccia</p></td><td><p>1</p></td><td><p>Ettore Rinaldo</p></td><td><p>183</p></td><td><p>1</p></td><td><p>Grain, Wool</p></td><td><p>35b/50c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p><strong>VEREZZO</strong></p></td><td><p>4</p></td><td><p>Groccolo for the Yellows</p></td><td><p>36,000</p></td><td><p>4</p></td><td><p>Trade, Government, Grain</p></td><td><p>250a, 550b/400b, 1200c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Ciabbatta</p></td><td><p>2</p></td><td><p>Groccolo for the Yellows</p></td><td><p>394</p></td><td><p>1</p></td><td><p>Grain</p></td><td><p>20b/100b</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Nonucci</p></td><td><p>1</p></td><td><p>Groccolo for the Yellows</p></td><td><p>260</p></td><td><p>1</p></td><td><p>Subsistence</p></td><td><p>30b/–</p></td><td><p>Penal Colony in the Tilean Sea</p></td></tr><tr><td data-colwidth=\"65\"><p>Riccotta</p></td><td><p>2</p></td><td><p>Groccolo for the Yellows</p></td><td><p>410</p></td><td><p>1</p></td><td><p>Grain</p></td><td><p>15b/100c</p></td><td><p>–</p></td></tr><tr><td data-colwidth=\"65\"><p>Veddia</p></td><td><p>1</p></td><td><p>Groccolo for the Yellows</p></td><td><p>295</p></td><td><p>1</p></td><td><p>Citrus Fruit</p></td><td><p>25b/62c</p></td><td><p>–</p></td></tr></tbody></table></section>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "h0Lg7bIDSLmU7N5a": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793281050949,
+        "modifiedTime": 1793283240846,
+        "lastModifiedBy": "h0Lg7bIDSLmU7N5a",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!vnH3E78GWrAcB621.kPV2n6URRlWBUUxj"
+    }
+  ],
+  "folder": "EmSTQJKet8erG7Yu",
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "130c577306d520eb634d4e4dcb63d3260eda2e39"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142834,
+    "modifiedTime": 1793066142834,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!vnH3E78GWrAcB621"
+}

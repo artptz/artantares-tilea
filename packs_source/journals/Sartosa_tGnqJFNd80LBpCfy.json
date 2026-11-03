@@ -1,0 +1,29 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Sartosa",
+  "_id": "tGnqJFNd80LBpCfy",
+  "pages": [],
+  "categories": [],
+  "sort": 481250,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1d82762629e09e5e03bf07d72ef197800da06f2b"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142822,
+    "modifiedTime": 1793066142822,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!tGnqJFNd80LBpCfy"
+}

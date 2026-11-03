@@ -1,0 +1,27 @@
+{
+  "type": "Item",
+  "folder": "MW16tvVl2QLQkc1B",
+  "name": "Astral College",
+  "color": null,
+  "sorting": "a",
+  "description": "",
+  "flags": {
+    "scene-packer": {
+      "hash": "f2186cf664bb6a327c40c2ddcfa343c595582532"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723614,
+    "modifiedTime": 1793071723614,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "OGEqW78L0jIarbQk",
+  "sort": 0,
+  "_key": "!folders!OGEqW78L0jIarbQk"
+}

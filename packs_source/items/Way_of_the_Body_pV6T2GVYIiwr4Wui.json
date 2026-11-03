@@ -1,0 +1,27 @@
+{
+  "type": "Item",
+  "folder": "MW16tvVl2QLQkc1B",
+  "name": "Way of the Body",
+  "color": null,
+  "sorting": "a",
+  "description": "",
+  "flags": {
+    "scene-packer": {
+      "hash": "2848d2b91cf089fea828ed853801ce5b8bc2a079"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723614,
+    "modifiedTime": 1793071723614,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pV6T2GVYIiwr4Wui",
+  "sort": 0,
+  "_key": "!folders!pV6T2GVYIiwr4Wui"
+}

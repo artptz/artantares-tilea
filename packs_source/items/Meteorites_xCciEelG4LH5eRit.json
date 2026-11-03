@@ -1,0 +1,97 @@
+{
+  "folder": "OGEqW78L0jIarbQk",
+  "name": "Meteorites",
+  "type": "spell",
+  "_id": "xCciEelG4LH5eRit",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>Casting this spell while looking at the sky, the wizard calls down dust from the air, and aggregate this dust to form rocks, which will fall to the ground like miniature meteorites. Everyone in the Area of Effect will suffer a hit with Damage 4. Meteorites are not dodgeable.<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": [
+        "heavens"
+      ]
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "Willpower yards"
+    },
+    "target": {
+      "aoe": true,
+      "maximum": false,
+      "value": "Willpower Bonus yards"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Instant"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 19
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2007aac964fd06bf1725097cc943f978a61fe3ec",
+      "sourceId": "Compendium.artantares-tilea.items.Item.xCciEelG4LH5eRit"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723764,
+    "modifiedTime": 1793071723764,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xCciEelG4LH5eRit"
+}

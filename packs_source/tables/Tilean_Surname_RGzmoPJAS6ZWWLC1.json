@@ -1,0 +1,2639 @@
+{
+  "name": "Tilean Surname",
+  "img": "systems/wfrp4e/ui/buttons/d10.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "3ckWay3IEHUlgQg8",
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Adorno",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.3ckWay3IEHUlgQg8"
+    },
+    {
+      "_id": "dCcJEvsX94AARxHq",
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Armani",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.dCcJEvsX94AARxHq"
+    },
+    {
+      "_id": "sZ3ZyH33tipqQOhx",
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Andretti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.sZ3ZyH33tipqQOhx"
+    },
+    {
+      "_id": "KdBfAuwcFyJtB6MC",
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Bagio",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.KdBfAuwcFyJtB6MC"
+    },
+    {
+      "_id": "jdLQCADRFC7vxCkR",
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Barzinni",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.jdLQCADRFC7vxCkR"
+    },
+    {
+      "_id": "7Tz7yulEkdTNMOdV",
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Baglioni",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.7Tz7yulEkdTNMOdV"
+    },
+    {
+      "_id": "kfMuQfYXzWIDd1IW",
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Bonello",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.kfMuQfYXzWIDd1IW"
+    },
+    {
+      "_id": "ZyINHsM0t7DXf3zr",
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Brancaleone",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.ZyINHsM0t7DXf3zr"
+    },
+    {
+      "_id": "xUnugy71qayuOuSA",
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Camilleri",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.xUnugy71qayuOuSA"
+    },
+    {
+      "_id": "XNkUxPqv6DOtV85b",
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Cauchi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.XNkUxPqv6DOtV85b"
+    },
+    {
+      "_id": "q3qkXiwjN5brplVb",
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Chetcuti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.q3qkXiwjN5brplVb"
+    },
+    {
+      "_id": "NFu81rw5qnIwirGo",
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Corleone",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.NFu81rw5qnIwirGo"
+    },
+    {
+      "_id": "GLF67sOWiOHBZAP9",
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Castello",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.GLF67sOWiOHBZAP9"
+    },
+    {
+      "_id": "lcCR7XzGXN6HK9S9",
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Caprio",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.lcCR7XzGXN6HK9S9"
+    },
+    {
+      "_id": "nl67q12PgZ7v9wQg",
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Coppola",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.nl67q12PgZ7v9wQg"
+    },
+    {
+      "_id": "HnR5580EuKvnjLvH",
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Costa",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.HnR5580EuKvnjLvH"
+    },
+    {
+      "_id": "2JGSCAeEEHZDFZe3",
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Cotomaccio",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.2JGSCAeEEHZDFZe3"
+    },
+    {
+      "_id": "PyNVFkRXR4BbOIxd",
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Defendi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.PyNVFkRXR4BbOIxd"
+    },
+    {
+      "_id": "RgXLKYx5gMrlluTQ",
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Donato",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.RgXLKYx5gMrlluTQ"
+    },
+    {
+      "_id": "GxsGxukHJQpW0heD",
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Danilo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.GxsGxukHJQpW0heD"
+    },
+    {
+      "_id": "QLtDTuCCEHHInwql",
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Davide",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.QLtDTuCCEHHInwql"
+    },
+    {
+      "_id": "iPA1kDdgMAyv3EuD",
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Endizzi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.iPA1kDdgMAyv3EuD"
+    },
+    {
+      "_id": "dBRp654c5Og4oKNE",
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Eppolito",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.dBRp654c5Og4oKNE"
+    },
+    {
+      "_id": "Y2ghgKQAzKTJn19g",
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Esposito",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.Y2ghgKQAzKTJn19g"
+    },
+    {
+      "_id": "GD5vhqLMV47Jvz9a",
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Evangelisti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.GD5vhqLMV47Jvz9a"
+    },
+    {
+      "_id": "V36ICXbCZpgmWygw",
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Enzo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.V36ICXbCZpgmWygw"
+    },
+    {
+      "_id": "oSrCe5LXPjSHsjWv",
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Endo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.oSrCe5LXPjSHsjWv"
+    },
+    {
+      "_id": "2tOFwJReQ3iyH7On",
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Ferrari",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.2tOFwJReQ3iyH7On"
+    },
+    {
+      "_id": "sdNn5fQuD4TYO06y",
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Finetti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.sdNn5fQuD4TYO06y"
+    },
+    {
+      "_id": "52V43DnxaNtcNCk7",
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Fiorentino",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.52V43DnxaNtcNCk7"
+    },
+    {
+      "_id": "Nzz3P2Ap1bZFes4R",
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Fortunato",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.Nzz3P2Ap1bZFes4R"
+    },
+    {
+      "_id": "nMLCv5fVyobv0zkg",
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Galilei",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.nMLCv5fVyobv0zkg"
+    },
+    {
+      "_id": "nbDSowNfSQD3UOXP",
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Gasparini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.nbDSowNfSQD3UOXP"
+    },
+    {
+      "_id": "4ym7CGOzAZyqcZ0b",
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Genovese",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.4ym7CGOzAZyqcZ0b"
+    },
+    {
+      "_id": "ayQkSq7Tlp1XwcAm",
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Gentili",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.ayQkSq7Tlp1XwcAm"
+    },
+    {
+      "_id": "kbfMT9I6xlfIPyfD",
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Giordani",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.kbfMT9I6xlfIPyfD"
+    },
+    {
+      "_id": "JfpVwTGX2QjJ4YMN",
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Ghirlandaio",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.JfpVwTGX2QjJ4YMN"
+    },
+    {
+      "_id": "OMq7PyM8qxCLs2Sk",
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Garibaldi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.OMq7PyM8qxCLs2Sk"
+    },
+    {
+      "_id": "9GPNjnetdlL2BIWC",
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Lazzari",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.9GPNjnetdlL2BIWC"
+    },
+    {
+      "_id": "kYv2AlZaO0cs3Ezg",
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Leoni",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.kYv2AlZaO0cs3Ezg"
+    },
+    {
+      "_id": "vFNH1rXvIlKZtjJ2",
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Lombardo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.vFNH1rXvIlKZtjJ2"
+    },
+    {
+      "_id": "PB6KAJ4786JzQGBg",
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Leonidas",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.PB6KAJ4786JzQGBg"
+    },
+    {
+      "_id": "BzN1nbNSbjGrhZuw",
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Leonardo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.BzN1nbNSbjGrhZuw"
+    },
+    {
+      "_id": "ONpyH7uC7CDwPojU",
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Lobato",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.ONpyH7uC7CDwPojU"
+    },
+    {
+      "_id": "hKcaGyR0eUx7VOLZ",
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Luccini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.hKcaGyR0eUx7VOLZ"
+    },
+    {
+      "_id": "E3DT07f7I1bFcCMc",
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Luca",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.E3DT07f7I1bFcCMc"
+    },
+    {
+      "_id": "yUUBLi5azpDWZF4F",
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Macari",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.yUUBLi5azpDWZF4F"
+    },
+    {
+      "_id": "8ye29bgm8NTM8fkl",
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Manccini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.8ye29bgm8NTM8fkl"
+    },
+    {
+      "_id": "mIe9axTbhxjNQ3nt",
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Marcello",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.mIe9axTbhxjNQ3nt"
+    },
+    {
+      "_id": "L8MpQ4YV2m1qSNKv",
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Marchesi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.L8MpQ4YV2m1qSNKv"
+    },
+    {
+      "_id": "abvmHvNYh7cSZV9a",
+      "type": "text",
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Matarazzo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.abvmHvNYh7cSZV9a"
+    },
+    {
+      "_id": "OCmndgbKrIWOyapY",
+      "type": "text",
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Martini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.OCmndgbKrIWOyapY"
+    },
+    {
+      "_id": "SwpcrBcKgS8y3QLa",
+      "type": "text",
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Medaglia",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.SwpcrBcKgS8y3QLa"
+    },
+    {
+      "_id": "IAzkEH1ztUuLzmIa",
+      "type": "text",
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Muzzeti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.IAzkEH1ztUuLzmIa"
+    },
+    {
+      "_id": "0ZPc4rwUqb4Dy9ja",
+      "type": "text",
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Mancini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.0ZPc4rwUqb4Dy9ja"
+    },
+    {
+      "_id": "by854xDzSJvYmtA4",
+      "type": "text",
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Napolitano",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.by854xDzSJvYmtA4"
+    },
+    {
+      "_id": "svlqLQDoKntbdtnT",
+      "type": "text",
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Negri",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.svlqLQDoKntbdtnT"
+    },
+    {
+      "_id": "Pzzgron9lm9BY5kw",
+      "type": "text",
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Neri",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.Pzzgron9lm9BY5kw"
+    },
+    {
+      "_id": "bFUU43k1L3tCY8Eb",
+      "type": "text",
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Nero",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.bFUU43k1L3tCY8Eb"
+    },
+    {
+      "_id": "dK8Bu3ccOQVM4cpI",
+      "type": "text",
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Ongaro",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.dK8Bu3ccOQVM4cpI"
+    },
+    {
+      "_id": "X2dxyp8tnJTW7DQ0",
+      "type": "text",
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Otto",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.X2dxyp8tnJTW7DQ0"
+    },
+    {
+      "_id": "0xkWH5OE1r2KwPyu",
+      "type": "text",
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Orsini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.0xkWH5OE1r2KwPyu"
+    },
+    {
+      "_id": "1LKZdFiieTa3AA7x",
+      "type": "text",
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Pacetti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.1LKZdFiieTa3AA7x"
+    },
+    {
+      "_id": "xe5ZBwuw8P2Dg8xW",
+      "type": "text",
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Paladino",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.xe5ZBwuw8P2Dg8xW"
+    },
+    {
+      "_id": "BiSML1uDf8Q3viIW",
+      "type": "text",
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Pancamo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.BiSML1uDf8Q3viIW"
+    },
+    {
+      "_id": "fsHnn91FAaNMxoUc",
+      "type": "text",
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Pellegrini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.fsHnn91FAaNMxoUc"
+    },
+    {
+      "_id": "dO5JaOHvFknUHTe6",
+      "type": "text",
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Petrelli",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.dO5JaOHvFknUHTe6"
+    },
+    {
+      "_id": "PiFeXgUPn5PRdCtZ",
+      "type": "text",
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Poletti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.PiFeXgUPn5PRdCtZ"
+    },
+    {
+      "_id": "36MU3a8jrF9NeZVu",
+      "type": "text",
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Quintieri",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.36MU3a8jrF9NeZVu"
+    },
+    {
+      "_id": "XzN0TsVJw1Hztcyo",
+      "type": "text",
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Ramacciotti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.XzN0TsVJw1Hztcyo"
+    },
+    {
+      "_id": "YfGR05kT1mAO88nO",
+      "type": "text",
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Rao",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.YfGR05kT1mAO88nO"
+    },
+    {
+      "_id": "i683cELJ1h76JmXN",
+      "type": "text",
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Rizzo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.i683cELJ1h76JmXN"
+    },
+    {
+      "_id": "Zuhryfncj3bjuLw7",
+      "type": "text",
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Rosetti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.Zuhryfncj3bjuLw7"
+    },
+    {
+      "_id": "X1bd7ftzVewk1A2E",
+      "type": "text",
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Rosso",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.X1bd7ftzVewk1A2E"
+    },
+    {
+      "_id": "6uQZDl1tYDgkysf2",
+      "type": "text",
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Rota",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.6uQZDl1tYDgkysf2"
+    },
+    {
+      "_id": "i8LWXUXrQx88gJy6",
+      "type": "text",
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Sabattini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.i8LWXUXrQx88gJy6"
+    },
+    {
+      "_id": "d4hSTPKvbJsso64v",
+      "type": "text",
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Santini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.d4hSTPKvbJsso64v"
+    },
+    {
+      "_id": "8aOPQdMgWpxXYxdp",
+      "type": "text",
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Santoro",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.8aOPQdMgWpxXYxdp"
+    },
+    {
+      "_id": "X0LGXZmB8cEMftsy",
+      "type": "text",
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Spinelli",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.X0LGXZmB8cEMftsy"
+    },
+    {
+      "_id": "29IqJdVxC5RJB0Ss",
+      "type": "text",
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Salvatore",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.29IqJdVxC5RJB0Ss"
+    },
+    {
+      "_id": "PMfkOT0hj1wiMIUm",
+      "type": "text",
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Steffano",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.PMfkOT0hj1wiMIUm"
+    },
+    {
+      "_id": "QfteqjoVR3vRCHSB",
+      "type": "text",
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Strozzi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.QfteqjoVR3vRCHSB"
+    },
+    {
+      "_id": "TR1F0eIgVzDnSnaG",
+      "type": "text",
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Teobaldi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.TR1F0eIgVzDnSnaG"
+    },
+    {
+      "_id": "0yA7jiva4neRjgAS",
+      "type": "text",
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Testori",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.0yA7jiva4neRjgAS"
+    },
+    {
+      "_id": "jYWh3cxMbMEJDAKw",
+      "type": "text",
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Tozzi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.jYWh3cxMbMEJDAKw"
+    },
+    {
+      "_id": "wGK0HZFV33PukxYs",
+      "type": "text",
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Tremontti",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.wGK0HZFV33PukxYs"
+    },
+    {
+      "_id": "203Xf9e0EvOBUJXg",
+      "type": "text",
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Tamontina",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.203Xf9e0EvOBUJXg"
+    },
+    {
+      "_id": "QVqd1x1lVsuKlRqL",
+      "type": "text",
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Torelli",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.QVqd1x1lVsuKlRqL"
+    },
+    {
+      "_id": "vd3uBUEvegsv4DX1",
+      "type": "text",
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Tucci",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.vd3uBUEvegsv4DX1"
+    },
+    {
+      "_id": "JfnlVRfR98OBbuXO",
+      "type": "text",
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Ungaro",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.JfnlVRfR98OBbuXO"
+    },
+    {
+      "_id": "2AdpqBL95hMN83lV",
+      "type": "text",
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Umberto",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.2AdpqBL95hMN83lV"
+    },
+    {
+      "_id": "sBwZEA7KdL4VhuaC",
+      "type": "text",
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Utimo",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.sBwZEA7KdL4VhuaC"
+    },
+    {
+      "_id": "vrD1PJ5ZYmzuauuo",
+      "type": "text",
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Valente",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.vrD1PJ5ZYmzuauuo"
+    },
+    {
+      "_id": "EVU0vcBNyOPc7C9f",
+      "type": "text",
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Vavoso",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.EVU0vcBNyOPc7C9f"
+    },
+    {
+      "_id": "0ABfg3J6XChTU2dn",
+      "type": "text",
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Venturini",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.0ABfg3J6XChTU2dn"
+    },
+    {
+      "_id": "bY4szlB75GskMyRY",
+      "type": "text",
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Verdicchio",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.bY4szlB75GskMyRY"
+    },
+    {
+      "_id": "a3meLekaw7RYj2zG",
+      "type": "text",
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Vieri",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.a3meLekaw7RYj2zG"
+    },
+    {
+      "_id": "FgB7lpbQ6BmcoHHr",
+      "type": "text",
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Vitali",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.FgB7lpbQ6BmcoHHr"
+    },
+    {
+      "_id": "IjZfO8ajXtv7ks1y",
+      "type": "text",
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Vitorio",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.IjZfO8ajXtv7ks1y"
+    },
+    {
+      "_id": "QfJpBjhVcnmezT0N",
+      "type": "text",
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "description": "Zucchi",
+      "name": "",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "createdTime": 1793066126602,
+        "modifiedTime": 1793066126602
+      },
+      "_key": "!tables.results!RGzmoPJAS6ZWWLC1.QfJpBjhVcnmezT0N"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "XnSCikZz6IA8wCQb",
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "sourceId": "RollTable.RGzmoPJAS6ZWWLC1",
+      "hash": "1acee8e37696e278d426e2b54aa972e8ee0b7b19"
+    },
+    "wfrp4e": {
+      "key": "nametilea_surn",
+      "column": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066126602,
+    "modifiedTime": 1793072164856,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "formula": "1d97",
+  "_id": "RGzmoPJAS6ZWWLC1",
+  "sort": 125000,
+  "_key": "!tables!RGzmoPJAS6ZWWLC1"
+}

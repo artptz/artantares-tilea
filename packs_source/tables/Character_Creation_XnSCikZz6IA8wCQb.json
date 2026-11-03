@@ -1,0 +1,27 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "Character Creation",
+  "color": null,
+  "sorting": "a",
+  "description": "",
+  "flags": {
+    "scene-packer": {
+      "hash": "69eb697abe54ff7d62f46c66c141374cfc9b13fb"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071740004,
+    "modifiedTime": 1793071740049,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XnSCikZz6IA8wCQb",
+  "sort": 300000,
+  "_key": "!folders!XnSCikZz6IA8wCQb"
+}

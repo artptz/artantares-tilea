@@ -1,0 +1,27 @@
+{
+  "type": "JournalEntry",
+  "folder": null,
+  "name": "II. The cities of Tilea",
+  "color": null,
+  "sorting": "m",
+  "_id": "EmSTQJKet8erG7Yu",
+  "description": "",
+  "sort": 200000,
+  "flags": {
+    "scene-packer": {
+      "hash": "0b29d75930f33ff8ed16d1af0ce61fcb6170bf47"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142510,
+    "modifiedTime": 1793066142911,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!folders!EmSTQJKet8erG7Yu"
+}

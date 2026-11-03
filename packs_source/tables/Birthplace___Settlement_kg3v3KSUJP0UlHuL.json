@@ -1,0 +1,251 @@
+{
+  "folder": "XnSCikZz6IA8wCQb",
+  "name": "Birthplace - Settlement",
+  "_id": "kg3v3KSUJP0UlHuL",
+  "img": "systems/wfrp4e/ui/buttons/d10.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "_id": "X3X7weg8aLiuFNS1",
+      "name": "City-State",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.X3X7weg8aLiuFNS1"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "zs9PwuYM18l3vA71",
+      "name": "Prosperous Town",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.zs9PwuYM18l3vA71"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "PYH4SowiFuZyk6mx",
+      "name": "Market Town",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.PYH4SowiFuZyk6mx"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "TKc0hQ7j1BT4UZhC",
+      "name": "Farming Village",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.TKc0hQ7j1BT4UZhC"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "baIvvNVy1lzOOoAB",
+      "name": "Poor Village",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.baIvvNVy1lzOOoAB"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "TaaM5rHozN1GFF07",
+      "name": "Small Settlement",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.TaaM5rHozN1GFF07"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Ck84rrbxZJTmBSdN",
+      "name": "Farm",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.Ck84rrbxZJTmBSdN"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "_id": "L6sgJPRp8gleH0Mm",
+      "name": "Castle/Mercenary Camp",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740036,
+        "modifiedTime": 1793071740036,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!kg3v3KSUJP0UlHuL.L6sgJPRp8gleH0Mm"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3770133bfc773990b3daa416c6908e388acf9958",
+      "sourceId": "Compendium.artantares-tilea.rolltables.RollTable.kg3v3KSUJP0UlHuL"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071740036,
+    "modifiedTime": 1793072160244,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d10",
+  "_key": "!tables!kg3v3KSUJP0UlHuL"
+}

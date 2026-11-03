@@ -1,0 +1,95 @@
+{
+  "folder": "d25IHbExoNbRidlB",
+  "name": "Interioris Sanatio",
+  "type": "spell",
+  "_id": "HWtLxP0UUyK966uW",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>This spell soothes any mental illness, and the subject will see his mental problems with clarity. After an adequate time, determined by the GM, in which the target has to remain in contact with the caster, he can try to remove Insanity Points from his characteristics. He must take a WP test every minute, and he removes an Insanity Point for every successful test. He can continue doing so until he fails a test, until he has no more Insanity Points, or until the wizard decides to end the spell. With three or more degrees of failure, both the subject and the caster gain an IP and the spell ends. The wizard must roll to cast this spell again every 5 minutes in order to maintain it.</p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "Touch"
+    },
+    "target": {
+      "aoe": false,
+      "maximum": false,
+      "value": "1"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "Special"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 18
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3136b0a810bca802c4cfe7a799bf1d12bdcdc914",
+      "sourceId": "Compendium.artantares-tilea.items.Item.HWtLxP0UUyK966uW"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723748,
+    "modifiedTime": 1793071723748,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!HWtLxP0UUyK966uW"
+}

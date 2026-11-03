@@ -1,0 +1,108 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Miragliano",
+  "_id": "5SuUoTGaxSRm4wyt",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Miragliano",
+      "type": "text",
+      "_id": "INWisgYpBNfZqa6d",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The once-mighty city of Miragliano was the most powerful Tilean city, but its fate is now uncertain since it was overwhelmed by an army of Skaven in 2522. Many Tileans believe Miragliano will be rebuilt in a few years; meanwhile others claim it will take decades, or will never happen. Much like the regions of the Empire devastated by the Storm of Chaos, the ruined city of Miragliano would make an ideal starting place for adventurers thrown together by fate.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.artantares-tilea.journals.JournalEntry.oLc4qZ6N1M9Ru8e8.JournalEntryPage.INWisgYpBNfZqa6d",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142785,
+        "modifiedTime": 1793066142785,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!5SuUoTGaxSRm4wyt.INWisgYpBNfZqa6d"
+    },
+    {
+      "sort": 100000,
+      "name": "Contado of Miragliano",
+      "type": "text",
+      "_id": "HVO4eN65ER7H9kJT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"subtitle\"><p>The Marsh City - Now in Ruins</p></div><div class=\"legend\"><p><strong>Settlement Size:</strong> CS=City State (any size), T=Town (1000-10000), ST=Small Town (100-1000), V=Village (1-100), F=Fort (any size)</p><p><strong>Wealth:</strong> 1=Impoverished, 2=Poor, 3=Average, 4=Prosperous, 5=Very Rich</p><p><strong>Garrison/Militia Quality:</strong> A=Excellent, B=Average, C=Poor</p></div><table><thead><tr><th><p>Name</p></th><th><p>Size</p></th><th><p>Ruler</p></th><th><p>Population/p&gt;</p></th><th><p>Garrison</p></th><th><p>Wealth</p></th><th><p>Economy</p></th><th><p>Notes</p></th></tr></thead><tbody><tr class=\"capital-row\"><td><p><strong>Miragliano</strong></p></td><td><p><span class=\"size-cs\">CS</span></p></td><td><p>Duce Vincenzo Cornuti</p></td><td><p>93,000</p></td><td><p>200a / 400b / 2600c</p></td><td><p><span class=\"wealth-5\">5</span></p></td><td><p>Trade, Boatbuilding, Government, Fishing</p></td><td><p>Capital - Razed by Skaven 2522</p></td></tr><tr><td><p><strong>Toscania</strong></p></td><td><p><span class=\"size-cs\">CS</span></p></td><td><p>Duchesa Patrizia Malpighi</p></td><td><p>8,700</p></td><td><p>150a / 2000c</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Trade, Wine, Ore, Goats</p></td><td><p>Semi-independent city-state</p></td></tr><tr><td><p><strong>Olino</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Conte Silvio Donati</p></td><td><p>4,600</p></td><td><p>50b / 350c</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Agriculture, Trade, Wine</p></td><td><p>Northern gateway town</p></td></tr><tr><td><p><strong>Firento</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Contessa Marina Foscari</p></td><td><p>4,100</p></td><td><p>45b / 300c</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Trade, Textiles, Wine</p></td><td><p>Major inland town</p></td></tr><tr><td><p><strong>Udolpho</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Conte Guilio Uberti</p></td><td><p>4,200</p></td><td><p>150a / 1000c</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Ore, Timber, Wine</p></td><td><p>Mountain town</p></td></tr><tr><td><p><strong>Bonomia</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Doge Francesco Bellini</p></td><td><p>3,700</p></td><td><p>40b / 280c</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Agriculture, Trade, Textiles</p></td><td><p>Prosperous market town</p></td></tr><tr><td><p><strong>Ebino</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Conte Galeazzo</p></td><td><p>3,600</p></td><td><p>40a / 200c</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Trade, Agriculture, Cattle</p></td><td><p></p></td></tr><tr><td><p><strong>Campogrotta</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Conte Guido Novello</p></td><td><p>3,500</p></td><td><p>100a / 400b</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Trade, Goats, Ore</p></td><td><p>Mountain trade center</p></td></tr><tr><td><p><strong>Padula</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Barone Cesare Grimaldi</p></td><td><p>2,800</p></td><td><p>30b / 200c</p></td><td><p><span class=\"wealth-2\">2</span></p></td><td><p>Agriculture, Cattle</p></td><td><p>Northwestern town</p></td></tr><tr><td><p><strong>Buche</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Conte Aldo Barozzi</p></td><td><p>2,300</p></td><td><p>25b / 180c</p></td><td><p><span class=\"wealth-2\">2</span></p></td><td><p>Agriculture, Wine</p></td><td><p></p></td></tr><tr><td><p><strong>Liporno</strong></p></td><td><p><span class=\"size-t\">T</span></p></td><td><p>Contessa Giulia Corsini</p></td><td><p>1,800</p></td><td><p>20b / 120c</p></td><td><p><span class=\"wealth-3\">3</span></p></td><td><p>Fishing, Trade</p></td><td><p>Coastal port</p></td></tr><tr><td><p><strong>Ravola</strong></p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>Contessa Patrizia Malpighi</p></td><td><p>850</p></td><td><p>25b / 35c</p></td><td><p><span class=\"wealth-2\">2</span></p></td><td><p>Wine, Agriculture</p></td><td><p></p></td></tr></tbody></table><h3>Smaller Settlements</h3><table><thead><tr><th><p><span style=\"color:white\">Name</span></p></th><th><p><span style=\"color:white\">Size</span></p></th><th><p><span style=\"color:white\">Est. Population</span></p></th></tr></thead><tbody><tr><td><p>Frago</p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>420</p></td></tr><tr><td><p>Vedona</p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>380</p></td></tr><tr><td><p>Barzo</p></td><td><p><span class=\"size-v\">V</span></p></td><td><p>95</p></td></tr><tr><td><p>Foppa</p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>340</p></td></tr><tr><td><p>Lazatta</p></td><td><p><span class=\"size-v\">V</span></p></td><td><p>75</p></td></tr><tr><td><p>Belunno</p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>450</p></td></tr><tr><td><p>Seregno</p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>390</p></td></tr><tr><td><p>Renate</p></td><td><p><span class=\"size-v\">V</span></p></td><td><p>85</p></td></tr><tr><td><p>Urio</p></td><td><p><span class=\"size-v\">V</span></p></td><td><p>70</p></td></tr><tr><td><p>Malonno</p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>310</p></td></tr><tr><td><p>Erba</p></td><td><p><span class=\"size-st\">ST</span></p></td><td><p>280</p></td></tr><tr><td><p>Breno</p></td><td><p><span class=\"size-v\">V</span></p></td><td><p>90</p></td></tr><tr><td><p>Cundo</p></td><td><p><span class=\"size-v\">V</span></p></td><td><p>65</p></td></tr><tr><td><p>Braone</p></td><td><p><span class=\"size-v\">V</span></p></td><td><p>55</p></td></tr></tbody></table><div class=\"note\"><p><strong>Pre-2522 Total Population:</strong> ~145,000. Following the Skaven destruction of Miragliano in 2522, this territory is largely abandoned or contested. Refugees fled primarily to Catrazza, Urbino, and Tobaro. Toscania remains independent. Other settlements are either destroyed, occupied by Skaven remnants, or have declared independence/allegiance to neighboring powers.</p></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.364",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142785,
+        "modifiedTime": 1793280621872,
+        "lastModifiedBy": "h0Lg7bIDSLmU7N5a"
+      },
+      "_key": "!journal.pages!5SuUoTGaxSRm4wyt.HVO4eN65ER7H9kJT"
+    }
+  ],
+  "categories": [],
+  "sort": 450000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "bac7348b74ab4b394e4710f2bd25b7e270a18640"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142785,
+    "modifiedTime": 1793066142785,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!5SuUoTGaxSRm4wyt"
+}

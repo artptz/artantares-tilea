@@ -1,0 +1,95 @@
+{
+  "folder": "d25IHbExoNbRidlB",
+  "name": "Scutum Aethiricus",
+  "type": "spell",
+  "_id": "SzLsY6YW2EM4kNLu",
+  "img": "systems/wfrp4e/icons/blank.png",
+  "system": {
+    "description": {
+      "value": "<p>The caster thickens the Aethir to create a physical, transparent barrier the diameter of the large template that forms a dome centred over the wizard. This barrier has a WP stat equal to the casters WP plus and additional 5% for each point in his Magic Characteristic and a Toughness equal to twenty times his Magic Characteristic and Wounds equal to double the wizard’s maximum wounds. The sphere is immobile after casting. Physically and Magical attacks cannot go through the barrier but can target the barrier directly to damage it. Other effects such as fear, intimidate or non-damaging spells directed at targets inside the barrier use the barriers characteristics to determine the effects. After it is created, the barrier can be maintained by a half action, by passing a WP test. The remaining half action cannot be magical. If the shield is destroyed the wizard loses 1 Wound and must make a WP test or receive 1 Insanity Point.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\">Attacks from within the barrier to outside it are not affected and apply as normal but GM’s may wish to house-rule critical failures strike the barrier and cause damage<span class=\"Apple-converted-space\"> </span></p>"
+    },
+    "gmdescription": {
+      "value": ""
+    },
+    "overcastOptions": {},
+    "overcast": {
+      "enabled": false,
+      "valuePerOvercast": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      },
+      "initial": {
+        "value": 1,
+        "SL": false,
+        "bonus": false
+      }
+    },
+    "lore": {
+      "value": []
+    },
+    "range": {
+      "vortex": false,
+      "maximum": false,
+      "value": "You"
+    },
+    "target": {
+      "aoe": true,
+      "maximum": false,
+      "value": "Willpower Bonus yards"
+    },
+    "duration": {
+      "extendable": false,
+      "maximum": false,
+      "value": "1 Round"
+    },
+    "damage": {
+      "value": "",
+      "dice": ""
+    },
+    "cn": {
+      "value": 17
+    },
+    "magicMissile": {
+      "value": false
+    },
+    "ritual": {
+      "value": false
+    },
+    "memorized": {
+      "value": false
+    },
+    "skill": {
+      "value": ""
+    },
+    "ingredients": [],
+    "currentIng": {},
+    "wind": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "15f892659acd080b10bb6ec913e645122af6ca82",
+      "sourceId": "Compendium.artantares-tilea.items.Item.SzLsY6YW2EM4kNLu"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723751,
+    "modifiedTime": 1793071723751,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!SzLsY6YW2EM4kNLu"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Item",
+  "folder": "MW16tvVl2QLQkc1B",
+  "name": "Way of the Mind",
+  "color": null,
+  "sorting": "a",
+  "description": "",
+  "flags": {
+    "scene-packer": {
+      "hash": "0aee93b9bebd0f20b40c54089a09b3695c344676"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071723614,
+    "modifiedTime": 1793071723614,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "d25IHbExoNbRidlB",
+  "sort": 0,
+  "_key": "!folders!d25IHbExoNbRidlB"
+}

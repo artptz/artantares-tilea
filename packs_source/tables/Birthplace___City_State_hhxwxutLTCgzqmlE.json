@@ -1,0 +1,251 @@
+{
+  "folder": "XnSCikZz6IA8wCQb",
+  "name": "Birthplace - City-State",
+  "_id": "hhxwxutLTCgzqmlE",
+  "img": "systems/wfrp4e/ui/buttons/d10.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Y7rqqQIK9YyTsECN",
+      "name": "Tobaro",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.Y7rqqQIK9YyTsECN"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "RxayjgGEnyLiBzUa",
+      "name": "Trantio",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.RxayjgGEnyLiBzUa"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "1uAHj79WXIiyzb7B",
+      "name": "Pavona",
+      "img": "icons/svg/d10-grey.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.1uAHj79WXIiyzb7B"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "LOt3LH1OuhQJVqGd",
+      "name": "Remas",
+      "img": "icons/svg/d20-black.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": "Compendium.artantares-tilea.journals.JournalEntry.VifvTcEFh4MJVNcw",
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.LOt3LH1OuhQJVqGd"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "_id": "RjHH5XGnLPzNW5NJ",
+      "name": "Luccini",
+      "img": "icons/svg/d20-black.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": "Compendium.artantares-tilea.journals.JournalEntry.0V8O77UBoXBwhjco",
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.RjHH5XGnLPzNW5NJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "_id": "qly9IspEjyGree4h",
+      "name": "Verezzo",
+      "img": "icons/svg/d20-black.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": "Compendium.artantares-tilea.journals.JournalEntry.oXnPo5fietxzxG9s",
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.qly9IspEjyGree4h"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "21ZepXrASCvZWA5r",
+      "name": "Marigliano",
+      "img": "icons/svg/d20-black.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": "Compendium.artantares-tilea.journals.JournalEntry.Y571dlYlrdPfhkFM",
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.21ZepXrASCvZWA5r"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "iye5utoav27FJBur",
+      "name": "Sartosa",
+      "img": "icons/svg/d20-black.svg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793071740034,
+        "modifiedTime": 1793071740034,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": "Compendium.artantares-tilea.journals.JournalEntry.oppkVjP9LilI3jb5",
+      "_key": "!tables.results!hhxwxutLTCgzqmlE.iye5utoav27FJBur"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "bed0e0042efeb31dd449a51c35d312dea3512972",
+      "sourceId": "Compendium.artantares-tilea.rolltables.RollTable.hhxwxutLTCgzqmlE"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793071740034,
+    "modifiedTime": 1793072160241,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d2",
+  "_key": "!tables!hhxwxutLTCgzqmlE"
+}

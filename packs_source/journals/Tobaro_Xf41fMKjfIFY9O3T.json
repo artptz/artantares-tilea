@@ -1,0 +1,29 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Tobaro",
+  "_id": "Xf41fMKjfIFY9O3T",
+  "pages": [],
+  "categories": [],
+  "sort": 487500,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4599d7c57b4ecbcfc82fb9e114f037209e768d10"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142815,
+    "modifiedTime": 1793066142815,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!Xf41fMKjfIFY9O3T"
+}
