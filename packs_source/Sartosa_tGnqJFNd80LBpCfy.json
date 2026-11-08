@@ -2,7 +2,398 @@
   "folder": "EmSTQJKet8erG7Yu",
   "name": "Sartosa",
   "_id": "tGnqJFNd80LBpCfy",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 200000,
+      "name": "Pirates",
+      "type": "text",
+      "_id": "QmnDo4V7UPmWlseT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3 id=\"lord-ferdinand-rackham\">Lord Ferdinand Rackham</h3><p>The self-stylized Lord Ferdinand Rackham is typical of the Pirate Lords of Sartosa. After nearly thirty years at sea, he retired from the life to live in his opulent villa in the middle of the city. Although he never sets foot on any of his ships, Lord Rackham is still very active in their affairs and is constantly on the lookout for information on easy scores for his three pirate vessels, the <em>Vigilant</em>, the <em>Tritonus</em>, and the <em>Black Mary</em>. Like most of the Pirate Lords, Lord Rackham styles himself a noble, although years at sea have left him coarse and rather crude.</p><h3 id=\"donato-buccina\">Donato Buccina</h3><p>Donato Buccina is a hulking brute of a man. He styles himself a respectable businessman, though he enforces his turf with beatings and murder. Buccina lost his nose in a fight long ago and covers it with a silver-plated one, which he keeps buffed to a shine. He wears the clothes of a nobleman, though stained with spilled wine and blood.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794099732028,
+        "modifiedTime": 1794101268595,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.QmnDo4V7UPmWlseT"
+    },
+    {
+      "sort": 300000,
+      "name": "The Powers that Be",
+      "type": "text",
+      "_id": "Ima6f5f1lMXIg8m3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>No king, count, or mayor rules the city of Sartosa. Priests and wizards do not hold council to provide wisdom. There is no nobility worth speaking of. Sartosa is a city ruled by only one force: pirates.</p><p>In theory, each person within Sartosa enjoys the same freedoms as everyone else. But this is the freedom that comes from anarchy, with little to nothing in the way of rights, except for strength and the willingness to use it. In practice, all the people of Sartosa owe their allegiances and favours to people higher up in the social ladder. At the top are the Pirate Lords, “retired” captains of pirate vessels who have taken up the mantle of nobles and the idle rich.</p><h3>A Free City in More Than Name</h3><p>For better or worse, Sartosa is almost completely free of much of the politics dominating the other city-states of Tilea. Not only is it a “free city,” implying independence from other political bodies, but individuals have tremendous free rein. Although the town is anarchic and mostly lawless, the “pirate’s code” still holds sway over Sartosa’s inhabitants. All the pirates of the seas consider Sartosa neutral ground. A captain can dock at its piers without fear of being arrested or shot on the spot by any officials, but may have to face his rivals if they happen to be docked at the same time.</p><h3>The Pirate's Code</h3><p>The only law worth noting in Sartosa is the so-called “Pirate’s Code.” It stresses both personal freedom and loyalty to your captain, crew, and ship (in that order). Not everyone in Sartosa adheres to this code, but its pervasiveness means all its inhabitants know how the code works, if only to keep safe their own hide.</p><p>A man is considered in his right to kill another if his honour is violated in some way, and in most cases “might equals right.” However, in a city ruled by pirates, killing a man in the streets usually brings retribution from his fellow shipmates and most people know that there are serious consequences for doing so. Described here are some of the unwritten rules of the Pirate’s Code. However, there are endless variations and interpretations, which can be twisted as needed (and as long as you can convince others that you are correct).</p><ul><li><p>Everyone shall obey orders from the Captain and his officers.</p></li><li><p>A crewman has the right to defend himself and his honour. A man can challenge another to a fair duel, but the challenged gets choice of weapons. No other person can interfere in this duel until one man is dead or relents.</p></li><li><p>Booty will be shared out as follows: 1 share to every ordinary seaman; 3 shares to the captain; 2 shares to the master carpenter, boatswain, and gunner.</p></li><li><p>Anyone caught attempting to desert will be marooned. He may take only a weapon and a bottle of water.</p></li><li><p>Anyone being lazy or failing to clean his weapons will lose his share of the booty.</p></li><li><p>The punishment for hitting a crewman is 40 lashes on the bare back.</p></li><li><p>Everyone may vote on every important decision.</p></li><li><p>Everyone may have a share of captured drink and fresh food.</p></li><li><p>Anyone found stealing from another member of the crew will have his ears and nose slit open and be set ashore.</p></li><li><p>The penalty for bringing a woman aboard in disguise is death.</p></li><li><p>No one may leave the crew until each man has made 500 gc.</p></li><li><p>No crewmember may fraternize with Wizards or other dealers of the Dark Arts.</p></li></ul><h3>The Pirate Lords</h3><p>Almost all pirates dream of hitting the big score and retiring in Sartosa, where they can live like gilded noblemen. The most successful captains buy or build massive villas inside Sartosa proper or among the rocky hills along Mount Ertinia. Some give up the life entirely and sell off their ships, whilst others retain control, running their operations like a legitimate business. Either way, the Pirate Lords live as the idle rich do anywhere.</p><p>As the richest and most influential people on Sartosa, the Pirate Lords often act as the de facto leadership there, settling disputes and making “suggestions” that would be akin to law in other lands. Most of the time, the Pirate Lords are content in letting the inhabitants of Sartosa deal with their own affairs. Competition and rivalry among the Pirate Lords are fierce and some hold tremendous grudges towards their peers. However, in the effort of keeping things stable, overt actions against their enemies are avoided and “problems” are dealt with through proxies, quiet assassinations, and other skulduggery.</p><p>Piracy is the lifeblood of Sartosa and the city holds its arms open for anyone who adheres to the Pirate’s Code. Although the city does have a modest economy producing seafood, ships, rope, and the like, most of the money and goods that come into Sartosa are the result of pirates sacking the merchant ships plying the Tilean Sea or small, unguarded towns along the coastline.</p><h3 id=\"the-mercenaries\">The Mercenaries</h3><p>Not all the inhabitants of Sartosa are pirates. The second largest population is composed of mercenaries. It is said that any man with at least a club and the willingness to use itcan find work with the numerous Mercenary Houses in Sartosa. Ex-Imperial soldiers, disgraced Bretonnian knights, wandering Dwarf troll slayers, Tilean pikemen, and Estalian swordsmen can be found here looking for work. Most find employment as bodyguards for wealthy captains or as marines for pirate vessels.</p><p>In order to accommodate this need for men-at-arms, several Mercenary Houses have sprung up all over Sartosa, where a person can go to find work without much effort. A few have exclusive “contracts” with the various Tilean City-States, which hire entire armies for some campaign or another. These Houses are vicious and literally cutthroat when it comes to acquiring new talent, and semi-open warfare between Houses is not unheard of. Some mercenaries steer clear from the machinations of the Houses and go solo—there’s still plenty of work to be had, but a mercenary runs the risk of being “drafted” by one House or another, especially if he gains a reputation for effectiveness.</p><h3>The City-States of Tilea</h3><p>Though the nobles of Tilea have no legal powers or authority over Sartosa, they do have significant sway over the business in Sartosa, and are, ironically, the largest trade partners. It’s common knowledge that nobles and merchants of other city-states often hire the pirates of Sartosa to haul cargo, guard their ships, and prey upon the ships of their competitors, although everyone denies it when it happens. Nobles, their proxies, and rich merchants often make journeys to Sartosa to employ a captain and his ship for all manner of illegal and illicit business. However, there is no honour among thieves, and it’s not all that uncommon for a pirate ship to prey upon the vessels of a Tilean nobleman they formerly were charged with protecting. For every trade route to Sartosa shut down by the Tilean fleet, another one pops up in its place, as the profits from this illegal trade are too tempting to resist.</p><p>Those city-states fed up with the predations of the Sartosan pirates have attempted several times over the centuries to lay siege to the city, but failed every time, as the pirates of the city banded together to create an impregnable screen of galleons and cutters that decimated every fleet.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794100202054,
+        "modifiedTime": 1794100958756,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.Ima6f5f1lMXIg8m3"
+    },
+    {
+      "sort": 400000,
+      "name": "The Island of Sartosa",
+      "type": "text",
+      "_id": "ndkdNjtZOzeRZYb3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The Island of Sartosa is a craggy, rocky rise of land formed long ago by a now (mostly) dormant volcano, called Mount Ertinia. This island is constantly buffeted by trade winds that sweep in from the west, creating swift currents prized by the pirates calling the place home. There are few beaches and shoals to the island—the porous limestone walls tower from dozens to hundreds of feet in the air. These walls are riddled with untold numbers of caves, tunnels, and hollows, many of which are accessible from the water, making them favourites for pirates to create their own private bases of operation apart from the city. Only a few of the largest caves relatively close to the city of Sartosa have been explored with any thoroughness. Sailors tell of several caves that have yet to be explored and rumours and tall tales abound of what treasures, monsters, and forbidden things can be found inside.</p><p>Thanks to Mount Ertinia, the soil of Sartosa Island is very fertile, but the abundance of rocks and small stones makes farming an arduous process. Most farms are close to the city, with several more scattered about the island; they primarily grow grapes, olives, and wheat. The relatively small size of these farms and the insatiable appetite of the pirates mean that most food must be imported to support the Sartosan inhabitants. Farmers typically fall under the “protection” of one or more Pirate Lords, who take a hefty portion of the crops for themselves, but keep them from falling under the predations of brigands on the prowl to stock their ships’ larders.</p><p>The waters around Sartosa overflow with seafood of all kinds—fish, squid, oysters, and clams are pulled from the water with little effort. This bounty from the sea is the primary food source of the inhabitants of Sartosa, as few legitimate businessmen sail to the island to do trade. The shallow waters around the city and to the northwest of the island also boast abundant pearl beds. Indeed, its fine-quality pearls are one of Sartosa’s main exports. Pearl harvesting, already dangerous, is made doubly so by pirates looking for easy scores. For this reason, most of the pearl divers begrudgingly accept the protection of various pirates and criminal factions to keep their businesses alive—for a healthy portion of their earnings, of course.</p><h3>Mount Ertinia, the Gods, and Jack O' the Sea</h3><p>Sartosa was mostly formed from a massive volcano, called Mount Ertinia, which spewed up from the sea floor untold thousands of years ago. A favourite Sartosan tale explains the island was created when a young sailor, cast adrift when his ship was destroyed, called out to alle the Gods to save him in exchange for his eternal pledge of loyalty. None of them responded, except for Ranald the Trickster, who obliged him by forcing an island to rise up out of the water in a gout of fire and molten lava. However, this presumptuous action angered Manann, the God of the Seas. In order to placate him, Ranald ordered the sailor to pay homage to both he and Manann, with offerings of gold and plunder. The sailor, seeing no other choice, took up piracy to pay off his burden and became the most notorious pirate of all—Jack O’ the Sea. There's no shortage of tales involving Jack O’ the Sea and his exploits, and he has come to be seen as an aspect of Ranald himself.</p><p>Mount Ertinia is now mostly dormant, though it occasionally releases great plumes of steam and ash that sometimes rain down on the city below. The inhabitants of Sartosa are particularly proud of the volcano that dominates the skyline and see it as a patron of sorts. Sailors approaching the Sartosan shore pour a portion of rum into the sea upon seeing the volcano on the horizon, accompanied with a cry of “Ertinia, Ho!”</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794100254508,
+        "modifiedTime": 1794101078789,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.ndkdNjtZOzeRZYb3"
+    },
+    {
+      "sort": 500000,
+      "name": "The City of Sartosa",
+      "type": "text",
+      "_id": "rgHMrV0hbWUjCiZn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Sartosa sits on a rocky island just south of the Tilean peninsula. Since Sartosa is the most important thing on this island, most travellers refer to the island and the city by the same name. Given the distance from the rest of the Tilean city-states, Sartosa is free from most of the political posturing that happens on the mainland. Although distance is something of a boon, it, and the city’s unsavoury character, makes the city less attractive to any kind of settler outside of the pirates that come to port.</p><p>Despite being a city, Sartosa actually has a small native population, only swelling to numbers in keeping with other cities when pirates stop for a month or so to spend their filthy lucre. It is a patchwork city, cobbled together from many different cultures and races over countless centuries. The houses that line the streets are a riot of different styles, colours, and shapes, from fine stucco villas with red tiled roofs to shanties cobbled together from driftwood and old sailcloth. In the oldest portion of the city, some buildings are ancient beyond compare, built from solid stone and seemingly designed by no human mind. No one knows who crafted these strange buildings or what was their original purpose.</p><p>The people of Sartosa are just as varied and mixed as the architecture. Tileans rub elbows with Norseman mercenaries and people of the Empire haggle and fight with Bretonnians. Even more exotic people with odd skin colours and bizarre accents from far away lands walk the streets as well</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794100336904,
+        "modifiedTime": 1794101447653,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.rgHMrV0hbWUjCiZn"
+    },
+    {
+      "sort": 600000,
+      "name": "The Rock of Jack O' the Seas",
+      "type": "text",
+      "_id": "rnIyqswBbKPiKGgA",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A strange sight awaits the ships that enter into Pirates Bay, Sartosa’s port. A rough-hewn statue of Jack O’ the Sea sits on top of a tiny outcropping of rock in the middle of the bay, looking out towards the horizon to the north. The 20-foot-tall statue is of a man holding a large bag. No one is certain who created the statue and it’s been there for as long as anyone can remember. The craftsmanship is crude and the features are difficult to discern up close. In addition, strange markings are carved on the front and back of the statue—no one has been able to determine what they mean. The statue is beloved by the pirates and inhabitants of the city and sailors are known to take a skiff to the rock and leave offerings at the base before embarking on a voyage.</p><p>Every few years, tales go about the taverns that the statue is more than it seems: a treasure is buried underneath, the strange writing is a map, or the statue comes to life on certain days. Because of this, some misguided fools sometimes head out to the rock and try to dig underneath the statue to reveal anything that might be there. So far, they haven't had any luck and anyone caught doing so is usually beaten or worse, as the general populace considers the statue their city’s mascot and protector.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794100533668,
+        "modifiedTime": 1794100565088,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.rnIyqswBbKPiKGgA"
+    },
+    {
+      "sort": 700000,
+      "name": "The Cliff",
+      "type": "text",
+      "_id": "9UngiL3Wriez4Ndd",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3 id=\"the-cliff\">The Cliff</h3>\n<p>Sartosa is a vertical city, built along the shore of a cliff wall that rises nearly a hundred feet into the air. In order to reach the top of the cliff, the citizens of Sartosa have built a bewildering maze of bridges and scaffolding directly into the rock. Several houses cling to the side of the cliff on this mass of planks, poles, and timbers. Some Sartosans carve out their homes directly from the porous limestone of the cliff itself. Most of these residences are squalid hellholes, but a few, typically the oldest, are opulent and well-appointed.</p>\n<p>The traffic on these scaffolds is thick during the day and potentially dangerous as drovers drive cows and horses up the narrow planks. The constant wind that blows from the sea sometimes whips up into a fierce gale, making travel even more hazardous. Despite these dangers, the people of Sartosa accept their plight and laugh at newcomers that must climb the dizzying height on the rickety planks. Over the centuries, a series of ropes, nets, and other safety measures have been added to the walkways. Anyone falling must make a Difficult (—1 SL) Athletics Test to catch themselves on a rope, net, or other support, or will plunge to the filthy street below.</p>\n<p>Once a person makes their way to the top of the Cliff, the rest of Sartosa sprawls out among the low, rocky hills. The city is much less crowded on top of the Cliff and the finer houses, villas, and mansions of the Pirate Lords can be found here.</p>\n<blockquote class=\"sidebar\">\n    <h3 id=\"cloak-of-night\">Cloak of Night</h3>\n    <p>Although it is true that the Cloak of Karloff cannot be pierced by sword or worn by a beast from the lands of Chaos, and has never been singed by a single flame, these are among its most mundane traits. It is much more than a simple cloak. It is living history. Truth be told, few know what I’m about to tell you, so guard this secret closely.</p>\n    <p>Sewn in the hem of the cloak, placed there by the hands of a frail woman from Sartosa and written in a language now lost and only decipherable by a handful of blind monks, is a prophecy of the end times and a secret so great, it dares to unravel the heavens themselves.</p>\n    <p>And those that know my words know I do not wax poetic for the sake of drama.</p>\n    <p>The prophecy can be found in only one place, but it is marked by so many stories, fables, and indications of fact, that I can only attempt to understand it all. But, believe me, when I tell you this, the omens do not bode well for the age of man.</p>\n    <p>As the story goes, a Beastman will rise from the lands of Chaos. He will lead armies—thunderous armies. He will wield a sword of pure villainy and hatred. He will smite his foes with a fury that one cannot possibly understand. His might will be unquestioned and he will go unopposed.</p>\n    <p>But this Beastman’s deeds will not end there, nor will he be judged a great leader.</p>\n    <p>Nay. His feats will be measured by what he shall become.</p>\n    <p>As the oracle bids, he shall conquer the lands of Man and Dwarf and Rat and all manner of beast. He shall enslave every living and unliving thing. He shall grow in size, grow in strength, and his hordes shall grow in numbers. He shall become the enemy of all things, thoughts, and desires.</p>\n    <p>And upon sitting on the throne of all kings<br>He shall become the Unmaker<br>The Daemonic unweaver of all things<br>The last and final Daemon, the Lifetaker</p>\n    <p>And when the lands of the living have been trounced under his goat-hooves, he shall sunder the heavens and claim for himself the title of Death.</p>\n    <p>And the skies, bloodied by his touch<br>Cry for mercy and find none<br>The clouds, blackened by the deadly glut<br>And the Gods are dead, leave one</p>\n    <p>This is not the mad litany of some street corner proselytizer. I am not some charlatan quick to fleece you of your coin. I am bringing you the true tale of the end of times. Believe me or don’t, but respect that I am not some feeble grandfather desperate for the affections of his young.</p>\n    <p>These words are scrawled into Cloak of Night and if you cannot believe me, then perhaps you should visit the monks of Mordheim and ask them for a reading.</p>\n</blockquote>\n<h3 id=\"peg-street\">Peg Street</h3>\n<p>Sartosa’s main road is known as Peg Street and forms a “district” of sorts. It is a wandering, meandering avenue that follows the contours of the cliff face defining the lower portion of the city’s edge. Peg Street is lined with ramshackle houses, tanners, fishmongers, weaponsmiths, and dozens of taverns and inns. Food vendors line the streets, hawking meals of a questionable nature, and jugglers and entertainers try to eke out a living whilst avoiding the blows from drunken pirates that may not care for their act.</p>\n<h3 id=\"the-hole-in-by-the-hill\">The Hole In By The Hill</h3>\n<p>The Hole In By The Hill is a notoriously dangerous tavern that caters to the pirates of Sartosa. It is the place to go to hook up with a crew or to conduct illicit business of all kinds. The Hole In By The Hill sits inside a natural cave within the limestone cliff above Peg Street. During the day, there is little to differentiate it from any other residence or building, but at night, torches and lanterns line the catwalks and illuminate the tarps and awnings that adorn the front. A blind hurdy-gurdy man competes with drunken sea shanties to provide music, whilst bar wenches dance to the delight of the customers. The owner, Grecco, cooks tasty pork, fowl, and fish for the masses as his red macaw bounces his head to the music. Grecco has a penchant for remembering the names and faces of everyone who comes to his inn and knows everything going on in the city.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794100586951,
+        "modifiedTime": 1794101364248,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.9UngiL3Wriez4Ndd"
+    },
+    {
+      "sort": 800000,
+      "name": "The Docks",
+      "type": "text",
+      "_id": "qOdGqdsEeY8ilyiG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Sartosa is riddled with numerous docks and ports which pirate ships, merchant vessels, and fishing boats call home. The docks are a constant buzz of activity all year round, day and night, as crews come and go, stevedores load supplies, and fishermen prepare for the next day of work or unload the bounty from the previous day. Though some docks are better than others, none are particularly safe for the unprepared or naive. Only a fool would wander the docks without at least a knife and most people openly display their weapons to dissuade any trouble.</p><p>The docks are divided into several clusters, each with its own unique flavour, requirements, and owners. Ship captains who dock at Sartosa for the first time run the risk of landing at the “wrong” dock, subjecting themselves to unfair inspections, harassment, and steep docking fees from the thugs controlling that particular pier. Ownership of these docks is in constant flux and captains who are used to dealing with one brand of scum may find a new minder when they return the next time.</p><h3 id=\"deadman-s-docks\">Deadman’s Docks</h3><p>Easily considered the worst of the worst, the Deadman’s Docks are where captains of the lowest rank berth their ships. In addition to pirates and other scum, the Deadman’s Docks are the home of the poorest fishermen, pearl divers, and other hardscrabble cases that have to work hard to get not very far in life. Only the hardest or most desperate walk the tattered planks of Deadman’s Docks, but, ironically, it’s one of the easiest places in the city to find work.</p><p>The Deadman’s Docks have four large piers, each of questionable condition. These piers are of sufficient size to accommodate the largest of ships, although most captains that possess such vessels can afford to avoid the Deadman’s Docks. These docks are under the protection of a brutal Tilean named Donato Buccina. Unless some sort of haggling or arrangement has been made, Buccina charges 1 gc per foot-length of any ship that docks here. He tends to ignore the poorest and most pathetic of fishermen and ferrymen, although his thugs occasionally rough them up to enforce his dominance of the piers.</p><p>The end of each pier serves as a sort of meeting ground where anyone can go to find work from the various ships, stevedore services, and other businesses that work here. The available work is terrible and backbreaking, but for the destitute, it’s a way to get a few clanks for their next meal. In addition to legitimate work, pirate captains are on the prowl for new crewmembers and press gangs are an all too common sight. Although slavery is technically frowned upon here (the people of Sartosa love their freedom and see slavery as the gravest affront), “indentured servants” bustle about on the Deadman’s Docks, hurriedly performing chores and tasks for their masters, along with young crewmen and other servants.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794100692523,
+        "modifiedTime": 1794100815717,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.qOdGqdsEeY8ilyiG"
+    },
+    {
+      "sort": 900000,
+      "name": "Regina Bacini",
+      "type": "text",
+      "_id": "16MVQnEZwVNcB8HG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Located on the far northern reach of the city, the Regina Bacini are the finest docks that Sartosa has to offer—which isn’t saying all that much. The largest ships owned by the wealthiest pirate lords dock here, and several have their own private berths. The piers are in much better repair than most of those found throughout Sartosa. Only complete fools would attempt to try any trouble at these docks, as the crews of the most successful pirate ships wander these docks at all times of the day.</p><h3 id=\"smithy-s\">Smithy’s</h3><p>Smithy’s is the largest and most boisterous tavern on the Regina Bacini. Smithy prefers people from the Empire to come into his bar and gives a cold shoulder to Tileans, Estalians, and Bretonnians. This racism often turns to violence when some unsuspecting sailor comes in for a drink and finds nothing but hard stares and racial slurs. Smithy’s is famous for its squid soup and powerful beer from Reikland. The place is filled day and night with drinking songs of the Empire and this revelry often spills out onto the docks where the inevitable brawl</p><p>Wado d Witih Lilie WilO was tossed out for drunkenness and theft. After several years of wandering the southern seas, he eventually found his way to Sartosa and won the tavern in a dice game.</p><h3 id=\"the-ox-head\">The Ox Head</h3><p>The Ox Head is one of the nicest restaurants in Sartosa. It specializes in beef and pork, which are in great demand on the island. Pirate Lords consider it crucial to stop in and have an enormous meal here after a particularly large haul. The food is surprisingly good and often served with rare wines, beer, and vodka from all over the Old World. The pirates that come to eat there consider the Ox Head “neutral ground”—no weapons are allowed inside and the patrons take this very seriously. Violators are tossed out and beaten, sometimes to death. Repeat offenders are denied entrance and can expect a loaded pistol shoved in their face (the guards are the only ones allowed to carry them).</p><p>Noblemen from the city-states of Tilea come here to meet with pirate captains and discuss employing them as privateers. In order to avoid the possibility of being spotted by other nobles or potential enemies, it’s a common practice for outsiders to wear masks while conducting business. If a person does not have a mask, the owner provides one.</p><blockquote class=\"sidebar\"><h3 id=\"unctuous-to-the-last\">Unctuous to the Last</h3><p>It is unclear who Azluhr is talking to. His notes are scattered here. Many sentences are incomplete. But what he speaks of here is heresy and should be considered as fraudulent as the rest.</p><p>“Long ago, two Elector Counts were killed when their lands were overrun by Orcs and Beasts. This is well documented. But it is not the truth. So bear with me child, for this tale is not easy to follow and I have no cause to repeat myself. And listen close, for I keep my voice low, lest someone overhear and report us. The Elector Count of Drakwald is not dead. Worse yet, I believe some day he shall return to claim his land.”</p><p>“It goes back many generations to the era of Helig the Great. A promise was made, and a betrayal planned. The beasts did not conquer. They were let in. See it? They were let in. For the Count was about to become a Liche, and the beasts gave him the power of many dead souls to complete his unholy—”</p><p>“It’s so obvious.”</p><p>“And of course, there’s the true Elector Count of Stirland who is buried under the city of Tilea, where his unkempt body keeps the grounds hallowed and the burial mounds free from Chaotic taint.”</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794101176368,
+        "modifiedTime": 1794101438700,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.16MVQnEZwVNcB8HG"
+    },
+    {
+      "sort": 1000000,
+      "name": "The Blackfish Docks",
+      "type": "text",
+      "_id": "WiNgkWixZ7LcbyNp",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Long ago, the piers of the Blackfish Docks were devastated by a freak tidal wave. During the reconstruction, there was great confusion and bickering about how they were to be rebuilt, resulting in a confusing, twisting mass of docks and buildings. These docks are used by the “middle class” of Sartosa—average pirate captains, fishing businesses, and the like. Many of the Blackfish’s businesses are located directly on the piers, meaning a sailor doesn’t even have to leave to get all the services he requires.</p><p>The Blackfish Docks have several inns, taverns, food shops, and houses of ill repute lining their cramped piers. These businesses teeter on tall pilings rising several stories into the air. Ropes are slung from building to building and numerous flags and banners wave in the wind. It’s considered good luck to drape the flag or banner of a looted ship on these ropes—some banners are ancient beyond compare. The Blackfish Docks are famous for the hawkers that line the streets, selling all manner of baubles from all over the Old World. Most of these items are worthless, although there are times when a seller has something of true value. Buyers should beware, however, as thugs often target those who flaunt their wealth, robbing them and returning the item they purchased to the hawker.</p><h3 id=\"fitzmann-s-firearms\">Fitzmann’s Firearms</h3><p>Fitzmann’s Firearms is the largest dealer in gunpowder weapons in Sartosa. Although Fitzmann does manufacture some weapons, he’s primarily a broker and buys most of his weapons from pirates after successful campaigns. As a result, a buyer can find guns from all over the Old World, but the quality varies wildly. Fitzmann typically pays less than half for weapons, but full price for gunpowder, which is always in high demand in Sartosa. He often tests weapons by firing them out into the water—the locals are used to the occasional blast, though newcomers may be startled by the gunfire.</p><p>A year ago, to prove the accuracy of his pistol, a drunken sailor fired off a shot, which hit a barrel of powder. Half of the building blew up, although the fire was quickly extinguished and the business saved. Fitzmann hasn't completed the repairs and employs two Tilean bodyguards to ensure that no one breaks in during the evening. These thugs are armed to the teeth and often strut about with a half dozen of Fitzmann’s pistols on their person to discourage larceny.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794101426493,
+        "modifiedTime": 1794101767656,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.WiNgkWixZ7LcbyNp"
+    },
+    {
+      "sort": 1050000,
+      "name": "Adventure Seeds",
+      "type": "text",
+      "_id": "lszJw89EdfXzqzzB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Vibrant, lawless, and dangerous  Sartosa is a place where adventure awaits around every corner. Although most potential adventures feature the pirates that dominate the city, it could also serve as a base from which adventures are launched, or the end goal of a sea-based campaign. Described below are several adventure seeds where your characters could involve Sartosa, the City of Pirates.</p><ul><li><p>As the characters arrive in Sartosa, they are immediately sized up by a Mercenary House called the Blue Blades. The leader, Alfonse, sets up situations where his men challenge the characters whilst he watches from afar. However, another House catches wind of this and tries to enlist the characters to their side. Regardless of their wishes, the characters are caught in the middle, and if they give in to the pressure from either side, they could find themselves hauled off to fight in the Border Princes.</p></li><li><p>A pirate ship comes into town laden with treasure and booty. The sailors begin their carousing, paying with gold coins from some country that no one has ever heard of. They also sell off small, strange statues crafted from ruby, giving one to the characters as payment or a gift. However, over the course of a few days, the sailors seem in a panic and attempt to get back the statues from everyone they gave them to.</p></li><li><p>A ship moored at Deadman’s Docks bursts into a strange green flame one night. The fire is quickly extinguished, but parts of the ship and dock glow with a dim green light that seems to slowly spread—and is drawn to the presence of people...</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794101641316,
+        "modifiedTime": 1794101834635,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!tGnqJFNd80LBpCfy.lszJw89EdfXzqzzB"
+    }
+  ],
   "categories": [],
   "sort": 481250,
   "ownership": {
