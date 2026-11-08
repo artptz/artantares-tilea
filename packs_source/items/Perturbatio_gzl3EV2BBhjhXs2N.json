@@ -6,7 +6,7 @@
   "img": "systems/wfrp4e/icons/blank.png",
   "system": {
     "description": {
-      "value": "<p>The target of the spell must take a WP test, if the test fails he will become confused and suffer a -20% penalty to all actions.<span class=\"Apple-converted-space\"> </span></p>"
+      "value": "<p>The target of the spell must take a <strong>Challenging (+0 SL) Willpower</strong> Test, if the test fails they will become confused and suffer a -2 SL malus to all actions.<span class=\"Apple-converted-space\"> </span></p>"
     },
     "gmdescription": {
       "value": ""
@@ -26,7 +26,9 @@
       }
     },
     "lore": {
-      "value": []
+      "value": [
+        "mind"
+      ]
     },
     "range": {
       "vortex": false,
@@ -48,7 +50,7 @@
       "dice": ""
     },
     "cn": {
-      "value": 9
+      "value": 5
     },
     "magicMissile": {
       "value": false
@@ -85,7 +87,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793071723755,
-    "modifiedTime": 1793071723755,
+    "modifiedTime": 1794153152991,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk",
     "compendiumSource": null,
     "duplicateSource": null,

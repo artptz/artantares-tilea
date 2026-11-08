@@ -6,7 +6,7 @@
   "img": "systems/wfrp4e/icons/blank.png",
   "system": {
     "description": {
-      "value": "<p>This spell soothes any mental illness, and the subject will see his mental problems with clarity. After an adequate time, determined by the GM, in which the target has to remain in contact with the caster, he can try to remove Insanity Points from his characteristics. He must take a WP test every minute, and he removes an Insanity Point for every successful test. He can continue doing so until he fails a test, until he has no more Insanity Points, or until the wizard decides to end the spell. With three or more degrees of failure, both the subject and the caster gain an IP and the spell ends. The wizard must roll to cast this spell again every 5 minutes in order to maintain it.</p>"
+      "value": "<p>This spell soothes any mental illness, and the subject will see their mental problems with clarity. After an adequate time, determined by the GM, in which the target has to remain in contact with the caster, they can try to remove mental Corruption Points from their characteristics. They must take a <strong>Challenging (+0 SL) Willpower</strong> Test every minute, and they remove a Corruption Point for every successful test. They can continue doing so until they fail a test, until they has no more Corruption Points, or until the wizard decides to end the spell. With three or more degrees of failure, both the subject to @Corruption[moderate]{Moderate} Corruption and the spell ends. You must roll to cast this spell again every 5 minutes in order to maintain it.</p>"
     },
     "gmdescription": {
       "value": ""
@@ -26,7 +26,9 @@
       }
     },
     "lore": {
-      "value": []
+      "value": [
+        "mind"
+      ]
     },
     "range": {
       "vortex": false,
@@ -48,7 +50,7 @@
       "dice": ""
     },
     "cn": {
-      "value": 18
+      "value": 8
     },
     "magicMissile": {
       "value": false
@@ -85,7 +87,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793071723748,
-    "modifiedTime": 1793071723748,
+    "modifiedTime": 1794152812405,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk",
     "compendiumSource": null,
     "duplicateSource": null,

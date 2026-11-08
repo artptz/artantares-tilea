@@ -50,7 +50,7 @@
       "dice": ""
     },
     "cn": {
-      "value": 13
+      "value": 6
     },
     "magicMissile": {
       "value": false
@@ -87,7 +87,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793071723751,
-    "modifiedTime": 1793071723751,
+    "modifiedTime": 1794150596672,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk",
     "compendiumSource": null,
     "duplicateSource": null,

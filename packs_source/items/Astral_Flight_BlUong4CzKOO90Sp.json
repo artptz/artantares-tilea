@@ -6,7 +6,7 @@
   "img": "systems/wfrp4e/icons/blank.png",
   "system": {
     "description": {
-      "value": "<p class=\"p2\">The astral body of the wizard separates from<span class=\"Apple-converted-space\"> </span>the physical one, barely visible like a ghost. They can project their astral body up to 100 meters with a Movement characteristic of 12, and see everything that is visible, but they can not interact with material objects or speak. Their physical body lies in a stasis state, and it is incapable of performing any action or perceiving his surroundings. The wizard can cancel the spell instantaneously.<span class=\"Apple-converted-space\"> </span></p>"
+      "value": "<p class=\"p2\">The astral body of the wizard separates from<span class=\"Apple-converted-space\"> </span>the physical one, barely visible like a ghost. They can project their astral body up to 100 meters with a Movement characteristic of 12, and see everything that is visible, but they can not interact with material objects or speak. Their physical body lies in a stasis state, and it is incapable of performing any action or perceiving their surroundings. The wizard can cancel the spell instantaneously.<span class=\"Apple-converted-space\"> </span></p>"
     },
     "gmdescription": {
       "value": ""
@@ -50,7 +50,7 @@
       "dice": ""
     },
     "cn": {
-      "value": 19
+      "value": 8
     },
     "magicMissile": {
       "value": false
@@ -87,7 +87,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793071723747,
-    "modifiedTime": 1793071723747,
+    "modifiedTime": 1794150637040,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk",
     "compendiumSource": null,
     "duplicateSource": null,

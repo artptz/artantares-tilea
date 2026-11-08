@@ -6,7 +6,7 @@
   "img": "systems/wfrp4e/icons/blank.png",
   "system": {
     "description": {
-      "value": "<p>An enemy gets cursed. By manipulating Azur to interfere with all of the victim’s actions, the wizard forces him to automatically fail a skill test, giving the worst possible result. When this spell is successfully cast, the wizard needs to specify to which action Adverse Fate will be applied (for example, when the enemy rolls to hit or to dodge in combat, etc.)<span class=\"Apple-converted-space\"> </span></p>"
+      "value": "<p>An enemy gets cursed. By manipulating Azur to interfere with all of the victim’s actions, the wizard forces them to automatically fail a skill test, giving the worst possible result. When this spell is successfully cast, the wizard needs to specify to which action <em>Adverse Fate</em> will be applied (for example, when the enemy rolls to hit or to dodge in combat, etc.).<span class=\"Apple-converted-space\"> </span></p>"
     },
     "gmdescription": {
       "value": ""
@@ -50,7 +50,7 @@
       "dice": ""
     },
     "cn": {
-      "value": 21
+      "value": 9
     },
     "magicMissile": {
       "value": false
@@ -87,7 +87,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793071723763,
-    "modifiedTime": 1793071723763,
+    "modifiedTime": 1794150560480,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk",
     "compendiumSource": null,
     "duplicateSource": null,

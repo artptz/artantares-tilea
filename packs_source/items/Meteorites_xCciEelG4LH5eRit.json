@@ -6,7 +6,7 @@
   "img": "systems/wfrp4e/icons/blank.png",
   "system": {
     "description": {
-      "value": "<p>Casting this spell while looking at the sky, the wizard calls down dust from the air, and aggregate this dust to form rocks, which will fall to the ground like miniature meteorites. Everyone in the Area of Effect will suffer a hit with Damage 4. Meteorites are not dodgeable.<span class=\"Apple-converted-space\"> </span></p>"
+      "value": "<p>Casting this spell while looking at the sky, the wizard calls down dust from the air, and aggregate this dust to form rocks, which will fall to the ground like miniature meteorites. Everyone in the Area of Effect will suffer a <em>magic missile</em> hit with Damage +6. Meteorites are not dodgeable.<span class=\"Apple-converted-space\"> </span></p>"
     },
     "gmdescription": {
       "value": ""
@@ -50,7 +50,7 @@
       "dice": ""
     },
     "cn": {
-      "value": 19
+      "value": 8
     },
     "magicMissile": {
       "value": false
@@ -87,7 +87,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793071723764,
-    "modifiedTime": 1793071723764,
+    "modifiedTime": 1794150804412,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk",
     "compendiumSource": null,
     "duplicateSource": null,

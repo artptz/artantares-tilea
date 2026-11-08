@@ -6,7 +6,7 @@
   "img": "systems/wfrp4e/icons/blank.png",
   "system": {
     "description": {
-      "value": "<p>Both arms change to resemble those of a wild beast. The hands grow long claws that cannot hold objects. These claws grant the Natural Weapons talent and count as having the Fast quality, giving a +2 SL bonus to Weapon Skill and a SB+1 damage for the spell’s duration. After that, the claws can be maintained with a successful Willpower test.<span class=\"Apple-converted-space\"> </span></p>"
+      "value": "<p>Both arms change to resemble those of a wild beast. The hands grow long claws that cannot hold objects. These claws grant the @UUID[Compendium.wfrp4e-core.items.Item.AtpAudHA4ybXVlWM]{Weapon} (SB+2) Trait and count as having the Fast quality, giving a +2 SL bonus to Weapon Skill for the spell’s duration.</p>"
     },
     "gmdescription": {
       "value": ""
@@ -26,7 +26,9 @@
       }
     },
     "lore": {
-      "value": []
+      "value": [
+        "body"
+      ]
     },
     "range": {
       "vortex": false,
@@ -39,7 +41,7 @@
       "value": "You"
     },
     "duration": {
-      "extendable": false,
+      "extendable": true,
       "maximum": false,
       "value": "Willpower Bonus Rounds"
     },
@@ -48,7 +50,7 @@
       "dice": ""
     },
     "cn": {
-      "value": 8
+      "value": 4
     },
     "magicMissile": {
       "value": false
@@ -85,7 +87,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793071723746,
-    "modifiedTime": 1793071723746,
+    "modifiedTime": 1794151125740,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk",
     "compendiumSource": null,
     "duplicateSource": null,
