@@ -209,6 +209,47 @@
       },
       "category": null,
       "_key": "!journal.pages!jmXuGbIxVLPCaY9F.HndWncfaHb0nzNUq"
+    },
+    {
+      "name": "Deepwatch",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>The Deepwatch of Tobaro is made up of those too caught up in the tales of adventure and glory to pay heed to the inherent dangers, or those too desperate to care. The Deepwatch are in essence a guild of professional adventurers, with groups dispatched into the tunnels beneath the city to keep them clear from monsters and stop any creatures from reaching the city. It’s a dangerous job, all right, but somebody has to do it.</p><p></p><h3 style=\"text-align:center\" class=\"no-toc\">Deepwatch Advance Scheme</h3><table style=\"height:34px\" border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:60px;text-align:center\"><p>WS</p></td><td style=\"height:17px;width:60px;text-align:center\"><p>BS</p></td><td style=\"height:17px;width:60px;text-align:center\"><p>S</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>T</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>I</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>Agi</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>Dex</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>Int</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>WP</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>Fel</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:60px;text-align:center\"><p>✠</p></td><td style=\"height:17px;width:60px;text-align:center\"><p> </p></td><td style=\"height:17px;width:60px;text-align:center\"><p>✠</p></td><td style=\"height:17px;width:61px;text-align:center\"><p> </p></td><td style=\"height:17px;width:61px;text-align:center\"><p>♜</p></td><td style=\"height:17px;width:61px;text-align:center\"><p> ✠</p></td><td style=\"height:17px;width:61px;text-align:center\"><p> </p></td><td style=\"height:17px;width:61px;text-align:center\"><p>♛</p></td><td style=\"height:17px;width:61px;text-align:center\"><p>♟</p></td><td style=\"height:17px;width:61px;text-align:center\"><p></p></td></tr></tbody></table><p></p><h3><strong>✠ Deepwatch Recruit</strong></h3><p><strong>Status</strong>: Brass 3<br><strong>Skills</strong>: Athletics, Climb, Dodge, Endurance, Evaluate, Melee (Any), Navigation, <em>Perception</em>, Stealth (Underground), Swim<br><strong>Talents</strong>: Orientation, Resistant (Disease), Tenacious, Tunnel Fighter<br><strong>Trappings</strong>: Hand Weapon, Leather Jack, Uniform<br></p><h3><strong>♟ Deepwatch</strong></h3><p><strong>Status</strong>: Brass 5<br><strong>Skills</strong>: Charm, Cool, Gossip, Outdoor Survival, Secret Signs (Deepwatch), Track<br><strong>Talents</strong>: Night Vision, Enclosed Fighter, Scale Sheer Surface, Striding Gait (Rocky)<br><strong>Trappings</strong>: Cave Maps, Lantern and Pole, Lamp Oil<br></p><h3><strong>♜ Deepwatch Adventurer</strong></h3><p><strong>Status</strong>: Silver 2<br><strong>Skills</strong>: Entertain (Storytelling), Haggle, Lore (Geology), Set Trap<br><strong>Talents</strong>: Fearless (Monsters), Hardy, Reaction Strike, Resistant (Poison)<br><strong>Trappings</strong>: Breastplate, Helm<br></p><h3><strong>♛ Veteran Deepwatch</strong></h3><p><strong>Status</strong>: Silver 5<br><strong>Skills</strong>: Intuition, Leadership<br><strong>Talents</strong>: Combat Aware, Relentless, Robust, Strike Mighty Blow<br><strong>Trappings</strong>: Subordinate Deepwatch</p>"
+      },
+      "_id": "N02cjJdNWPdc4PUS",
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 450000,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "coreVersion": "14.369",
+        "createdTime": 1794104532111,
+        "modifiedTime": 1794107450023,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": "Compendium.wfrp4e-core.journals.JournalEntry.wczCPcuHT4VQDLpL.JournalEntryPage.N02cjJdNWPdc4PUS",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!jmXuGbIxVLPCaY9F.N02cjJdNWPdc4PUS"
     }
   ],
   "categories": [],

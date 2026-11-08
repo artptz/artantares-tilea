@@ -635,12 +635,12 @@
       "system": {},
       "title": {
         "show": true,
-        "level": 2
+        "level": 1
       },
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p style=\"text-align:justify\">These two family lineages extend deeply into Reman society. Members of each family can be found in prominent positions among both merchant and criminal circles. Most of Remas’ citizens tend to sympathise predominantly with one faction or the other.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Crime in the city tends to be run by one of these families, with much smaller criminal groups having to pay tribute and treat the head of one of the families as its patron or be wiped out. Criminals operating independently of them tend to have a short life span but this doesn’t stop the more daring entrepreneurs trying. Raids and reprisals are commonplace, particularly in the poorer quarters of the city. More than one riot has started as the result of violent intrusions by rival crime gangs onto another faction’s territory.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The heads of these powerful families, Edoardo Montecchi and Sabino Cappofero, are watched closely by the head of the temple of Verena in Remas, Marcel Macaroni. High Priest Macaroni would dearly love to have both men executed, but his hands are tied by the same laws that he’s required to enforce. So far, both men have proved more than capable of ensuring that evidence never links them directly to prosecutable crimes.<span class=\"Apple-converted-space\"> </span></p>"
+        "content": "<p style=\"text-align:justify\">These two family lineages extend deeply into Reman society. Members of each family can be found in prominent positions among both merchant and criminal circles. Most of Remas’ citizens tend to sympathise predominantly with one faction or the other.<span class=\"Apple-converted-space\"> </span></p><p style=\"text-align:justify\" class=\"p1\">Crime in the city tends to be run by one of these families, with much smaller criminal groups having to pay tribute and treat the head of one of the families as its patron or be wiped out. Criminals operating independently of them tend to have a short life span but this doesn’t stop the more daring entrepreneurs trying. Raids and reprisals are commonplace, particularly in the poorer quarters of the city. More than one riot has started as the result of violent intrusions by rival crime gangs onto another faction’s territory.<span class=\"Apple-converted-space\"> </span></p><p style=\"text-align:justify\" class=\"p1\">The heads of these powerful families, Edoardo Montecchi and Sabino Cappofero, are watched closely by the head of the temple of Verena in Remas, Marcel Macaroni. High Priest Macaroni would dearly love to have both men executed, but his hands are tied by the same laws that he’s required to enforce. So far, both men have proved more than capable of ensuring that evidence never links them directly to prosecutable crimes.<span class=\"Apple-converted-space\"> </span></p>"
       },
       "video": {
         "controls": true,
@@ -661,7 +661,7 @@
         "systemId": "wfrp4e",
         "systemVersion": "10.1.2",
         "createdTime": 1793066142804,
-        "modifiedTime": 1793066142804,
+        "modifiedTime": 1794094240434,
         "lastModifiedBy": "XtBZYPNGm0g6PJIk"
       },
       "_key": "!journal.pages!BhZS96hSdSN9addg.S07vswnAVyOizRAZ"
@@ -860,10 +860,49 @@
         "lastModifiedBy": "XtBZYPNGm0g6PJIk"
       },
       "_key": "!journal.pages!BhZS96hSdSN9addg.ccVh36ifddjyoHTG"
+    },
+    {
+      "sort": 1737500,
+      "name": "Ponte Eterno",
+      "type": "text",
+      "_id": "28kZ3obbQ6WavhFt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Spanning the mouth of the lagoon, Il Ponte Eterno—also known as the Great Reman Bridge—is a colossal granite structure that connects the two halves of the city across the harbor. Resting on massive gray pillars, it stands high enough to allow the fast warships of Remas to pass easily into the sea. Built on a scale that would impress even a Dwarf, the bridge stretches nearly two miles long and four hundred yards wide.</p><p>More than just a vital roadway, the bridge supports rows of magnificent multi-story palazzos on both sides. These luxury dwellings belong to the city's fifty ruling Merchant Princes and the governing triumvirate chosen from their ranks. Built like small fortresses, the mansions feature narrow lower windows for security, while their upper levels showcase grand stained-glass windows, skylights, and sweeping balconies that look out over both the sea and the lagoon.</p><p>Each noble house competes for prestige through lavish architecture, flying colorful heraldic banners alongside the flags of the mercenary companies hired to protect their interests. To safeguard against naval attacks like the historical sacking by elven corsairs, two-story fortresses equipped with artillery batteries are positioned at regular intervals along the bridge.</p><p>Access to Il Ponte Eterno is strictly controlled at both ends by solid iron gates flanked by massive towers. Here, helmeted soldiers of the Republican Guard armed with halberds monitor all traffic, turning away anyone without legitimate business. Soaring above the mansions are the bridge's signature leaning towers, whose extraordinary, gravity-defying angles are supported by immense stone buttresses rising directly from the water.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794095680156,
+        "modifiedTime": 1794095693010,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.28kZ3obbQ6WavhFt"
     }
   ],
   "categories": [],
-  "sort": 400000,
+  "sort": 250000,
   "ownership": {
     "default": 0,
     "XtBZYPNGm0g6PJIk": 3
@@ -881,7 +920,7 @@
     "systemId": "wfrp4e",
     "systemVersion": "10.1.2",
     "createdTime": 1793066142804,
-    "modifiedTime": 1793066142804,
+    "modifiedTime": 1794094252481,
     "lastModifiedBy": "XtBZYPNGm0g6PJIk"
   },
   "_key": "!journal!BhZS96hSdSN9addg"
