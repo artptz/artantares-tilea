@@ -1,0 +1,186 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Trantio and Pavona",
+  "_id": "MRwkXNjBjFh5VkxL",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "A Heated Rivalry",
+      "type": "text",
+      "_id": "0tPdQ51C5hJkagRq",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Trantio and Pavona have been trade rivals for millennia, competing for trade imports from the eastern Dwarf realms and Border Princes. The Trantine hills that separate the cities have seen countless battles between the mercenaries of enterprising merchant princes. Despite the perpetual conflict, other city-states have never been able to take advantage. Every time a foreign mercenary army appears in the region, merchants from Trantio and Pavona band together to drive off the interloper before they resume fighting between themselves.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">In between periods of heavy fighting, there have been many attempts at reconciliation between the rival cities. Princely families on both sides have become intertwined through a long succession of marriage alliances. These pacts can be short-lived as marriages are often ended in assassination by poisoning or other forms of foul play if the bride or groom is particularly obnoxious.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Some Tileans speculate that if Trantio’s frequent skirmishes with Pavona ever ceased, and the two cities managed to work together, the region would become a major continental power centre. More pragmatic Tileans are certain this alliance will never happen.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.artantares-tilea.journals.JournalEntry.oLc4qZ6N1M9Ru8e8.JournalEntryPage.0tPdQ51C5hJkagRq",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142811,
+        "modifiedTime": 1793066142811,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!MRwkXNjBjFh5VkxL.0tPdQ51C5hJkagRq"
+    },
+    {
+      "sort": 100000,
+      "name": "Trantio",
+      "type": "text",
+      "_id": "PEKPl6SEpoZJEKeJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Trantio was one of the first cities in Tilea to become a Republic in 1400 IC. The city was home to the famous explorer Marco Colombo who claimed to have discovered Lustria. Upon his return to Tilea, Colombo promptly overthrew the Republicans at the head of a mercenary army, seized power, and led Trantio into a golden age of expansion and growth. The city has remained a Principality ever since. Trantio was the last of the Tilean cities to be devastated by the Red Pox, a blight from which the city has never fully recovered. Some districts are still rumoured to be home to lurking Skaven. The city is widely renowned for its stylish clothes and large domed temple of Myrmidia, but otherwise it exercises little political power in the area. Prince Bologna di Grassi currently rules the city with the help of a small council of merchants. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142811,
+        "modifiedTime": 1793066142811,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!MRwkXNjBjFh5VkxL.PEKPl6SEpoZJEKeJ"
+    },
+    {
+      "sort": 200000,
+      "name": "Pavona",
+      "type": "text",
+      "_id": "sjOO1PHmbfBJ5TZb",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The city of Pavona rose quickly to become a serious trade rival to Trantio, but still it remains small in comparison to other Tilean cities. Pavona is noted for the high quality of its alchemy and brewing industries but is now more famous for a more sinister export. The city is ruled by Lucrezzia Belladonna who has both founded an academy of assassins and encouraged the alchemists </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142811,
+        "modifiedTime": 1793066142811,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!MRwkXNjBjFh5VkxL.sjOO1PHmbfBJ5TZb"
+    },
+    {
+      "sort": 150000,
+      "name": "Malavigna",
+      "type": "text",
+      "_id": "9kh6y3RuTNlGksr4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The picturesque village of Malavigna is situated in the Trantine hills overlooking the broad sweeping River Remo. Most villagers live simple lives that chiefly depend upon the quarrying of marble and the tending of vineyards. Even for Tilea the village is renowned for its pragmatism. Trapped between Trantio and Pavona the village’s population spend much of its time switching their loyalty between the two larger cities. Occasionally a battle is fought nearby and somehow villagers caught up in the struggle somehow manage not only to survive but to hold onto the greater part of the loot.<span class=\"Apple-converted-space\"> </span></p><p style=\"text-align:justify\" class=\"p1\">According to legend, Malavigna was originally founded by a disinherited Bretonnian knight. Tales claim that the knight brought only the shirt on his back, a handful of plundered grape seeds and his mother’s recipe for distilling brandy. Whatever the truth, Malavignan brandy is renowned throughout Tilea today. The drink is made from triple-distilled Trantine grapes, using the finest equipment that can be fashioned with the help of the Dwarf artificers who flock there.<span class=\"Apple-converted-space\"> </span></p><p style=\"text-align:justify\" class=\"p1\">Malavigna’s success in both quarrying and brewing has attracted interest from the Republic of Remas. Currently there is much talk among Remas’ Council of Fifty about the possibility of ‘liberating’ the village from the ‘oppression’ of Trantine nobility. These imperialistic overtures have concerned Baroni Dante Malavigna, who now seeks allies in Remas to discredit the overambitious councillors.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.artantares-tilea.journals.JournalEntry.oLc4qZ6N1M9Ru8e8.JournalEntryPage.9kh6y3RuTNlGksr4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794093335702,
+        "modifiedTime": 1794093345627,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!MRwkXNjBjFh5VkxL.9kh6y3RuTNlGksr4"
+    }
+  ],
+  "categories": [],
+  "sort": 475000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ec043fd8310f14c0af80d43c69c08f59e3dc46a1"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142811,
+    "modifiedTime": 1793066142811,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!MRwkXNjBjFh5VkxL"
+}

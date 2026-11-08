@@ -1,0 +1,303 @@
+{
+  "folder": "MVgifQ6C9nqPkpfk",
+  "name": "The Land",
+  "_id": "HQL0yiyyzAudKrWa",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Introduction",
+      "type": "text",
+      "_id": "l4bI25W0AGfSWFPz",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<blockquote><p>“You Imperials think us weak, but you’re just fools who assume your nobility without question. In Tilea only the strongest and most cunning rule. Not through blood, but through skill alone is power won.” – <strong>Lucrezia Belladonna, Ruler of Pavona</strong> </p></blockquote><p style=\"text-align:justify\"><span class=\"s1\">T</span>he ancient land of Tilea lies to the south of the Empire, far from the taint of Chaos. It is a warm and hospitable land of plains and rolling hills. Ages-old villages and farms lay scattered throughout the countryside, many of them having changed little over the millennia. The nation is circled by mountain ranges, and for this reason Tilea is thought by its neighbors to be a place of safety and comfort, populated by soft and decadent people accustomed to easy living.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">But they are wrong. In the depths of the Blighted Marshes the Skaven twitter and screech while plotting the downfall of the city-states. Dark Elves pounce on Tilea’s coastal communities in lightning raids launched from the seas. In the mountains and deep forests lurk Greenskin races and countless other species of evil. Of course the deadliest threat in Tilea is humanity itself. Merchants vie for the riches of trade as titled princes shout over each other for governing power. Pirates raid villages and attack galleons everywhere in this region. In the north, nobles of Bretonnia and the Empire plot to seize control of Tilea’s land and wealth for themselves.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">All the while the worshippers of the many gods tempt to seduce the souls of humankind.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Despite this constant struggle, the people of Tilea are highly social. At the crossroads of the Old World, Tileans are comfortable among strangers and form fast friendships with no promise of lasting. This contributes to its reputation as a mercenary culture well aware that every person has both a price and something to trade. As a society, Tileans do not hide from the dark secrets of Chaos or deny that the Skaven lurk under the floorboards, and are willing to acknowledge any god who may aid them.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066140411,
+        "modifiedTime": 1793066140411,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!HQL0yiyyzAudKrWa.l4bI25W0AGfSWFPz"
+    },
+    {
+      "sort": 200000,
+      "name": "Principal Geography",
+      "type": "text",
+      "_id": "e1nphTVHduYp8Y2r",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"p2\" style=\"text-align:justify\"><em>Tilea e divisio e tre parte. </em>“Tilea is divided into three parts” begins the <em>Bellona Myrmidia </em>and so it remains.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The western arc of Tilea ends at the Abasko Mountains, beyond which are the fractured Estalian Kingdoms. While the mountains continue down the flank of Estalia from here, down towards the sea, forming a rugged landscape with few places for settlement.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The coast here is choked by a vast island chain known as the Thousand Islas, a treacherous zone of uninhabited islets and sharp reefs that have never been fully charted. These rocky islands have sheltered bays and coves where vessels may seek refuge from a pursuer or bad weather.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Even taking one of the better-known lanes throughthese waters may test a sailor’s nerve, as they may face swirling currents, rapid shifts in wind direction, mirages and fast moving thunderstorms. The southernmost point of the Thousand Islas is known as Fools’ Point, a craggy haven for seagulls and little else.Western Tileans are typically wary of strangers and acknowledge no prince or city-state as ruler. They are content to live simply as fishermen or keep herds of goats in green valleys high in the mountains. Many have reputations as cheats and conspirators who rob from caravans moving through the mountain trails. This has done little to improve relations with the Estalians, who view themselves as rivals with the Tileans as heirs to the ancient but short-lived Reman Empire. There is little industry, and while the Abaskos are thought to be rich in copper, most of the easily reached veins were mined out long ago. The city of Tobaro is a vital trading center in this region, being a seaport within a few days’ travel of nearly every other Tilean city-state, as well a having links to the Estalian mainland by way of the Tramoto Pass. The pass is a steep-sided canyon carved by the River Eboro, which has its source in the Irrana Mountains but cuts straight through the Abaskos on its way to the Tilean Sea. Both the Tileans and Estalians have invested in bridgeworks and walled camps for travelers along this route. However, these are as likely as not to be held by brigands and highwaymen.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">To the north, the swollen delta of the Blighted Marshes juts into the Tilean Sea like a cancerous growth. This low territory collects up hundreds of streams running down the slopes of the Irrana Mountains, many of which feed into the brackish plodding waters of the River Bercelli. No human willingly visits this dismal bog, for there’s nothing of value in its stinking expanse of fetid pools and marsh weeds. The trees here are few and sickly, and creatures unmentionable writhe in the shallows, curling their limbs into the roots where they can hide and await the passage of something meaty.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">Somewhere in the west of the Blighted Marshes is the mythical city of Skavenblight. The wicked rat-things that breed within its filthy tunnels are the stuff of nightmares and dark tales throughout Tilea. What the Skaven do in there isn’t well understood, but their influence stretches further than any human would dare imagine. Though usually content to work in secret, these twisted creatures sometimes pile into crude boats to conduct raids at sea, or climb up through the sewers into a city at night when they can abduct sleepers straight from their beds. The fates of these kidnap victims aren’t clear, but it’s believed that many are sold as slaves while the rest are subjected to horrifying experiments in the warrens of Skavenblight.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">The broad arch of the Tilean horseshoe stretches away to the east of the Blighted Marshes, curving south into a broad peninsula. This landmass is what many foreigners equate with the whole of Tilea, being a continuous geographic feature reaching out from the Old World toward Araby across the Great Ocean.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">The region hosts a variety of environments, with ragged mountains along its northern and eastern borders, wooded foothills and fertile river valleys, dry plains and sandy beaches.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">Surrounding the Golfo di Miragliano and running south<span class=\"Apple-converted-space\"> </span>along the Tilean Sea is a hilly country divided into acres of farmland and fallow fields, with pockets of cypress trees standing amongst them like great assemblies of pikemen. Groves of olive trees cling to the hills, their tenders living in mud brick houses with tiled terracotta roofs. These are in turn watched over by the fortified manors and villas of the nobility, whose private armies are sometimes called upon to defend against Orc raids launched from the Vaults. As the primary land route to Bretonnia, the Nuvolone Pass is very well policed and kept open throughout most of the year by patrols of mounted crossbowmen.The spine of the Apuccini Mountains forms a barrier between Tilea and the Border Princes. Nestled against the western slopes of the Apuccinis is the Tettoverde Wood, an alder forest filling a triangle of land formed by the rivers Cristallo and Bellagio. In the autumn, this forest turns fiery red and temporarily earns the nickname Tettorosso, a term that can easily confuse the unwary voyager. These woods are important landmark for those taking the Via Nano, a road that may be older than the Reman Empire and one that has been part of the spice and silk trade for a thousand years or more. When leaving Tilea along this stony path, travelers must ford the Bellagio near the last southern stands of the Tettoverde before twisting up the slopes of the Apuccinis on their way to the Border Princes. The Via Nano is among the most dangerous roads in all of Tilea, with countless blind turns and high cliffs giving ambushers every advantage. Mercenary companies based around Trantio offer their protective services for a high price, knowing the value of the cargoes that move through here.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Further south are the Trantine Hills, a favourite site for armed companies on mock manoeuvres and as a mutually accepted battlefield for rival city-states. The hills are covered in dry grass and are roamed by herds of wild horses and longhorn cattle. An important part of any Tilean soldier’s training is learning to capture mustangs and wrangle cows, as well as avoiding the wrath of angry bulls. Reflexes are sharpened in these duels of man against beast, along with a respect for the power of nature but also a confidence in one’s ability to command it.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Clusters of grey elms mark one’s approach to the lower reaches of the Tilean peninsula, where sea breezes bring cool air and moisture to a land sometimes parched by long summer days. Fed by the mineral-rich waters of the rivers Remo and Riati, the central coastline and croplands yield olives, grapes, cheese and meats of good quality. Wine and olive oil are produced in such quantities that a number of merchant families in the port cities of Remas and Luccini have entire fleets dedicated to exporting them. As with other areas of Tilea, the working classes owe their lives to local princes, but here there is greater wealth and more powerful factions than found anywhere else in this land. The prosperity of this region is partly to blame for the inability of any one leader to gain strength, as there are simply too many interested parties with too great a stake in the area’s politics and economy.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">In southernmost Tilea the Apuccini Mountains give way to hills. These are at last swallowed by the Sussurrio Wood, the murmuring forest. Local legends maintain that the woods spread from Elven burial mounds placed there millennia ago, and that their spirits and ghosts live within the trees. Most who have explored this forest report voices and odd sensations, and very often lose their ways. Some swear that fairies and gnomes play at magic and weave dreams within the Sussurrio.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">At the end of this arm of the horseshoe is the arid Plain of Luccini, a rocky waste tufted with wheat grass not worth the trouble of harvesting. Most Tileans avoid it, staying close to the shore if they must make a journey between the city of Luccini and the town of Monte Castello on the Black Gulf. The coastal settlements along this road face the waterway known as Pirate’s Current, and the rogue’s island haven of Sartosa across the channel. The attitude of many Tileans in this region is guarded, since they are particularly vulnerable to attacks from border princes, Dark Elves raiders and other seaborne enemies<span class=\"Apple-converted-space\">.</span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066140411,
+        "modifiedTime": 1793066140411,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!HQL0yiyyzAudKrWa.e1nphTVHduYp8Y2r"
+    },
+    {
+      "sort": 300000,
+      "name": "The Sea",
+      "type": "text",
+      "_id": "mIZoPsYuTTF8D6of",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<blockquote><p>“I spent my days as a child crammed with my six brothers in the filth of a Reman basement. Is it any wonder the freedom of the sea called to me?” – <strong>Bella di Manaan, Pirate Princess</strong> </p><p>“Nothin’ but fish guts and wood bits in some of those little villages. Wouldn’t surprise me if they made their beer out of it, judging from the taste.” – <strong>Grimwold Thundershanks, Dwarf Mercenary</strong> </p></blockquote><p style=\"text-align:justify\">The Tilean Sea is a wide channel of generally calm waters that divides Tilea into its three regions. This warm and shallow sea is beautiful to the eye, and the subject of much Tilean artwork and lore. Its glasslike surface is to be feared as much as admired, as this means light winds and long delays for sailors. At its worst, it requires rowing a heavy ship for hundreds of miles to shore, a slavish task certain to lower morale. </p><p style=\"text-align:justify\">These are crowded waters. Traders from all over the known world visit Tilea, and traffic is heaviest between the city-states of Remas and Luccini. Merchant convoys and their armed escorts arrive daily, stopping at a favourite port city to quickly refit before heading back onto the open sea. Except in the most remote corners of the Tilean Sea, it is expected that another ship will be spied every few hours, day or night. All good captains employ an expert spotter who can tell the difference between an innocent trading vessel and a pirate that’s only masquerading as one. </p><p style=\"text-align:justify\">At its northern terminus, the headland of the Blighted Marshes divides the Tilean Sea into two bays. Both are important to the sea trade and present unique dangers. Tilean harbour pilots have mastered the art of extortion in these bays, sometimes intentionally grounding a fat trading vessel where raiders can easily take it. </p><p style=\"text-align:justify\">To the west is the Golfo di Fodore, where jagged rocks hide just below the waters. It is most treacherous along the Estalian side where rough waters and sheer granite cliffs may claim unlucky ships. The sailors of nearby Tobaro have made an art of navigating these hazards, but they form an effective barrier against pirates and help to reduce the effect of storm surges. </p><p style=\"text-align:justify\">To the east of the Blighted Marshes is the Golfo di Miragliano, also called the Golfo di Pearls. This is a dark and muddy bay mined with sandbars that shift daily. This brackish sea often floods the port of Miragliano and its famous canals during high tide. </p><p style=\"text-align:justify\">The coastlines of eastern Tilea are typically sandy or rocky beaches that stretch for unbroken miles to the Black Gulf. This gulf separates Tilea from the Border Princes and the Badlands, lawless regions where the fight for supremacy is waged by desperate factions loyal only to their avarice. Here the southwestern reaches of the Tilean Sea blend into the Bay of Wrecks and the Lagoon of Tears. This is the gateway to the Dwarfhold of</p><p style=\"text-align:justify\">Barak Varr and the key to dominating trade from far Ind and mysterious Cathay. </p><p style=\"text-align:justify\">Much of the bounty of the sea ends up on dinner plates. The harvesting of mussels, clams, crabs and shrimp forms the livelihood of many Tileans. Tuna fish, anchovies and mackerel are other important seafoods caught in this region. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066140411,
+        "modifiedTime": 1793066140411,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!HQL0yiyyzAudKrWa.mIZoPsYuTTF8D6of"
+    },
+    {
+      "sort": 400000,
+      "name": "The Mountains",
+      "type": "text",
+      "_id": "6V1qUM8YLRbI2nEQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Tilea is framed and protected by its mountains. They are roamed by red deer and long-haired goats as well as the wranglers, hunters and herders who make their livelihoods from them. As with all of the Old World’s mountains, they are also plagued with Orcs, Giants, Ogres and many frightening beasts besides. Travellers through this land are warned to stay on guard. </p><p style=\"text-align:justify\">The snow-capped peaks of the Irrana and Abasko Mountains make up much of western Tilea. This is a bleak but beautiful area peppered with lonely villages and monasteries, with few roads and mountain passes. It is much beloved by priests and other seekers of enlightenment as a place where one may commune with the gods while hiking and climbing its craggy features. </p><p style=\"text-align:justify\">The Irranas form Tilea’s northwest border. As one travels east, these mountains become increasingly jagged and uneven, their peaks seeming to lean toward one an other. These are the Vaults, a jumbled and mist-shrouded region of deep valleys and impossible heights formed from the collision of three different mountain ranges. It is named for the sensation one gets while in one of the troughs, the walls on either side rising so steeply that only a bare strip of the sky may be visible. These mountains are the domain of the Dwarfs of Karak Grom. The only humans who live here to compete with them are the desperate, the outcast and the shunned. </p><p style=\"text-align:justify\">The Apuccini Mountains form the eastern border of this land. Through them are several passes to the Border Princes, and most of the smaller settlements of eastern Tilea can be found along the roads. Life for these villagers has improved only because of increased settlement in the Border Princes, drawing away raiding Orc warbands while bringing additional wealth as an important trade corridor. </p><p style=\"text-align:justify\">Separating the two most significant passes through the Apuccinis are the Trantine Hills. The villages along the fringes of these hills are renowned for their wines and the quality of their beef taken from white cattle rumoured to have been left behind by Elves in centuries past. The region sees frequent wars between Trantio and Pavona, and occassionally between the great cities of Lucchini, Remas and Verezzo. Orcs and bandits also lay claim to these hills and sometimes pour into the lowlands to take what they want and burn the rest, so when the princes’ armies aren’t fighting one another they’re defending the Trantines from marauders. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066140411,
+        "modifiedTime": 1793066140411,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!HQL0yiyyzAudKrWa.6V1qUM8YLRbI2nEQ"
+    },
+    {
+      "sort": 500000,
+      "name": "The Plains",
+      "type": "text",
+      "_id": "jdpoHtYDa8TkCb8h",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<blockquote><p>“I know it must sound crazy, but it’s safer to travel at night. If there were trees or gullies out here we’d be able to make progress under the sun. But you’ve seen what it’s like, and you know we’re too easy to spot. Did you see those crossbows they had? If we’re anywhere between them and the horizon, they’ll spot us and be bearing down us before we know it. So I don’t care if it’s too hot or too bright for you. If you’re not going to sleep, don’t complain to me. My job is to keep you alive, not keep you comfortable or well-rested.” – <strong>Pietro, Outrider Formerly with the Sun-and- Spear Mounted Company</strong> </p><p>“Nice wide fields, could almost pretend I’m back on the steppe if it wasn’t for the svolich heat.” – <strong>Boris Chzov, Kislev Horse Archer</strong> </p></blockquote><p style=\"text-align:justify\">The eastern arm of Tilea is a broad swathe of land that is known to be exceptionally dry, where tenacious olive trees cling to life amidst fields of brown grass baking in the sun. It is good territory for training infantry and mercenaries, and there are often companies of pikemen or cavalry practicing maneuvers on this level terrain, kicking up dust. Beyond this martial function, it is hard land to subsist on at the best of times. The Tilean inland is also claimed by rogue fighting units from one of the city-states, intrepid Border Princes in a little over their heads and disorganized Goblin clans looking for easy targets.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Heat lightning can spark fiery maelstroms in the arid lowlands that may burn out of control for weeks. The smoke from these fires covers southern Tilea with a pale haze through autumn, turning the sun red and washing the atmosphere in a rose light. With each wildfire a fresh layer of dust is laid down over this parched earth. In the aftermath are landscapes turned to charcoal, sometimes stretching from the sea to the mountains. It takes surprisingly little time for these blackened lands to recover, but of course there wasn’t very much there to begin with.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Along the Tilean Sea’s more hospitable eastern seaboard are soils supplied with rich silt from the many streams and rivers that flow down from the Trantine Hills. Most of Tilea’s population lives in this patchwork of vineyards and farms yielding an abundance of cereals, fruits, cheeses, salt, garlic and native<span class=\"Apple-converted-space\"> </span>seasonings. The southeast has less variety, being primarily wheat fields, poultry farms and goat herds.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">Roads first laid down in ancient times cross the plains, and travellers along these arteries will pass marble tombs and ruined monuments to a dead culture. Some stretches of these paths are well-maintained by locals, but most have fallen into disrepair and are useful only as guides. Horses and carts are more likely to travel along the sides of the crumbling stonework tracks, counting the carved milestones that still mark the way as they did for the Reman Empire.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">For many villages of central Tilea it has become a tradition to bury the dead in cairns made of broken rocks taken from roads. This habit has resulted in graveyards that lie along unpaved trails stripped bare of their cobblestones. Indeed, it’s unlucky for a Tilean graveyard to be approached by a paved road, a superstition taken to such an extent that some villagers will clear the cobbles for miles if there is a grave anywhere within sight of it. These sudden disappearing roadways have gotten many a foreigner lost, while the natives see this as a good way to frustrate would-be raiders<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066140411,
+        "modifiedTime": 1793066140411,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!HQL0yiyyzAudKrWa.jdpoHtYDa8TkCb8h"
+    },
+    {
+      "sort": 600000,
+      "name": "Climate",
+      "type": "text",
+      "_id": "DzV1y2YryRCNg1mC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<blockquote><p style=\"text-align:justify\">“With this warm weather and the shimmering blue sea, I’m constantly reminded of the old days. It’s truly a pleasure to visit.” <strong>– Eldrad Half-light, Dark Elf Corsair</strong><span class=\"Apple-converted-space\"><strong> </strong></span></p><p class=\"p1\" style=\"text-align:justify\">“As the story goes, the fisherman gets trapped in a fog, going this way and that trying to find his way out, never seeing the sun and losing track of time. There’s no end to it. He starts to think he should have reached the end of the world by now. He goes insane. He decides he’s going to jump overboard and so he puts a weight round his neck. Splash! In he goes! And as he’s being dragged under, he sees the water get brighter and brighter. Then he realises the sun’s come out, and as the fog lifts he can see that the boat has drifted back into the harbour, but it’s too late. The last thing he sees are the barnacled piers of his home port and a dozen skeletons in the sand below, weights round their necks.” <strong>– Lorenzo Parma, Fisherman</strong><span class=\"Apple-converted-space\"><strong> </strong></span></p></blockquote><p class=\"p2\" style=\"text-align:justify\">Tilea has a mild but arid climate, the temperature generally warm and not varying greatly between north and south. In all seasons but summer it is usual for a heavy morning overcast along the coasts. A warm reeking mist hangs around the Blighted Marshes and thick woodsmoke drifts through the streets of every city-state. But no matter where one goes, there is a whiff of salt ocean air.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The western and northern arms of Tilea receive a fair share of rainfall as clouds blowing in from the Tilean Sea and Great Ocean burst when they reach the mountains. The eastern plains of the region are quite dry, with brief rain showers in early spring and autumn but rarely at any other time. In the winter, fogs roll in off the sea. Some of these can be of legendary height or speed, or last for days.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">During the coldest months light snow falls in the higher elevations and in some parts of the north. As the year grows warmer, the very rich will hire expeditions to bring ice down from the mountain peaks to satisfy the novel luxury of a cold drink in the city-states. At the height of summer the entire land swelters under a heat wave, affecting the far south and the plain of Luccini particularly. These dry spells have been responsible for famines lasting years, and in some parts of Tilea it seems as though the lean times only improve just beforee another drought.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">Every few years, a high storm-wind that the Tileans call il Scirocco arrives from the south, bringing with it dust from the furthest reaches of Araby that clogs the lungs of anyone caught<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">in its wake. Many a Tilean carries a lifelong hacking cough as a result of breathing in the foul air of il Scirocco.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066140411,
+        "modifiedTime": 1793066140411,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!HQL0yiyyzAudKrWa.DzV1y2YryRCNg1mC"
+    },
+    {
+      "sort": 700000,
+      "name": "Cities",
+      "type": "text",
+      "_id": "S0wj0jNk6sLqRGkX",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\"></p><blockquote><p class=\"p2\" style=\"text-align:justify\">“I’ve been to Altdorf and thought that was big. I’ve seen the size of Marienburg. But they ain’t nothing compared to Remas, not in size and certainly not in stink.”– <strong>Gunther Haarkonen, Emp ire Merchant</strong><span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">“It’s not that big, although the locals would certainly have you believe otherwise.” <strong>– Juan-Manuel Esteben, Estalian Caravan Leader</strong><span class=\"Apple-converted-space\"><strong> </strong></span></p><p class=\"p2\" style=\"text-align:justify\">“There’s nothing so magnificent as a Tilean city. Remas is so expansive, on one will ever be able to learn its every street. Luccini has more shrines than any other city in the Old World. The odour of Miragliano is the most powerful and distinctive in all the world. Whatever we do, we do it bigger and better than anyone else. So that smell that you’re complaining about? You’ll remember it when you go back home and you will judge all other stinks by it, I promise you.” <strong>– Enrico Bassilica, Tilean Mercenary</strong><span class=\"Apple-converted-space\"><strong> </strong></span></p></blockquote><p class=\"p3\" style=\"text-align:justify\">Whether or not they are aware of it, every Tilean community large or small is governed by one of the mighty city-states. These cramped centres of commerce are where the most powerful and wealthy princes have gathered, imposing their right to collect taxes and raise armies to defend themselves from their rivals. The struggle between the city-states is an ever changing dance of influence and territorial claims, frequently settled by military engagements but just as often by posturing, bribery and ransoms.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">Because of this arrangement, politics plays an enormous role in the lives of most Tileans, though most will have no voice in it. Conscription and rationing are common, but it’s accepted as a temporary sacrifice to ensure long term survival. After all, “the call of the city is the order of the state,” or so the princes assert in their courts. But things are not as despotic as one might expect, and vil lages along the borders between two states may choose to join either. It serves each prince to be agreeable as well as ambitious, as Tileans have a strong sense of pride and they will only follow those that they trust and respect.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">One cannot forget that Tilea has been inhabited for more than four thousand years, existing in much the same state as it<span class=\"Apple-converted-space\"> </span>is in today. Powers may change hand or natural disasters may empty a region of its entire populace, only later to be resettled and rebuilt using the same stone blocks hewn by bronze axes in ancient times. Thus the typical Tilean settlement is composed of buildings of various styles but with walls of a mottled grey, lichen-crusted colour. Even the roof tiles are likely to be grey, made from slate that’s found all along the coast and in great deposits that rise out of the plains Only in the larger towns and cities is there a trend to whitewash walls and furnish houses with red clay tile roofs. Still, the peculiars of any region will give rise to unique traditions, lending to each small village a strong sense of identity, and to each city a certain character.<span class=\"Apple-converted-space\"> </span></p><h2><strong>Remas</strong><span class=\"Apple-converted-space\"><strong> </strong></span></h2><p class=\"p6\" style=\"text-align:justify\">This city is built on the former capital of the Reman Empire that briefly united the lands of Estalia and Tilea under a single banner. Approaching Remas by water, visitors will witness one of the busiest ports in the Old World, spanned by a stunningly high bridge of Elvish construction. Across the millennia the city has grown into the hills overlooking the vast harbour, and it has so many districts that a council of 50 is required to govern it. These are kept in check by a three-member order that forms the true leadership, giving some truth to the local assertion that nothing in Remas is decided by just one person.<span class=\"Apple-converted-space\"> </span></p><h2><strong>Luccini</strong><span class=\"Apple-converted-space\"><strong> </strong></span></h2><p class=\"p5\" style=\"text-align:justify\">In the poorer south of Tilea, the city-state of Luccini is the centre of culture. Luccini very much captures the soul of the people it governs, being a feisty folk who resent any who would look down upon them. Luccinians are proud and stubborn, believing themselves the only true Tileans and deserving of envy.This city is best known for its Elven ruins and as a meeting place for worshippers of Morr. It is home to the legendary Acropolis of the Elves, protected by the cultists of Morr who forbid any to enter its the chambers and passageways at its heart. There is a darkness about Luccini, as old and holy secrets are carefully guarded lest they reveal too much about the dead.<span class=\"Apple-converted-space\"> </span></p><h2><strong>Verezzo</strong><span class=\"Apple-converted-space\"><strong> </strong></span></h2><p class=\"p5\" style=\"text-align:justify\">Bridging the croplands between Remas and Luccini is the city of Verezzo, the lifeblood of the country, and a microcosm of Tilea itself. Verezzo’s decadent nobles build towers ever higher above the hovels of the poor, showing their superiority. They commission white marble bridges to link their towers, allowing them to forever ignore the squalid peasants beneath them.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">Much entertainment is to be had at the plebs’ expense as every Holy Day the starving masses are invited to chariot races encircling the city, or sometimes running straight through its central avenues. These are always sponsored by one of the “colours,” the rival merchant guilds that run the city and are constantly trying to outdo each other. The excesses and corruptions of this old city are grown into its foundations at this point, and even the normally defiant commoners of Tilea accept the state of things in Verezzo because it has always been so. Besides, the baubles and trinkets thrown down from the towers of the elite almost make up for the oppression.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066140411,
+        "modifiedTime": 1793066140411,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!HQL0yiyyzAudKrWa.S0wj0jNk6sLqRGkX"
+    }
+  ],
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3d68ea36386c97fa6129da1b633a2f6142fd0699"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066140411,
+    "modifiedTime": 1793066140411,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!HQL0yiyyzAudKrWa"
+}

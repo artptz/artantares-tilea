@@ -1,0 +1,927 @@
+{
+  "folder": "EmSTQJKet8erG7Yu",
+  "name": "Remas",
+  "_id": "BhZS96hSdSN9addg",
+  "pages": [
+    {
+      "sort": 200000,
+      "name": "History of Remas",
+      "type": "text",
+      "_id": "L6CYSP8JM2RTGVsQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\"><span class=\"s1\">K</span>nown affectionately as the Old Mother by its inhabitants, the city of Remas has the most chequered history of all Tilean cities. The original Elven colony upon which Remas is built was razed by an army of vengeful Dwarfs as its populace fled via the city’s elaborate harbour. The tribes of Tilea would later use Remas as the capital of the first Reman Empire, naming both the city and the empire itself after the greatest of their princes. The city was then razed for a second time during the conquest of Tilea by the Nehekharan Empire.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Re-founded by the cult of Myrmidia after Macaria Medina’s apotheosis, the city would form the capital of the second Reman Empire which would go on to last for nearly four hundred years. Originally planned as two great fortresses; one housing the cult of Myrmidia and the second containing the political apparatus of the empire, Remas was wracked by civil war when the Senate accused the priests of hampering the rule of the Empire and the fortresses went their separate ways.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The city of Remas has always been a martial city and its appearance reflects this. The high temple of Myrmidia is a fortress in its own right while the walls that surround the city proper are some of the finest in the Old World. The city’s houses reflect the cultures of the mercenary hordes that have been hired from throughout the Old World. Onion-domed temples and squat yurts from Kislev are mingled amongst the elegant wood and lacquer constructions of the Nipponese. Simple, practical architecture from the Empire contrasts with the ornate style of the Baroque and Gothic stonework of Tilea.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Ships of every type dot the city’s harbour and many pirate captains find it easy to sail in and visit the city unnoticed. When native Reman sailors turn to piracy, they tend to be even more vicious than Sartosans. Nearly every nation in the Old World is represented by a quarter in the city. Even the Elves have a few immaculate streets to call home, and Elven engineers have made small fortunes helping to preserve the structure of the Elven harbour over the years.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Like the sea itself, the city undergoes ebbs and tides of activity. During spring and summer months, the city is practically empty as the Reman Senate and Myrmidian temples dispatch mercenaries for campaigns around the Old World, and ships sail out for the trading season. In the autumn months, Remas’ harbour overflows with ships preparing for one last leg of travel to their home ports or docking for the winter months. During the winter months Remas is filled to near bursting by off-duty regiments and camp followers.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Fluctuations in the city’s population have occurred throughout Tilea's history. The cult of Myrmidia has nearly bankrupted itself hiring mercenaries to fight various wars abroad, as it did during the Araby wars, or chosen to consolidate its political strength through bribery and patronage, secure in its fortress-temple. Currently the city lies half empty as vast numbers of mercenaries have been paid to head north to fight in the Storm of Chaos and few have returned.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The city’s political situation has remained surprisingly stable since the famines of 2321 drove out the princes, because the merchants immediately formed a council to replace them. On the Council of Fifty, five members are elected from the cult of Myrmidia to represent the views of the Mount. The remainder are chosen from various guilds according to their political standing. A random lottery of Council members is held each year to name three Triumvir's who act as leaders of Remas and determine foreign, domestic and trade policy. Despite occasional outbreaks of fighting among the Triumvir's, mediation by the Council of Fifty has kept the peace within Remas for 200 years.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Ever since Consul Uffizi discovered a trove of Ancient Reman artefacts in the 14th century, the city has encouraged research into the history of both of the Reman Empires, directly leading to many aspects of they city’s culture being modelled on the titles and terms of this ancient empire. As Luccini contains a large number of Reman artefacts and documents a number of conflicts and thefts have been sponsored by Remas over the years.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.L6CYSP8JM2RTGVsQ"
+    },
+    {
+      "sort": 300000,
+      "name": "The Mount of Myrmidia",
+      "type": "text",
+      "_id": "fWGDCR4OxtlLvWCC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Known locally as the Mount, the largest temple in Remas is the grand temple of Myrmidia. The Mount of Myrmidia is massive walled citadel that is effectively a state-within-a-state. The Mount is a many-tiered fortification, with elegant but formidable walls and towers bristling with ballistae. The Mount is patrolled by white-cloaked, halberd-wielding guards who are traditionally recruited from the Black Mountain regions of Averland, Wissenland and the Border Princes. Several Myrmidian templar orders maintain chapter houses within the Mount, including the Knights of the Merciless Titan, the Knights of the Sword of Glory and the Knights of the Righteous Spear. These knights are responsible for keeping the routes between the Mount and the surrounding Tilean settlements safe for pilgrimages to the great temple. Merchant caravans often travel alongside patrolling bands of Myrmidian templars to take advantage of their protection. The priests and initiates of the Order of the Eagle serving in the Mount consider it to be the foremost temple of Myrmidia, for it is the historic monument marking the ascension of Myrmidia from mortal to goddess. Both are claims that the high temple in the Estalian City of Magritta disputes and as the overall head of the Myrmidian cult currently resides in Magritta it is the Estalian temple that is winning the dispute at the moment, much to the annoyance of the priests of Remas<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.fWGDCR4OxtlLvWCC"
+    },
+    {
+      "sort": 400000,
+      "name": "University of Remas",
+      "type": "text",
+      "_id": "o4RT9HXSIMKhJe5S",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Chapter 9: Remas<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Many scholars acknowledge the University of Remas as the<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\"><span class=\"s1\"><strong>49</strong></span><span class=\"s2\"><em>P</em></span><em>art </em><span class=\"s3\">T</span><em>wo</em><span class=\"Apple-converted-space\"><em> </em></span></p><p class=\"p4\" style=\"text-align:justify\">oldest institution of learning in the Old World, where subjects such as logic, reasoning, rhetoric, mechanics and advanced agriculture were pioneered. Also home to the city’s high temple of Verena the many buildings of the University surround the Tower of the Heavens, a massive tower that seems to defy gravity with its many delicate flying buttresses.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">The University temple is home to the “Summarium Sapientarum Vulgarium Fabularumque de Gentibus Mundi Antiqui,” more commonly known as the Book of Myths. This massive volume is an ongoing record of history, although critical scholars argue that some of the earliest references are clearly fanciful. Nevertheless, scribes at Verenan temples around the Old World journey here to copy pages from this mighty tome. The great Verenan temples in Marienburg and Nuln both have near complete copies of the Book of Myths.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">The most recent scandal at the University occurred in 2499, when due to an upsurge of religious fervour incited by the Knights of the Holy Order of Saint Rembrand the Faithful several of the Universities staff fled the city after citizens discovered that they had links with the pirates of Sartosa. These exiles set up a rival institution in the City of Tobaro funded by the sale of treasures looted from the university, including the fabled Cornetto of Remas.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">Attached to one wing of the University is an entire gallery of artefacts and statues recovered from a building site near the Black Ruins nearly a thousand years ago. Several smaller items such as the Cornetto of Remas were found intact in near perfect condition but many of the artefacts were found shattered and broken. It took nearly three hundred years for dedicated teams of archaeologists to restore just half of the recovered objects. Now the artefacts stand on display, proud remnants of the Elven city and the Reman Empire from over 3000 years ago. This myriad assortment of statues and columns has inspired generations of Tileans.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.o4RT9HXSIMKhJe5S"
+    },
+    {
+      "sort": 500000,
+      "name": "The Black Ruins",
+      "type": "text",
+      "_id": "o29kTucfdogSK8YX",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">These ruins were once a mighty temple to an unknown sun god. The rubble is interspersed with massive statues of winged figures wielding flaming greatswords, seemingly untouched by whatever tragedy occurred here. Occasionally mutilated corpses appear, crucified, at the Black Ruins, clutching signed confessions of their research into magic, anatomy or the worship of forbidden gods. The largest building still has its domed roof intact, decorated with an impressive fresco entitled the ‘Dawn of Doom’ by renowned artist Michele Mastrangeli. This apocalyptic painting portrays a mirror image of Remas, but with the temple complex portrayed as the only standing structures in a ruined, daemon-infested cityscape.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">Tavern tales tell of people who have visited the Black Ruins in the dead of night, only to find grim figures clad in black and silver engaged in acts of worship or torturing their victims, because of this the ruins are avoided by most Remans. Recently black clad worshippers from the ruins emerged to battle the fearsome skeletal daemon that was unleashed upon the city by decadent cultists, although since then the inhabitants of the ruins have returned to their secrecy.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.o29kTucfdogSK8YX"
+    },
+    {
+      "sort": 600000,
+      "name": "The Senate",
+      "type": "text",
+      "_id": "Lg5HnrwkaWNMF0b8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">While the head of state is effectively the Triumvirate, Remas is also home to a senate of fifty powerful councillors who preside over the complex business of ruling the city. The Senate holds responsibility for debating the major political issues of the day and passing laws created by the Triumvirate. Located in a many-windowed building in the heart of the merchant district that overlooks the Bay of Remas, the senate represents the most powerful merchant houses in the city.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The senate was most recently shocked to the core when a captain of the city guard discovered prominent senator Maria Sarsosa draining the blood from a patrolling city watchman. Revealed as a Lahmian vampire, Maria fled north of the River Remo where she raised a powerful army of Undead to raze the city to the ground. Although the Senate of Remas successfully defeated the renegade senator’s army with a hired Condotteire and publicly executed her this scandal has caused the senate to lose much of the average citizens’ trust.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">In theory the state still has authority over the rest of the Tilean city states as the captial of the Reman Empire. As a result several times in Tileas history the Senatus Consultum Ultimum or Ultimate Decree has been passed by Remas to provide an excuse for a war or reinforce its claims upon territory. This has had mixed results at best so its use is seen as antiquated.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.Lg5HnrwkaWNMF0b8"
+    },
+    {
+      "sort": 700000,
+      "name": "The Great Bridge",
+      "type": "text",
+      "_id": "EX73oLMf3J6PePdo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The bay of Remas is too shallow for even the nimble Elven catamarans to dock near the city proper. To compensate, a<span class=\"Apple-converted-space\"> </span>huge circular harbour was excavated in the bay so the great trading ships could dock. The harbour itself is in a poor state of repair because the ancient Elven stonework has resisted Tilean mortar. Colossal slabs of masonry lie scattered in the bay of Remas posing a navigation hazard to shipping. The mighty galleys of Remas’ fleet use these obstacles to tactical advantage, training in defence techniques that would force hostile ships onto the submersed masonry.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">Connecting the harbour to the city itself is the Great Bridge, an ancient and titanic Elven construction so wide that the citizens of Remas have lined it with soaring towers, fine houses and palaces. Integrating human structures with the existing Elven stonework posed the challenge of ensuring that building foundations were stable. Many of the residences lining the Great Bridge are four or five stories high and lean at precarious angles.<span class=\"Apple-converted-space\"> </span></p><p class=\"p4\" style=\"text-align:justify\">The Great Bridge is one of the liveliest parts of Remas. The lower stories of its buildings are often taken up with shops or cafés serving fine wine or exotic Arabyan coffee. Market stalls and wandering peddlers take up every inch of available roadside space. Several private clubs are home to consortiums of likeminded individuals such as rich students, merchants and members of minor or forbidden cults.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.EX73oLMf3J6PePdo"
+    },
+    {
+      "sort": 800000,
+      "name": "The Hellenic Merchant House",
+      "type": "text",
+      "_id": "ld5NgVct9m6D1Zep",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Many politicians regard Luccini as the most powerful of the Tilean city-states, but Remas glorifies the ancient past when it was the jewel of Tilea and capitol of the Eternal Empire. Tileans regard the merchants of Remas as typically aggressive and arrogant, and this perception is reinforced by the members of the Hellenic, merchant house. Many powerful Reman merchants of once noble bloodlines are affiliated with Hellenic House, as well as agitators, scholars and assassins.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">On the surface the Hellenic House is no different from the many other merchant families and consortiums throughout Tilea, but it is actually the focal point of anti-Republican sentiment in Remas and is situated just a stone’s throw away from the Senate building. The current mistress of the house is Duchessa Pulcrezzia Colonna, first daughter of the aged and deposed Duke of Remas and wife of Earl d’Bloiz of Vieux-sávoir of Carcassonne and she plots constantly to restore an Emperor to the throne of Remas.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The Duchess is a dark ravishing beauty, and notoriously temperamental. In particular, Pulcrezzia is critical of her courtly entertainment and whispered rumours suggest that she frequently sends unsatisfactory performers to her personal torture chambers.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.ld5NgVct9m6D1Zep"
+    },
+    {
+      "sort": 900000,
+      "name": "The Academy di Grassi",
+      "type": "text",
+      "_id": "WyWFiyxqUrx3MURE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Master Giacomo di Grassi was one of Tilea’s finest duellists and he opened a fencing school in the summer of 1969. The academy specialises in training young officers and merchants in the art of fighting with the Reman gladius, a short sword patterned upon those created by Estalian tribesmen before the rise of Myrmidia. Unlike the lighter, more precise foils and rapiers used by most nobles, the gladius can cause considerable damage with a thrust. Di Grassi’s techniques revolve around using the gladius with modern fencing techniques, using the short, heavy blade to control opponents swords before finishing them off with daggers or bucklers<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">A pleasant cobbled piazza lined with citrus trees serves as the schoolyard where strapping, bare-chested young men thrust at each other with padded training blades. Around the central square are located many terraced buildings housing small cafés where eligible young women, merchants and senators often congregate to drink wine, gossip and watch the duellists in training. Built on the foundations of patronage and vendetta, the Academy is at the heart of Remas’ politics, one-upmanship and its elaborate and scandalous romances.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.WyWFiyxqUrx3MURE"
+    },
+    {
+      "sort": 1000000,
+      "name": "The Triumvirate Walls",
+      "type": "text",
+      "_id": "6X3pDa7xBAxqQQ0i",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The Triumvirate Walls consist of three interconnected city walls. The crumbling Old Wall encircles the Lagoon of Remas itself. The Old Wall encompasses the run-down settlements of fishermen and ramshackle tenements that house the city’s poorest citizens. The buildings, thickly coated in cheap flaking paint, run along steep streets leading from the partially embanked lagoon shore towards more prestigious houses that are sandwiched between the Old and Middle Walls.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\">The Middle Wall, although newer than the Old Wall, is still ancient by most people’s standards. It encompasses what once was a prestigious area of Remas before the Great Bridge became a fashionable district for Remas’ most powerful merchants to live in. The noble families that shun trade dealings, and who are often involved in plots and schemes to dispose the Triumvirate and return the city to royal rule live in this area<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The Outer Wall is the most modern and formidable. It reaches up to a hundred feet high in places and is fortified with ornate towers that bristle with gun-batteries and ballistae. Three mighty trade gates provide the main entry points to the city itself, although several small postern gatehouses are also inset into the Outer Wall.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.6X3pDa7xBAxqQQ0i"
+    },
+    {
+      "sort": 1100000,
+      "name": "The Old Palazzo",
+      "type": "text",
+      "_id": "RlsqfmPbDkzZrRWG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Standing between the Old and Middle Walls is the Old Palazzo, the former seat of government before the rise of the Republic. The building is now a shell of clashing architectural styles and all the interior grandeur was looted long ago. Omilio Mondo the Pretender most recently fortified the Old Palazzo, but upon his death construction ceased and most of his improvements have been reduced to rubble.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Most recently, citizens have reported seeing activity around the grounds of the Palazzo; black cloaked figures moving amidst the ruins. Speculation abounds as to whether the cloaked figures are anarchists, cultists or even necromancers. The governing Triumvirate is offering a substantial reward to any citizen who provides useful tips leading to an arrest. Of course, the district watch house has been flooded by dubious offers of ‘proof’ followed by demands for reward money.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.RlsqfmPbDkzZrRWG"
+    },
+    {
+      "sort": 1200000,
+      "name": "The Temple of Morr",
+      "type": "text",
+      "_id": "RGsnGNmWXFjhCL00",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Standing upon the white cliffs nestled within the city’s Old Wall, this ancient temple has survived riots, plagues and even abandonment on several occasions when rival cults ousted all the priests of<span class=\"Apple-converted-space\"> </span>Morr from the city. Unlike in Luccini, Morr has never been a popular god in Remas, for his priests are seen as practitioners of necromancy. Morr’s traditions are associated with the Mortuary cult that dominated the Nehekharan Empire, and it was the Nehekharans who long ago overthrew the Classical Empire of Remas.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">During its current period of ostracism from Remas, the militant Morrian sect called the Fellowship of the Shroud has made its headquarters in the nearby town of Monte Negro. Many members of the priests from Luccini despise the Fellowship. As a result, the Reman priests of Morr are often commanded by their southern neighbours to act against the Fellowship.<span class=\"Apple-converted-space\"> </span></p><p class=\"p3\" style=\"text-align:justify\">Another major reason for the cult’s unpopularity is its practice of disposing of the dead by throwing them from the cliff-top temple into the lagoon below. Many of the city’s merchants regard the practice as barbaric; however Remas’ fishermen are grateful, for they believe the sunken dead are restless and act as shepherds, guiding fish into their nets.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.RGsnGNmWXFjhCL00"
+    },
+    {
+      "sort": 1300000,
+      "name": "The Republican Guard",
+      "type": "text",
+      "_id": "VrO1ZK6vINAbQILx",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The true military might of Remas lies in the Republican Guard. While the city’s merchant princes hire independent mercenaries to guard their exquisitely carved palazzos, the Republican Guards have acted as guardians and soldiers of the Senate since the rise of the Republic. The Republican Guard is funded by taxes levied upon each merchant of the city, resulting in critics describing the Guard as little more than a state-sanctioned protection racket.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The Guard’s barracks are located within the twin Elven fortresses that adorn each end of the Great Bridge overlooking the harbour and the city proper. These granite fortresses are eighty feet high, supported by massive buttresses and constructed with massive gates made of some ancient Elvish iron recovered from the ruins of ancient Remas.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The Republican Guards are extraordinarily wealthy. Each guardsman is clad in plate armour embellished with gems and gold plating, and is armed with a fine sword, rapier and traditional pike. Traditionally each guardsman also wears a scarf of the finest red silk to represent the bloodied bandages of his comrades who were injured or lost in battle. It has become fashionable for guardsmen to wear scarves donated by the adoring ladies of Remas.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Sometimes individual Republic Guard officers lose favour with the Senate. Most recently, Captain ‘Ragged’ Ricco was instrumental in the storming of the Old Palazzo and subsequent execution of Omilio Mondo the Pretender. After this incident Captain Ricco became a popular figure in the city, so the Senate regarded the young upstart as a threat and exiled him along with his company. The former Guard captain has worked as a mercenary throughout Tilea for the last twenty years.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.VrO1ZK6vINAbQILx"
+    },
+    {
+      "sort": 1400000,
+      "name": "The Braccheschi Condotta Guild",
+      "type": "text",
+      "_id": "c6g6zGLHHjqCTC2F",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The Bracceschi guild is the largest in Tilea, boasting half the land’s Condottiere on its books and operating branch offices in other cities. The guild acts much like other Condotta guilds by serving the Condottiere as their negotiator with the city-states. The guild safehouse is also where the original copies of the Condotta are stored, countersigned by all parties with triplicate copies issued to both employer and Condottiere for reference.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The guild has branched out into several related fields such as providing administration and logistics for the sizeable mercenary armies and acting as a handler for the pay provided by their employers. All of which has led to some suspicion that guild is not quite as neutral as claims, both the cult of Myrmidia and the cult of Verena are said to be conducting investigations into the guilds conduct over the last several years. Of particular concern recently are the guilds contracts with the forces defeated at Miragliano.<span class=\"Apple-converted-space\"> </span></p><p class=\"p2\" style=\"text-align:justify\">The guild's day-to-day operation is overseen by an appointed guild master in each city. Bracceschi’s guild masters supervise contract negotiations and affairs relating to other guilds and cults of the area. Guild masters send reports and copies of all contracts back to Remas, where they are compiled by the council of twelve who write monthly reports for Lorenzo il Moro. Lorenzo is the guild’s head representative and face on Remas' council of fifty. Until the contracts sent to Remas have been stamped with Lorenzo’s seal and returned to the issuing guild, no new contracts can be taken on by that branch.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">The guild’s facilities include both front offices and strong offices. Front offices are elegantly decorated quarters located in a townhouse or villa, intended to impress clients and allow for negotiations to be conducted in an atmosphere of civilisation and comfort. Strong offices are veritable fortresses guarded by highly paid veteran mercenaries. At the heart of the strong offices are the Condotta vaults which are opened only on the order of the local guild master. Opening the Condotta vaults requires three separate keys that are held by employees who've served the guild for more than three years.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.c6g6zGLHHjqCTC2F"
+    },
+    {
+      "sort": 1500000,
+      "name": "The Elf Quarter",
+      "type": "text",
+      "_id": "wrN7I0f5yDy08Its",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Contained within the Middle Wall along the main route towards the docks is the Elven quarter. The Elves’ white marble houses are separated from the rest of the city by an exquisite inner wall, making their district almost unnaturally quiet. The Elves have enjoyed an open contract to supply the trading houses of Remas with goods from Ulthuan and Lustria since 2400, and there are usually several Elven trading ships either departing or arriving at the docks every week. Several Elven ships have permanent berths at the docks.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">Some of Remas’ more radical citizens are suspicious of what the Elves are doing inside their walls. Most citizens are content to spread gossip of the goings-on in the Elven quarter, but stranger folk are known to crowd around the Elven gates for days, hoping to see just a brief glimpse of an Elf. It’s considered a mark of Ranald’s favour to rob an Elven house and return in one piece, let alone with anything of value. Consequently, Reman Elves employ very few humans.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.wrN7I0f5yDy08Its"
+    },
+    {
+      "sort": 1600000,
+      "name": "The Field of Myrmidia",
+      "type": "text",
+      "_id": "ZROyCmaSNajyxUQn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This flat and muddy field is located outside the city walls to the south of the city. The Field of Myrmidia is where mercenaries and their leaders pitch tents for the winter, though some manage to secure housing in the city proper as long as their heavy arms are left behind. Mercenary captains spend the greater portion of their winters in the Field of Myrmidia, overseeing their soldiers and negotiating contracts with clients until the next campaign season starts.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">When the new campaign season begins, the fields become a recruiting ground. During this time, thousands of prospective mercenaries crowd the field to sign on with mercenary companies and Condotta guilds. Trestle tables and tents crowd the area while merchants and thieves (who according to some are essentially the same) trawl through the crowd looking to part recruits and mercenaries from their money.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">In the summer months when mercenaries are abroad, the Field of Myrmidia is dotted with native Remans looking to cool down and escape the humidity of the city. While in the winter the field almost becomes a marsh, its dank and muddy waters adding to the fog of the city.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.ZROyCmaSNajyxUQn"
+    },
+    {
+      "sort": 1700000,
+      "name": "Piazza del Popolo",
+      "type": "text",
+      "_id": "Zgm7pLOSNDpbJ9ep",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">This vast square is the first sight that visitors see as they enter the east trade-gate. Nearly half a mile across, the Piazza della Popolo is a sea of activity most days. Market stalls that are unable to set-up on the Great Bridge sell hot coffee and exotic snacks on the western side of the Piazza della Popolo instead. On the east side, visitors and wagons entering the city go through the long process of inspection by the city militia and occasionally the Republican Guard. Surrounding the Piazza are temples and shrines dedicated to each of the major deities and several minor ones including the merchants’ god Mercopio.<span class=\"Apple-converted-space\"> </span></p><p class=\"p1\" style=\"text-align:justify\">In the centre of the Piazza della Popolo is an ornate wooden platform upon which the city’s stocks and gallows are perched. In addition to the ten stocks on the platform, another thirty are scattered around the piazza for punishing minor crimes such as drunkenness. Arranged around the central platform are dozens of stone benches for the crowds to rest or stand upon for a better view. Conveniently, the stone slabs are too heavy to serve as weapons in the event an execution turns ugly. Executions occur once a week, and are conducted either by hanging or beheading depending on the crime. On feast days, the crowd may appeal for prisoners sentenced to death to be pardoned by the cult of Verena.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.Zgm7pLOSNDpbJ9ep"
+    },
+    {
+      "sort": 250000,
+      "name": "Montecchi and Capoffero Families",
+      "type": "text",
+      "_id": "S07vswnAVyOizRAZ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">These two family lineages extend deeply into Reman society. Members of each family can be found in prominent positions among both merchant and criminal circles. Most of Remas’ citizens tend to sympathise predominantly with one faction or the other.<span class=\"Apple-converted-space\"> </span></p><p style=\"text-align:justify\" class=\"p1\">Crime in the city tends to be run by one of these families, with much smaller criminal groups having to pay tribute and treat the head of one of the families as its patron or be wiped out. Criminals operating independently of them tend to have a short life span but this doesn’t stop the more daring entrepreneurs trying. Raids and reprisals are commonplace, particularly in the poorer quarters of the city. More than one riot has started as the result of violent intrusions by rival crime gangs onto another faction’s territory.<span class=\"Apple-converted-space\"> </span></p><p style=\"text-align:justify\" class=\"p1\">The heads of these powerful families, Edoardo Montecchi and Sabino Cappofero, are watched closely by the head of the temple of Verena in Remas, Marcel Macaroni. High Priest Macaroni would dearly love to have both men executed, but his hands are tied by the same laws that he’s required to enforce. So far, both men have proved more than capable of ensuring that evidence never links them directly to prosecutable crimes.<span class=\"Apple-converted-space\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1794094240434,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.S07vswnAVyOizRAZ"
+    },
+    {
+      "sort": 1775000,
+      "name": "Urbino",
+      "type": "text",
+      "_id": "Z2OcSTOqG2jnbBpA",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Urbino is a prosperous fishing town and waypoint for caravans heading towards Bretonnia and the Empire. Urbino is also a free city, administered by the town’s guilds with no obligations to Remas. As a result, the town has become a fierce political battleground between the Reman and Miragliano city-states, each of which has infiltrated the town council in an attempt to control local trade and anchorage rights. Most councillors in Urbino are involved in the bickering and any measures put before the council are usually used to increase the influence of one city state or the other. At the moment Urbino is home to the Miragliano naval fleet which managed to escape the destruction of its city relatively intact. Around a thousand refugees from Miragliano are currently sheltered in temporary quarters outside the city under the guidance of Signor Alonzo Allbergo – a prominent member of the city’s Signori. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.Z2OcSTOqG2jnbBpA"
+    },
+    {
+      "sort": 2100000,
+      "name": "Catrazza",
+      "type": "text",
+      "_id": "uutwhYZmu7g4kkrh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Perched on cliffs overlooking the Tilean Sea, this small village is barely noticeable from afar, except for the ruins of several high towers. From these towers the inventor Daddallo charted the flight of birds and dreamt of one day flying himself. Shortly after his first attempt at creating a flying machine, Daddallo was promptly run out of town when his contraption plummeted into the rocky sea, taking with it the Baron’s son. Daddallo would spend years roaming Tilea, inventing dozens of contraptions for the princes of city-states. However, it wasn’t until Daddallo reached Verezzo that he finally achieved his dream. Using volunteers and a goodly amount of funding supplied by the city, Daddallo founded his famous Birdmen. He recruited the captains of the Birdmen from his boyhood friends in Catrazza. Daddallo now roams the Old World as an adventurer, but his Birdmen still feature prominently in the armies of Verezzo and other city-states. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.uutwhYZmu7g4kkrh"
+    },
+    {
+      "sort": 2200000,
+      "name": "Nonucci",
+      "type": "text",
+      "_id": "h87MvOPOTaJMYLsv",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">The village of Nonucci is located on a small island in the Tilean Sea along with the Fortezza di Penitente. The Fortezza is a tall tower with a deep dungeon housing Myrmidian heretics sentenced to life imprisonment. Heretics are given the chance to atone for their sins by a strict regime of fasting and prayer. Guards chosen to look after the inmates usually consider a term of service at the Fortezza di Penitente little better than punishment, so conditions vary from strict and unpleasant to corrupt and barely tolerable. The prison usually holds around thirty to a hundred criminals in its cells while around twenty templars and priests of the Order of the Raptor’s Gaze are stationed here to watch over them. </p><p style=\"text-align:justify\">Currently the prison’s longest serving inmates are Catarina Farsa and Linda Verner, a Tilean and Imperial respectively. The pair has shared the same cell for nearly twenty years, and nowadays nobody can remember what they were originally sentenced for. Catarina and Linda have recently launched an appeal proclaiming their innocence, but since nobody can quite remember what they were charged with (the women were never actually told themselves) it’s anybody’s guess what will happen next. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.h87MvOPOTaJMYLsv"
+    },
+    {
+      "sort": 1850000,
+      "name": "Varieno",
+      "type": "text",
+      "_id": "ZJBe0UiRkbnpUi14",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p style=\"text-align:justify\">Duke Manin has become increasingly oppressive in his rule of this small town. First he introduced a system of passports and taxes designed to control citizenship, meanwhile visitors were forced to register at the city gates and have their weapons held until they departed. Duke Manin told indignant travelling nobles that his laws were purely intended to protect the town from bandits and vagabonds plying the trade road from Trantio and the Trantine Hills. However, Duke Manin’s methods have become excessive of late. A curfew is now in effect, and several months ago the duke sent a letter to recruit the elf Menghil Manflayer, a renowned torturer and mercenary for hire.</p><p style=\"text-align:justify\">A little over a month ago, a group of mercenaries arrived in Varieno by night and swiftly slew the gate guards before marching to the Duke’s tower. The next night, half a dozen tall men clad in black and purple apprehended many of Varieno’s residents on charges of treason. At dawn, Duke Manin tried and prosecuted nearly a dozen residents as subversive agents and subjected them to tortures so extreme that several women in the audience fainted outright, and Old Geraldo keeled over dead from shock. Duke Manin’s torture spree has continued since then. People are seized from their homes late at night, tortured into confession and found dead in the morning tied to posts. Caravans are beginning to avoid the Varieno route as a result of the ongoing atrocity. </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.ZJBe0UiRkbnpUi14"
+    },
+    {
+      "sort": 275000,
+      "name": "Remas",
+      "type": "text",
+      "_id": "ccVh36ifddjyoHTG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.fWGDCR4OxtlLvWCC]{The Mount of Myrmidia}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.o4RT9HXSIMKhJe5S]{University of Remas}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.o29kTucfdogSK8YX]{The Black Ruins}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.Lg5HnrwkaWNMF0b8]{The Senate}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.EX73oLMf3J6PePdo]{The Great Bridge}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.ld5NgVct9m6D1Zep]{The Hellenic Merchant House}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.WyWFiyxqUrx3MURE]{The Academy di Grassi}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.6X3pDa7xBAxqQQ0i]{The Triumvirate Walls}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.RlsqfmPbDkzZrRWG]{The Old Palazzo}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.RGsnGNmWXFjhCL00]{The Temple of Morr}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.VrO1ZK6vINAbQILx]{The Republican Guard}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.c6g6zGLHHjqCTC2F]{The Braccheschi Condotta Guild}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.wrN7I0f5yDy08Its]{The Elf Quarter}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.ZROyCmaSNajyxUQn]{The Field of Myrmidia}</p><p>@UUID[Compendium.artantares-tilea.journals.JournalEntry.BhZS96hSdSN9addg.JournalEntryPage.Zgm7pLOSNDpbJ9ep]{Piazza del Popolo}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1793066142804,
+        "modifiedTime": 1793066142804,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.ccVh36ifddjyoHTG"
+    },
+    {
+      "sort": 1737500,
+      "name": "Ponte Eterno",
+      "type": "text",
+      "_id": "28kZ3obbQ6WavhFt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Spanning the mouth of the lagoon, Il Ponte Eterno—also known as the Great Reman Bridge—is a colossal granite structure that connects the two halves of the city across the harbor. Resting on massive gray pillars, it stands high enough to allow the fast warships of Remas to pass easily into the sea. Built on a scale that would impress even a Dwarf, the bridge stretches nearly two miles long and four hundred yards wide.</p><p>More than just a vital roadway, the bridge supports rows of magnificent multi-story palazzos on both sides. These luxury dwellings belong to the city's fifty ruling Merchant Princes and the governing triumvirate chosen from their ranks. Built like small fortresses, the mansions feature narrow lower windows for security, while their upper levels showcase grand stained-glass windows, skylights, and sweeping balconies that look out over both the sea and the lagoon.</p><p>Each noble house competes for prestige through lavish architecture, flying colorful heraldic banners alongside the flags of the mercenary companies hired to protect their interests. To safeguard against naval attacks like the historical sacking by elven corsairs, two-story fortresses equipped with artillery batteries are positioned at regular intervals along the bridge.</p><p>Access to Il Ponte Eterno is strictly controlled at both ends by solid iron gates flanked by massive towers. Here, helmeted soldiers of the Republican Guard armed with halberds monitor all traffic, turning away anyone without legitimate business. Soaring above the mansions are the bridge's signature leaning towers, whose extraordinary, gravity-defying angles are supported by immense stone buttresses rising directly from the water.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "XtBZYPNGm0g6PJIk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "wfrp4e",
+        "systemVersion": "10.1.2",
+        "createdTime": 1794095680156,
+        "modifiedTime": 1794095693010,
+        "lastModifiedBy": "XtBZYPNGm0g6PJIk",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!BhZS96hSdSN9addg.28kZ3obbQ6WavhFt"
+    }
+  ],
+  "categories": [],
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "XtBZYPNGm0g6PJIk": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "dfcb096e3ccf699c30d44a2d89bb914fc122df50"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.369",
+    "systemId": "wfrp4e",
+    "systemVersion": "10.1.2",
+    "createdTime": 1793066142804,
+    "modifiedTime": 1794094252481,
+    "lastModifiedBy": "XtBZYPNGm0g6PJIk"
+  },
+  "_key": "!journal!BhZS96hSdSN9addg"
+}
