@@ -90,5 +90,7 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "manifest": "https://github.com/artptz/artantares-tilea/releases/latest/download/module.json",
+  "download": "https://github.com/artptz/artantares-tilea/releases/download/v0.1.0/antares-tilea.zip"
 }
